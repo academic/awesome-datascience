@@ -22,3 +22,4 @@ Awesome #DataScience Bloggers
 - [Quora Data Science](http://www.quora.com/Data-Science)
 - [Siah](http://openresearch.wordpress.com/)
 - [Data Science Report](http://blog.starbridgepartners.com/)
+- [Louis Dorard](http://www.louisdorard.com/blog/)
