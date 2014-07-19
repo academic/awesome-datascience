@@ -1,0 +1,34 @@
+Awesome #DataScience Twitter Accounts 
+
+- [Wes McKinney](https://twitter.com/wesmckinn) - Pandas (Python Data Analysis library).
+- [Matthew Russell](https://twitter.com/ptwobrussell) - Mining the Social Web.
+- [Greg Reda](https://twitter.com/gjreda) 
+- [Kevin Davenport](https://twitter.com/KevinLDavenport)
+- [Julia Evans](https://twitter.com/b0rk) - Hacker - Pandas - Data Analyze
+- [Hakan Kardas](https://twitter.com/hakan_kardes) - Data Scientist
+- [Big Data Science](https://twitter.com/analyticbridge) - Big Data, Data Science, Predictive Modeling, Business Analytics, Hadoop, Decision and Operations Research.
+- [Ryan Orban](https://twitter.com/ryanorban)
+- [Sean J. Taylor](https://twitter.com/seanjtaylor)
+- [Drew Conway](https://twitter.com/drewconway)
+- [Data Science Central](https://twitter.com/DataScienceCtrl)
+- [Hilary Mason](https://twitter.com/hmason)
+- [Juan Miguel Lavista](https://twitter.com/BDataScientist)
+- [Data Science Tips](https://twitter.com/datasciencetips)
+- [Erin Bartolo](https://twitter.com/erinbartolo)
+- [Noah Iliinsky](https://twitter.com/noahi)
+- [Matt Harrison](https://twitter.com/__mharrison__)
+- [Data Science Renee](https://twitter.com/BecomingDataSci)
+- [Vamshi Ambati](https://twitter.com/vambati)
+- [Tony Ojeda](https://twitter.com/tonyojeda3)
+- [Prash Chan](https://twitter.com/MDMGeek)
+- [Clare Corthell](https://twitter.com/clarecorthell)
+- [Paul Miller](https://twitter.com/PaulMiller)
+- [Data Science London](https://twitter.com/ds_ldn)
+- [dj patil](https://twitter.com/dpatil)
+- [Gregory Piatetsky](https://twitter.com/kdnuggets)
+- [Peter Skomoroch](https://twitter.com/peteskomoroch)
+- [Monica Rogati](https://twitter.com/mrogati)
+- [Jeff Hammerbacher](https://twitter.com/hackingdata)
+- [John Myles White](https://twitter.com/johnmyleswhite)
+- [Quora Data Science](https://twitter.com/q_datascience)
+- [Data Science Report](https://twitter.com/TedOBrien93)

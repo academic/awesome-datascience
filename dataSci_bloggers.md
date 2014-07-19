@@ -1,0 +1,24 @@
+Awesome #DataScience Bloggers
+
+- [Wes McKinney](http://blog.wesmckinney.com/) - Wes McKinney Blog.
+- [Matthew Russell](http://miningthesocialweb.com/) - Mining The Social Web.
+- [Greg Reda](http://www.gregreda.com/) - Greg Reda Personal Blog
+- [Kevin Davenport](http://kldavenport.com/) - Kevin Davenport Personal Blog
+- [Julia Evans](http://jvns.ca/) - Hacker School alumna
+- [Hakan Kardas](http://www.cse.unr.edu/~hkardes/) - Personal Web Page
+- [Sean J. Taylor](http://seanjtaylor.com/)
+- [Drew Conway](http://drewconway.com/)
+- [Hilary Mason](http://www.hilarymason.com/)
+- [Noah Iliinsky](http://complexdiagrams.com/)
+- [Matt Harrison](http://hairysun.com/)
+- [Data Science Renee](http://www.becomingadatascientist.com/)
+- [Vamshi Ambati](http://allthingsds.wordpress.com/)
+- [Prash Chan](http://www.mdmgeek.com/)
+- [Clare Corthell](http://datasciencemasters.org/)
+- [Paul Miller](http://cloudofdata.com/)
+- [Data Science London](http://datasciencelondon.org/)
+- [Peter Skomoroch](http://datawrangling.com/)
+- [John Myles White](http://www.johnmyleswhite.com/)
+- [Quora Data Science](http://www.quora.com/Data-Science)
+- [Siah](http://openresearch.wordpress.com/)
+- [Data Science Report](http://blog.starbridgepartners.com/)
