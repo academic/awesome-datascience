@@ -3,32 +3,32 @@ Awesome #DataScience Twitter Accounts
 - [Wes McKinney](https://twitter.com/wesmckinn) - Pandas (Python Data Analysis library).
 - [Matthew Russell](https://twitter.com/ptwobrussell) - Mining the Social Web.
 - [Greg Reda](https://twitter.com/gjreda) 
-- [Kevin Davenport](https://twitter.com/KevinLDavenport)
+- [Kevin Davenport](https://twitter.com/KevinLDavenport) - Organizer of http://sddatascience.com
 - [Julia Evans](https://twitter.com/b0rk) - Hacker - Pandas - Data Analyze
 - [Hakan Kardas](https://twitter.com/hakan_kardes) - Data Scientist
 - [Big Data Science](https://twitter.com/analyticbridge) - Big Data, Data Science, Predictive Modeling, Business Analytics, Hadoop, Decision and Operations Research.
-- [Ryan Orban](https://twitter.com/ryanorban)
-- [Sean J. Taylor](https://twitter.com/seanjtaylor)
-- [Drew Conway](https://twitter.com/drewconway)
-- [Data Science Central](https://twitter.com/DataScienceCtrl)
-- [Hilary Mason](https://twitter.com/hmason)
-- [Juan Miguel Lavista](https://twitter.com/BDataScientist)
-- [Data Science Tips](https://twitter.com/datasciencetips)
-- [Erin Bartolo](https://twitter.com/erinbartolo)
-- [Noah Iliinsky](https://twitter.com/noahi)
-- [Matt Harrison](https://twitter.com/__mharrison__)
-- [Data Science Renee](https://twitter.com/BecomingDataSci)
-- [Vamshi Ambati](https://twitter.com/vambati)
-- [Tony Ojeda](https://twitter.com/tonyojeda3)
-- [Prash Chan](https://twitter.com/MDMGeek)
-- [Clare Corthell](https://twitter.com/clarecorthell)
-- [Paul Miller](https://twitter.com/PaulMiller)
-- [Data Science London](https://twitter.com/ds_ldn)
+- [Ryan Orban](https://twitter.com/ryanorban) - Data scientist, genetic origamist, hardware aficionado
+- [Sean J. Taylor](https://twitter.com/seanjtaylor) - Social Scientist. Hacker. Facebook Data Science Team. Keywords: Experiments, Causal Inference, Statistics, Machine Learning, Economics.
+- [Drew Conway](https://twitter.com/drewconway) - Data nerd, hacker, student of conflict.
+- [Data Science Central](https://twitter.com/DataScienceCtrl) - Data Science Central is the industry's single resource for Big Data practitioners. 
+- [Hilary Mason](https://twitter.com/hmason) - Data Scientist in Residence at @accel.
+- [Juan Miguel Lavista](https://twitter.com/BDataScientist) - Principal Data Scientist @ Microsoft Data Science Team
+- [Data Science Tips](https://twitter.com/datasciencetips) - Tips and Tricks for Data Scientists around the world! #datascience #bigdata
+- [Erin Bartolo](https://twitter.com/erinbartolo) - Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr.
+- [Noah Iliinsky](https://twitter.com/noahi) - Visualization & interaction designer. Practical cyclist. Author of vis books: http://www.oreillynet.com/pub/au/4419 
+- [Matt Harrison](https://twitter.com/__mharrison__) - Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, ult|goalt-imate, organic gardening.
+- [Data Science Renee](https://twitter.com/BecomingDataSci) - Documenting my path from SQL Data Analyst pursuing an Engineering Master's Degree to Data Scientist
+- [Vamshi Ambati](https://twitter.com/vambati) - Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (Blog: http://allthingsds.wordpress.com )
+- [Tony Ojeda](https://twitter.com/tonyojeda3) - Data Scientist | Author | Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC
+- [Prash Chan](https://twitter.com/MDMGeek) - Solution Architect @ IBM, Master Data Management, Data Quality & Data Governance Blogger. Data Science, Hadoop, Big Data & Cloud.
+- [Clare Corthell](https://twitter.com/clarecorthell) - Dev, Design, Data Science @mattermark #hackerei
+- [Paul Miller](https://twitter.com/PaulMiller) - Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst. 
+- [Data Science London](https://twitter.com/ds_ldn) 
 - [dj patil](https://twitter.com/dpatil)
-- [Gregory Piatetsky](https://twitter.com/kdnuggets)
-- [Peter Skomoroch](https://twitter.com/peteskomoroch)
-- [Monica Rogati](https://twitter.com/mrogati)
+- [Gregory Piatetsky](https://twitter.com/kdnuggets) - KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
+- [Peter Skomoroch](https://twitter.com/peteskomoroch) - Creating intelligent systems to automate tasks & improve decisions. Entrepreneur, ex Principal Data Scientist @LinkedIn. Machine Learning, Product, Networks
+- [Monica Rogati](https://twitter.com/mrogati) - Data @ Jawbone. Turned data into stories & products at LinkedIn. Text mining, applied machine learning, recommender systems. Ex-gamer, ex-machine coder; namer.
 - [Jeff Hammerbacher](https://twitter.com/hackingdata)
 - [John Myles White](https://twitter.com/johnmyleswhite)
 - [Quora Data Science](https://twitter.com/q_datascience)
-- [Data Science Report](https://twitter.com/TedOBrien93)
+- [Data Science Report](https://twitter.com/TedOBrien93) - Mission is to help guide & advance careers in Data Science & Analytics
