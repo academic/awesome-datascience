@@ -36,6 +36,7 @@
 * [Schoolofdata](http://schoolofdata.org/)
 
 * [OpenIntro](http://www.openintro.org/) 
+* [Data science MOOC](http://datascience.sg/category/mooc/)
 
 
 
