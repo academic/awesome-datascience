@@ -6,20 +6,38 @@ Awesome #DataScience Bloggers
 - [Kevin Davenport](http://kldavenport.com/) - Kevin Davenport Personal Blog
 - [Julia Evans](http://jvns.ca/) - Hacker School alumna
 - [Hakan Kardas](http://www.cse.unr.edu/~hkardes/) - Personal Web Page
-- [Sean J. Taylor](http://seanjtaylor.com/)
-- [Drew Conway](http://drewconway.com/)
-- [Hilary Mason](http://www.hilarymason.com/)
-- [Noah Iliinsky](http://complexdiagrams.com/)
-- [Matt Harrison](http://hairysun.com/)
+- [Sean J. Taylor](http://seanjtaylor.com/) - Personal Web Page
+- [Drew Conway](http://drewconway.com/) - Personal Web Page
+- [Hilary Mason](http://www.hilarymason.com/) - Personal Web Page
+- [Noah Iliinsky](http://complexdiagrams.com/) - Personal Blog
+- [Matt Harrison](http://hairysun.com/) - Personal Blog
 - [Data Science Renee](http://www.becomingadatascientist.com/)
-- [Vamshi Ambati](http://allthingsds.wordpress.com/)
-- [Prash Chan](http://www.mdmgeek.com/)
-- [Clare Corthell](http://datasciencemasters.org/)
+- [Vamshi Ambati](http://allthingsds.wordpress.com/) - AllThings Data Sciene
+- [Prash Chan](http://www.mdmgeek.com/) - Tech Blog on Master Data Management And Every Buzz Surrounding It
+- [Clare Corthell](http://datasciencemasters.org/) - The Open Source Data Science Masters
 - [Paul Miller](http://cloudofdata.com/)
 - [Data Science London](http://datasciencelondon.org/)
 - [Peter Skomoroch](http://datawrangling.com/)
 - [John Myles White](http://www.johnmyleswhite.com/)
-- [Quora Data Science](http://www.quora.com/Data-Science)
+- [Quora Data Science](http://www.quora.com/Data-Science) - Data Science Questions and Answers from experts
 - [Siah](http://openresearch.wordpress.com/)
 - [Data Science Report](http://blog.starbridgepartners.com/)
 - [Louis Dorard](http://www.louisdorard.com/blog/)
+- [Machine Learning Mastery](http://machinelearningmastery.com/)
+- [Daniel Forsyth](http://www.danielforsyth.me/) - Personal Blog
+- [Data Science Weekly](http://www.datascienceweekly.org/) - Weekly News Blog
+- [Revolution Analytics](http://blog.revolutionanalytics.com/) - Data Science Blog
+- [R Bloggers](http://www.r-bloggers.com/) - R Bloggers
+- [The Practical Quant](http://practicalquant.blogspot.com/)
+- [Micheal Le Gal](http://www.mickaellegal.com/)
+- [Variance](https://variancecharts.com/)
+- [Datascope Anayltics](http://datascopeanalytics.com/)
+- [Yet Another Data Blog](http://yet-another-data-blog.blogspot.com.tr/)
+- [Spenczar](http://spenczar.com/) 
+- [KD Nuggets](http://www.kdnuggets.com/)
+- [Meta Brown](http://www.metabrown.com/blog/) - Personal Blog
+- [Data Scientist](http://www.datascientists.net/)
+- [WhatSTheBigData](http://whatsthebigdata.com/)
+- [Mic Farris](http://www.micfarris.com/)
+- [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - Magnus Notitia
+- 

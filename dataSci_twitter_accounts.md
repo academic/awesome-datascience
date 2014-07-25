@@ -33,3 +33,4 @@ Awesome #DataScience Twitter Accounts
 - [Quora Data Science](https://twitter.com/q_datascience)
 - [Data Science Report](https://twitter.com/TedOBrien93) - Mission is to help guide & advance careers in Data Science & Analytics
 - [Luis Rei](https://twitter.com/lmrei) - PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science.
+- [Spencer Nelson](https://twitter.com/spenczar_n) - Data nerd
