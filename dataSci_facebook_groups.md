@@ -5,7 +5,7 @@ Awesome #DataScience Facebook Accounts
 - [Data Science 101](https://www.facebook.com/DataScience101)
 - [Data Science Day](https://www.facebook.com/DataScienceDay/)
 - [Data Science Academy](https://www.facebook.com/nycdatascience)
-- [Facebook Data Science Page](https://www.facebook.com/pages/Data-science/)
+- [Facebook Data Science Page](https://www.facebook.com/pages/Data-science/431299473579193?ref=br_rs)
 - [Data Science London](https://www.facebook.com/pages/Data-Science-London/226174337471513)
 - [Data Science Technology and Corporation](https://www.facebook.com/DataScienceTechnologyCorporation?ref=br_rs)
 - [Data Science - Closed Group](https://www.facebook.com/groups/1394010454157077/?ref=br_rs)
