@@ -40,4 +40,3 @@ Awesome #DataScience Bloggers
 - [WhatSTheBigData](http://whatsthebigdata.com/)
 - [Mic Farris](http://www.micfarris.com/)
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - Magnus Notitia
-- 
