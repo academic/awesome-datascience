@@ -163,6 +163,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 Collaborate on, scale, and deploy data analysis and advanced analytics projects radically faster. Use the most powerful tools — R, Python, JavaScript, Redshift, Hive, Impala, Hadoop, and more — supercharged and integrated in the cloud.
  * [Mortardata](http://www.mortardata.com/) Solutions, code, and devops for high-scale data science.
  * [Variance](https://variancecharts.com/) Build powerful data visualizations for the web without writing JavaScript
+ * [Kite](http://kitesdk.org/) - The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
  
  
 ## Other Awesome Lists
