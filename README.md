@@ -16,6 +16,11 @@ First of all, Data Science is hot topic on Computer and Internet farmland. Peopl
 Secondly, Our favorite programming language is *Python* nowadays for datascience. Because Python - [Pandas](http://pandas.pydata.org/) library have fully functionality to collecting data and analyzing. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play data and to create applications. 
 
 
+Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/). 
+
+![image](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1-1024x831.png)
+
+
 
 ## What is Data Science? 
 
