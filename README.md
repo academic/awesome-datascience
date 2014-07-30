@@ -96,6 +96,9 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Mic Farris](http://www.micfarris.com/) Focusing on science, datascience, business, technology, and channeling inner geekness!
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - Magnus Notitia
 - [New Data Scientist](http://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
+- [Harvard Data Science](http://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
+- [Data Science 101](https://datascience101.wordpress.com/) - Learning To Be A Data Scientist
+
 
 ## Facebook Accounts
 
