@@ -50,6 +50,7 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [data.gov](http://catalog.data.gov/dataset)
 * [Quandl](http://www.quandl.com/)
 * [freebase.com](https://www.freebase.com/)
+* [NYC Taxi Data])http://chriswhong.com/open-data/foil_nyc_taxi)
 
 
 ## Bloggers
