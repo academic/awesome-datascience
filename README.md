@@ -151,7 +151,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Luis Rei](https://twitter.com/lmrei) - PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science.
 - [Spencer Nelson](https://twitter.com/spenczar_n) - Data nerd
 - [Recep Erol](https://twitter.com/EROLRecep) - Data Science geek @ Rice University
-
+- [Hector Cuesta Arvizu](https://twitter.com/hmCuesta) - Author of the Book Practical Data Analysis
 
 
 ## Toolboxes - Environment
