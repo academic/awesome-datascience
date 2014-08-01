@@ -112,6 +112,16 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Science Technology and Corporation](https://www.facebook.com/DataScienceTechnologyCorporation?ref=br_rs)
 - [Data Science - Closed Group](https://www.facebook.com/groups/1394010454157077/?ref=br_rs)
 - [Center for Data Science](https://www.facebook.com/centerdatasciences?ref=br_rs)
+- [Big data hadoop NOSQL Hive Hbase](https://www.facebook.com/groups/bigdatahadoop/)
+- [Analytics, Data Mining, Predictive Modeling, Artificial Intelligence](https://www.facebook.com/groups/data.analytics/)
+- [Big Data Analytics using R](https://www.facebook.com/groups/434352233255448/)
+- [Big Data Analytics with R and Hadoop](https://www.facebook.com/groups/rhadoop/)
+- [Big Data Learnings](https://www.facebook.com/groups/bigdatalearnings/)
+- [Big Data, Data Science, Data Mining & Statistics](https://www.facebook.com/groups/bigdatastatistics/)
+- [BigData/Hadoop Expert](https://www.facebook.com/groups/BigDataExpert/)
+- [Data Mining / Machine Learning / AI](https://www.facebook.com/groups/machinelearningforum/)
+- [Data Mining/Big Data - Social Network Ana](https://www.facebook.com/groups/dataminingsocialnetworks/)
+
 
 
 ## Twitter Accounts 
