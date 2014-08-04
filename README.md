@@ -40,6 +40,7 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [Schoolofdata](http://schoolofdata.org/)
 * [OpenIntro](http://www.openintro.org/) 
 * [Data science MOOC](http://datascience.sg/category/mooc/)
+* [CS 171 Visualization](http://www.cs171.org/#!index.md)
 
 
 ## Data Sets 
@@ -98,6 +99,11 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [New Data Scientist](http://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
 - [Harvard Data Science](http://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
 - [Data Science 101](https://datascience101.wordpress.com/) - Learning To Be A Data Scientist
+- [Kaggle Past Solutions](http://www.chioka.in/kaggle-competition-solutions/)
+- [DataScientistJourney](http://datascientistjourney.wordpress.com/category/data-science/)
+- [NYC Taxi Visualization Blog](http://nyctaxi.herokuapp.com/)
+- [Learning Lover](http://learninglover.com/blog/)
+- [Huge Trello List of Great Data Science Resources](http://getprismatic.com/story/1406683266166?utm_medium=email)
 
 
 ## Facebook Accounts
@@ -161,6 +167,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Luis Rei](https://twitter.com/lmrei) - PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science.
 - [Spencer Nelson](https://twitter.com/spenczar_n) - Data nerd
 - [Recep Erol](https://twitter.com/EROLRecep) - Data Science geek @ Rice University
+- [DataScienceX](https://twitter.com/DataScienceX)
 
 
 
