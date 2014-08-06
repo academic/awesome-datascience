@@ -189,4 +189,5 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
 ## Other Awesome Lists
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  - [lists](https://github.com/jnv/lists)
+ - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata)
 
