@@ -16,6 +16,11 @@ First of all, Data Science is hottest topic on Computer and Internet farmland no
 Secondly, Our favorite programming language is *Python* nowadays for datascience. Because Python - [Pandas](http://pandas.pydata.org/) library have fully functionality to collecting data and analyzing. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play data and to create applications. 
 
 
+
+![image](http://hubaisms.files.wordpress.com/2013/08/data-scientist.png)
+
+
+
 Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/). 
 
 ![image](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1-1024x831.png)
@@ -30,7 +35,7 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [What is data science](http://www.datascientists.net/what-is-data-science)
 * [What is a data scientist](http://www.becomingadatascientist.com/2014/02/14/what-is-a-data-scientist/
 )
-
+* [Wikipedia](http://en.wikipedia.org/wiki/Data_science)
 
 ## MOOC's
 
@@ -189,5 +194,4 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
 ## Other Awesome Lists
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  - [lists](https://github.com/jnv/lists)
- - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata)
 
