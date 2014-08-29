@@ -15,6 +15,7 @@ First of all, Data Science is hottest topic on Computer and Internet farmland no
 
 Secondly, Our favorite programming language is *Python* nowadays for datascience. Because Python - [Pandas](http://pandas.pydata.org/) library have fully functionality to collecting data and analyzing. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play data and to create applications. 
 
+  
 
 
 ![image](http://hubaisms.files.wordpress.com/2013/08/data-scientist.png)
@@ -36,6 +37,7 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [What is a data scientist](http://www.becomingadatascientist.com/2014/02/14/what-is-a-data-scientist/
 )
 * [Wikipedia](http://en.wikipedia.org/wiki/Data_science)
+* [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 
 ## MOOC's
 
@@ -109,6 +111,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [NYC Taxi Visualization Blog](http://nyctaxi.herokuapp.com/)
 - [Learning Lover](http://learninglover.com/blog/)
 - [Huge Trello List of Great Data Science Resources](http://getprismatic.com/story/1406683266166?utm_medium=email)
+- [Dataists](http://www.dataists.com/)
 
 
 ## Facebook Accounts
