@@ -122,7 +122,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Digital transformation](http://tarrysingh.com/)
 - [Datawrangling](http://datawrangling.com/)
 - [datascientistjourney](http://datascientistjourney.wordpress.com/category/data-science/)
-- 
 
 
 ## Facebook Accounts
