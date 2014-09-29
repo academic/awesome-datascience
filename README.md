@@ -48,6 +48,7 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [OpenIntro](http://www.openintro.org/) 
 * [Data science MOOC](http://datascience.sg/category/mooc/)
 * [CS 171 Visualization](http://www.cs171.org/#!index.md)
+* [Process Mining: Data science in Action](https://www.coursera.org/course/procmin)
 
 
 ## Data Sets 
@@ -112,6 +113,15 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Learning Lover](http://learninglover.com/blog/)
 - [Huge Trello List of Great Data Science Resources](http://getprismatic.com/story/1406683266166?utm_medium=email)
 - [Dataists](http://www.dataists.com/)
+- [Data-Mania](http://www.data-mania.com/)
+- [Data-Magnum](http://data-magnum.com/)
+- [Map Reduce Blog](https://www.mapr.com/blog)
+- [FastML Blog](http://fastml.com/)
+- [P-value](http://www.p-value.info/) - Musings on data science, machine learning and stats.
+- [datascopeanalytics](http://datascopeanalytics.com/what-we-think/)
+- [Digital transformation](http://tarrysingh.com/)
+- [Datawrangling](http://datawrangling.com/)
+- [datascientistjourney](http://datascientistjourney.wordpress.com/category/data-science/)
 
 
 ## Facebook Accounts
