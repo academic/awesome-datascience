@@ -187,7 +187,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Recep Erol](https://twitter.com/EROLRecep) - Data Science geek @ Rice University
 - [DataScienceX](https://twitter.com/DataScienceX)
 - [Talha Oz](https://twitter.com/tozCSS) - Enjoys ABM, SNA, DM, ML, NLP, HI, Python, Java. Top percentile kaggler/data scientist
-
+- [Rand Hindi](https://twitter.com/randhindi)
 
 
 ## Toolboxes - Environment
