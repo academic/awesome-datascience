@@ -106,7 +106,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - Magnus Notitia
 - [New Data Scientist](http://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
 - [Harvard Data Science](http://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
-- [Data Science 101](https://datascience101.wordpress.com/) - Learning To Be A Data Scientist
+- [Data Science 101](http://101.datascience.community/) - Learning To Be A Data Scientist
 - [Kaggle Past Solutions](http://www.chioka.in/kaggle-competition-solutions/)
 - [DataScientistJourney](http://datascientistjourney.wordpress.com/category/data-science/)
 - [NYC Taxi Visualization Blog](http://nyctaxi.herokuapp.com/)
@@ -203,6 +203,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Mortardata](http://www.mortardata.com/) Solutions, code, and devops for high-scale data science.
  * [Variance](https://variancecharts.com/) Build powerful data visualizations for the web without writing JavaScript
  * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
+ * [Domino Data Labs](http://www.dominoup.com/) Run, scale, share, and deploy your models — without any infrastructure or setup.
  
  
 ## Other Awesome Lists
