@@ -66,7 +66,7 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [databib.org](http://databib.org/)
 * [datacite.org](http://www.datacite.org)
 * [quandl.com](https://www.quandl.com/)
-
+* [figshare.com](http://figshare.com/)
 
 ## Bloggers
 
