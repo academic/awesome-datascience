@@ -59,6 +59,13 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [data.gov](http://catalog.data.gov/dataset)
 * [Quandl](http://www.quandl.com/)
 * [freebase.com](https://www.freebase.com/)
+* [usgovxml.com](http://usgovxml.com/)
+* [enigma.io](http://enigma.io/)
+* [datahub.io](http://datahub.io/)
+* [aws.amazon.com/datasets](http://aws.amazon.com/datasets)
+* [databib.org](http://databib.org/)
+* [datacite.org](http://www.datacite.org)
+* [quandl.com](https://www.quandl.com/)
 
 
 ## Bloggers
