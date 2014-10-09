@@ -15,6 +15,12 @@ First of all, Data Science is hottest topic on Computer and Internet farmland no
 
 Secondly, Our favorite programming language is *Python* nowadays for datascience. Because Python - [Pandas](http://pandas.pydata.org/) library have fully functionality to collecting data and analyzing. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play data and to create applications. 
 
+  
+
+
+![image](http://hubaisms.files.wordpress.com/2013/08/data-scientist.png)
+
+
 
 Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/). 
 
@@ -30,7 +36,8 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [What is data science](http://www.datascientists.net/what-is-data-science)
 * [What is a data scientist](http://www.becomingadatascientist.com/2014/02/14/what-is-a-data-scientist/
 )
-
+* [Wikipedia](http://en.wikipedia.org/wiki/Data_science)
+* [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 
 ## MOOC's
 
@@ -40,6 +47,8 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [Schoolofdata](http://schoolofdata.org/)
 * [OpenIntro](http://www.openintro.org/) 
 * [Data science MOOC](http://datascience.sg/category/mooc/)
+* [CS 171 Visualization](http://www.cs171.org/#!index.md)
+* [Process Mining: Data science in Action](https://www.coursera.org/course/procmin)
 
 
 ## Data Sets 
@@ -96,6 +105,24 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Mic Farris](http://www.micfarris.com/) Focusing on science, datascience, business, technology, and channeling inner geekness!
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - Magnus Notitia
 - [New Data Scientist](http://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
+- [Harvard Data Science](http://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
+- [Data Science 101](http://101.datascience.community/) - Learning To Be A Data Scientist
+- [Kaggle Past Solutions](http://www.chioka.in/kaggle-competition-solutions/)
+- [DataScientistJourney](http://datascientistjourney.wordpress.com/category/data-science/)
+- [NYC Taxi Visualization Blog](http://nyctaxi.herokuapp.com/)
+- [Learning Lover](http://learninglover.com/blog/)
+- [Huge Trello List of Great Data Science Resources](http://getprismatic.com/story/1406683266166?utm_medium=email)
+- [Dataists](http://www.dataists.com/)
+- [Data-Mania](http://www.data-mania.com/)
+- [Data-Magnum](http://data-magnum.com/)
+- [Map Reduce Blog](https://www.mapr.com/blog)
+- [FastML Blog](http://fastml.com/)
+- [P-value](http://www.p-value.info/) - Musings on data science, machine learning and stats.
+- [datascopeanalytics](http://datascopeanalytics.com/what-we-think/)
+- [Digital transformation](http://tarrysingh.com/)
+- [Datawrangling](http://datawrangling.com/)
+- [datascientistjourney](http://datascientistjourney.wordpress.com/category/data-science/)
+
 
 ## Facebook Accounts
 
@@ -109,6 +136,16 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Science Technology and Corporation](https://www.facebook.com/DataScienceTechnologyCorporation?ref=br_rs)
 - [Data Science - Closed Group](https://www.facebook.com/groups/1394010454157077/?ref=br_rs)
 - [Center for Data Science](https://www.facebook.com/centerdatasciences?ref=br_rs)
+- [Big data hadoop NOSQL Hive Hbase](https://www.facebook.com/groups/bigdatahadoop/)
+- [Analytics, Data Mining, Predictive Modeling, Artificial Intelligence](https://www.facebook.com/groups/data.analytics/)
+- [Big Data Analytics using R](https://www.facebook.com/groups/434352233255448/)
+- [Big Data Analytics with R and Hadoop](https://www.facebook.com/groups/rhadoop/)
+- [Big Data Learnings](https://www.facebook.com/groups/bigdatalearnings/)
+- [Big Data, Data Science, Data Mining & Statistics](https://www.facebook.com/groups/bigdatastatistics/)
+- [BigData/Hadoop Expert](https://www.facebook.com/groups/BigDataExpert/)
+- [Data Mining / Machine Learning / AI](https://www.facebook.com/groups/machinelearningforum/)
+- [Data Mining/Big Data - Social Network Ana](https://www.facebook.com/groups/dataminingsocialnetworks/)
+
 
 
 ## Twitter Accounts 
@@ -148,7 +185,9 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Luis Rei](https://twitter.com/lmrei) - PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science.
 - [Spencer Nelson](https://twitter.com/spenczar_n) - Data nerd
 - [Recep Erol](https://twitter.com/EROLRecep) - Data Science geek @ Rice University
-
+- [DataScienceX](https://twitter.com/DataScienceX)
+- [Talha Oz](https://twitter.com/tozCSS) - Enjoys ABM, SNA, DM, ML, NLP, HI, Python, Java. Top percentile kaggler/data scientist
+- [Rand Hindi](https://twitter.com/randhindi)
 
 
 ## Toolboxes - Environment
@@ -163,7 +202,8 @@ We are more than 3,190 data scientists and data geeks in our community.
 Collaborate on, scale, and deploy data analysis and advanced analytics projects radically faster. Use the most powerful tools — R, Python, JavaScript, Redshift, Hive, Impala, Hadoop, and more — supercharged and integrated in the cloud.
  * [Mortardata](http://www.mortardata.com/) Solutions, code, and devops for high-scale data science.
  * [Variance](https://variancecharts.com/) Build powerful data visualizations for the web without writing JavaScript
- * [Kite](http://kitesdk.org/) - The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
+ * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
+ * [Domino Data Labs](http://www.dominoup.com/) Run, scale, share, and deploy your models — without any infrastructure or setup.
  
  
 ## Other Awesome Lists
