@@ -129,6 +129,12 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Digital transformation](http://tarrysingh.com/)
 - [Datawrangling](http://datawrangling.com/)
 - [datascientistjourney](http://datascientistjourney.wordpress.com/category/data-science/)
+- [Data Mania Blog](http://www.data-mania.com/index.php/easyblog)
+- [The File Drawer](http://filedrawer.wordpress.com/) - Chris Said's science blog
+- [Emilio Ferrara's web page](http://www.emilio.ferrara.name/)
+- [DataNews](http://datanews.tumblr.com/)
+- [Reddit TextMining](http://www.reddit.com/r/textdatamining/)
+- [Periscopic](http://www.periscopic.com/#/news)
 
 
 ## Facebook Accounts
