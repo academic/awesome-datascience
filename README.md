@@ -67,6 +67,16 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [datacite.org](http://www.datacite.org)
 * [quandl.com](https://www.quandl.com/)
 * [figshare.com](http://figshare.com/)
+* [GeoLite Legacy Downloadable Databases](http://dev.maxmind.com/geoip/legacy/geolite/)
+* [Quora's Big Datasets Answer](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+* [Public Big Data Sets](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
+* [Houston Data Portal](http://data.ohouston.org/)
+* [Kaggle Data Sources](https://www.kaggle.com/wiki/DataSources)
+* [A Deep Catalog of Human Genetic Variation](http://www.1000genomes.org/data)
+* [A community-curated database of well-known people, places, and things](https://www.freebase.com/)
+* [Google Public Data](http://www.google.com/publicdata/directory)
+* [World Bank Data](http://data.worldbank.org/)
+* [NYC Taxi data](http://nyctaxi.herokuapp.com/)
 
 ## Bloggers
 
@@ -135,6 +145,10 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [DataNews](http://datanews.tumblr.com/)
 - [Reddit TextMining](http://www.reddit.com/r/textdatamining/)
 - [Periscopic](http://www.periscopic.com/#/news)
+- [Hilary Parker](http://hilaryparker.com/)
+- [Data Stories](http://datastori.es/)
+- [Data Science Lab](http://datasciencelab.wordpress.com/)
+- [Meaning of](http://www.kennybastani.com/)
 
 
 ## Facebook Accounts
