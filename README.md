@@ -11,9 +11,9 @@
 
 This is shortcut path to start studying on **Data Science** . Just follow steps to understand "What is Data Science and What should study to learn Data Science?"
 
-First of all, Data Science is hottest topic on Computer and Internet farmland nowadays. People created pretty much data from applications and systems until now and time to analyze them. The next steps are producing suggestions from these data and creating predictions about future. You can find [here](http://www.quora.com/Data-Science/What-is-data-science)  biggest question for **Data Science** ever and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is expert of data related systems and hacker, now she has been working on a company as a DataScientist. Clara's [blog](http://datasciencemasters.org/). This web site helps you to understand exact way to study as a professional data scientist. 
+First of all, Data Science is hottest topic on Computer and Internet farmland nowadays. People have created pretty much data from applications and systems until today and now time to analyze them. The next steps are producing suggestions from these data and creating predictions about future. You can find [here](http://www.quora.com/Data-Science/What-is-data-science)  biggest question for **Data Science** ever and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is expert of data related systems and hacker, now she has been working on a company as a DataScientist. Clara's [blog](http://datasciencemasters.org/). This web site helps you to understand exact way to study as a professional data scientist. 
 
-Secondly, Our favorite programming language is *Python* nowadays for datascience. Because Python - [Pandas](http://pandas.pydata.org/) library have fully functionality to collecting data and analyzing. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play data and to create applications. 
+Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Because Python - [Pandas](http://pandas.pydata.org/) library have fully functionality collecting data and analyzing. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play data and to create applications. 
 
   
 
@@ -59,7 +59,24 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [data.gov](http://catalog.data.gov/dataset)
 * [Quandl](http://www.quandl.com/)
 * [freebase.com](https://www.freebase.com/)
-
+* [usgovxml.com](http://usgovxml.com/)
+* [enigma.io](http://enigma.io/)
+* [datahub.io](http://datahub.io/)
+* [aws.amazon.com/datasets](http://aws.amazon.com/datasets)
+* [databib.org](http://databib.org/)
+* [datacite.org](http://www.datacite.org)
+* [quandl.com](https://www.quandl.com/)
+* [figshare.com](http://figshare.com/)
+* [GeoLite Legacy Downloadable Databases](http://dev.maxmind.com/geoip/legacy/geolite/)
+* [Quora's Big Datasets Answer](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+* [Public Big Data Sets](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
+* [Houston Data Portal](http://data.ohouston.org/)
+* [Kaggle Data Sources](https://www.kaggle.com/wiki/DataSources)
+* [A Deep Catalog of Human Genetic Variation](http://www.1000genomes.org/data)
+* [A community-curated database of well-known people, places, and things](https://www.freebase.com/)
+* [Google Public Data](http://www.google.com/publicdata/directory)
+* [World Bank Data](http://data.worldbank.org/)
+* [NYC Taxi data](http://nyctaxi.herokuapp.com/)
 
 ## Bloggers
 
@@ -106,7 +123,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - Magnus Notitia
 - [New Data Scientist](http://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
 - [Harvard Data Science](http://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
-- [Data Science 101](https://datascience101.wordpress.com/) - Learning To Be A Data Scientist
+- [Data Science 101](http://101.datascience.community/) - Learning To Be A Data Scientist
 - [Kaggle Past Solutions](http://www.chioka.in/kaggle-competition-solutions/)
 - [DataScientistJourney](http://datascientistjourney.wordpress.com/category/data-science/)
 - [NYC Taxi Visualization Blog](http://nyctaxi.herokuapp.com/)
@@ -122,6 +139,16 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Digital transformation](http://tarrysingh.com/)
 - [Datawrangling](http://datawrangling.com/)
 - [datascientistjourney](http://datascientistjourney.wordpress.com/category/data-science/)
+- [Data Mania Blog](http://www.data-mania.com/index.php/easyblog)
+- [The File Drawer](http://filedrawer.wordpress.com/) - Chris Said's science blog
+- [Emilio Ferrara's web page](http://www.emilio.ferrara.name/)
+- [DataNews](http://datanews.tumblr.com/)
+- [Reddit TextMining](http://www.reddit.com/r/textdatamining/)
+- [Periscopic](http://www.periscopic.com/#/news)
+- [Hilary Parker](http://hilaryparker.com/)
+- [Data Stories](http://datastori.es/)
+- [Data Science Lab](http://datasciencelab.wordpress.com/)
+- [Meaning of](http://www.kennybastani.com/)
 
 
 ## Facebook Accounts
@@ -174,7 +201,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Clare Corthell](https://twitter.com/clarecorthell) - Dev, Design, Data Science @mattermark #hackerei
 - [Paul Miller](https://twitter.com/PaulMiller) - Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst. 
 - [Data Science London](https://twitter.com/ds_ldn) Data Science. Big Data. Data Hacks. Data Junkies. Data Startups. Open Data
-- [dj patil](https://twitter.com/dpatil) Applying data science to decision making. VP @ _RelateIQ_
+- [dj patil](https://twitter.com/dpatil) Applying data science to decision making. VP @_RelateIQ_
 - [Gregory Piatetsky](https://twitter.com/kdnuggets) - KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
 - [Peter Skomoroch](https://twitter.com/peteskomoroch) - Creating intelligent systems to automate tasks & improve decisions. Entrepreneur, ex Principal Data Scientist @LinkedIn. Machine Learning, ProductRei, Networks
 - [Monica Rogati](https://twitter.com/mrogati) - Data @ Jawbone. Turned data into stories & products at LinkedIn. Text mining, applied machine learning, recommender systems. Ex-gamer, ex-machine coder; namer.
@@ -187,7 +214,25 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Recep Erol](https://twitter.com/EROLRecep) - Data Science geek @ Rice University
 - [DataScienceX](https://twitter.com/DataScienceX)
 - [Talha Oz](https://twitter.com/tozCSS) - Enjoys ABM, SNA, DM, ML, NLP, HI, Python, Java. Top percentile kaggler/data scientist
-
+- [Rand Hindi](https://twitter.com/randhindi)
+- [Big Data Combine](https://twitter.com/BigDataCombine) - Rapid-fire, live tryouts for data scientists seeking to monetize their models as trading strategies
+- [Tony Baer](https://twitter.com/TonyBaer) - IT analyst with Ovum covering Big Data & data management with some systems engineering thrown in.
+- [Domino Data Lab](https://twitter.com/DominoDataLab)
+- [Terry Timko](https://twitter.com/Terry_Timko) - InfoGov; Bigdata; Data as a Service; Data Science; Open, Social & Business Data Convergence
+- [Big Data Mania](https://twitter.com/BigDataGal) - Data Viz Wiz | Data Journalist | Growth Hacker | Author of Data Science for Dummies (2015)
+- [Chris Said](https://twitter.com/Chris_Said) - Data scientist at Twitter
+- [WileyEd](https://twitter.com/WileyEd) - Senior Manager - @Seagate Big Data Analytics | @McKinsey Alum | #BigData + #Analytics Evangelist | #Hadoop, #Cloud, #Digital, & #R Enthusiast
+- [Tasos Skarlatidis](https://twitter.com/anskarl) - Complex Event Processing, Big Data, Artificial Intelligence and Machine Learning. Passionate about programming and open-source. 
+- [Mark Stevenson](https://twitter.com/Agent_Analytics) - Data Analytics Recruitment Specialist at Salt (@SaltJobs) | Analytics - Insight - Big Data - Datascience
+- [Data Vizzard](https://twitter.com/DataVisualizati) - DataViz, Security, Military
+- [Machine Learning](https://twitter.com/ML_toparticles) - Live Content Curated by top 1K Machine Learning Experts
+- [Charlie Greenbacker](https://twitter.com/greenbacker) - Director of Data Science at @ExploreAltamira
+- [Emilio Ferrara](https://twitter.com/jabawack) - #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv
+- [WNYC Data News Team](https://twitter.com/datanews) - The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work.
+- [TextDataMiningReddit](https://twitter.com/TextMining_r)
+- [Silvia K. Spiva](https://twitter.com/silviakspiva) - #DataScience at Cisco
+- [DADI Charles-Abner](https://twitter.com/DadiCharles) - #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast
+- [Kim Rees](https://twitter.com/krees) -  Interactive data visualization and tools. Data flaneur.
 
 
 ## Toolboxes - Environment
@@ -203,7 +248,8 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Mortardata](http://www.mortardata.com/) Solutions, code, and devops for high-scale data science.
  * [Variance](https://variancecharts.com/) Build powerful data visualizations for the web without writing JavaScript
  * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
- 
+ * [Domino Data Labs](http://www.dominoup.com/) Run, scale, share, and deploy your models — without any infrastructure or setup.
+ * [Apache Flink](https://flink.incubator.apache.org/) A platform for efficient, distributed, general-purpose data processing.
  
 ## Other Awesome Lists
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
