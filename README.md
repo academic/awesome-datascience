@@ -149,6 +149,12 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Stories](http://datastori.es/)
 - [Data Science Lab](http://datasciencelab.wordpress.com/)
 - [Meaning of](http://www.kennybastani.com/)
+- [Adventures in Data Land]( http://blog.smola.org)
+- [DATA MINERS BLOG](http://blog.data-miners.com/)
+- [Dataclysm](http://blog.okcupid.com/)
+- [FlowingData](http://flowingdata.com/) - Visualization and Statistics
+- [Calculated Risk](http://www.calculatedriskblog.com/)
+- [Applied Data Labs](http://www.applieddatalabs.com/) - content and news about data-driven business.
 
 
 ## Facebook Accounts
