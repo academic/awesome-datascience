@@ -257,6 +257,17 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Domino Data Labs](http://www.dominoup.com/) Run, scale, share, and deploy your models — without any infrastructure or setup.
  * [Apache Flink](https://flink.incubator.apache.org/) A platform for efficient, distributed, general-purpose data processing.
  
+## Presentations
+
+* [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
+* [Introduction to Data Science](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
+* [Intro to Data Science for Enterprise Big Data](http://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
+* [How to Interview a Data Scientist](http://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
+* [The Science of a Great Career in Data Science](http://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
+* [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
+* [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
+* [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
+ 
 ## Other Awesome Lists
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  - [lists](https://github.com/jnv/lists)
