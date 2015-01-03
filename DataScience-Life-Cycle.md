@@ -8,7 +8,7 @@ Finding suitable problem to analyze your system and attempt to fix what you find
 
 Data is the blood of your system.  
 
- * ## 3 - Data Munging Statistical analyse
+ * ## 3 - Data Munging - Statistical analyse
 
 Make your data readable and prepare to use in your system properly. 
 
@@ -20,6 +20,7 @@ Data Mining and Machine Learning algorithms can use to fix the problem. Many alg
 
 Visualization tools are creating and sharing every day in the Internet. But, in fact, **Visualization** is  a kind of Art and lots of artists are creating and developing visualization tools day by day.
 
+
  * ## 6 - Report your result and Maintenance 
 
- Project has not finished yet. This step makes your system **dynamic** and helps your results to keep alive.
+ Project has not finished yet. This step makes your system **dynamic** and helps your results alive.
