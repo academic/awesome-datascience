@@ -257,6 +257,8 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Domino Data Labs](http://www.dominoup.com/) Run, scale, share, and deploy your models — without any infrastructure or setup.
  * [Apache Flink](https://flink.incubator.apache.org/) A platform for efficient, distributed, general-purpose data processing.
  * [Apache Hama](http://hama.apache.org/) Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce. 
+ * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks.
+ * [Octave](https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab)
 
 ## Presentations
 
