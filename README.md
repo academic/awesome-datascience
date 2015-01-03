@@ -15,7 +15,7 @@ First of all, Data Science is hottest topic on Computer and Internet farmland no
 
 Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Because Python - [Pandas](http://pandas.pydata.org/) library have fully functionality collecting data and analyzing. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play data and to create applications. 
 
-This is the guide [Guide]() to begin a **DataScience** project.
+This is the guide [Guide](https://github.com/okulbilisim/awesome-datascience/blob/master/DataScience-Life-Cycle.md) to begin a **DataScience** project.
   
 
 
