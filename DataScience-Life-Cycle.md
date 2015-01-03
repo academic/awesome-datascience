@@ -1,4 +1,4 @@
-#DataScience Problem Solution Life Cycle
+#DataScience Project Life Cycle
 
  * ##1 - Identify the Problem.
  * ##2 - Find available data source
