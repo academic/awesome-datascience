@@ -247,6 +247,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  * [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
  * [R](http://www.r-project.org/) is a free software environment for statistical computing and graphics. 
  * [Python - Pandas - Anaconda](https://store.continuum.io/cshop/anaconda/) Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing
+ * [Scikit-Learn](http://scikit-learn.org/stable/) Machine Learning in Python
  * [Data Science Toolbox](https://www.coursera.org/course/datascitoolbox) - Coursera Course
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - Blog
  * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generating rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language.
@@ -274,5 +275,6 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  
 ## Other Awesome Lists
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+ - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
  - [lists](https://github.com/jnv/lists)
 
