@@ -78,6 +78,7 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 * [Google Public Data](http://www.google.com/publicdata/directory)
 * [World Bank Data](http://data.worldbank.org/)
 * [NYC Taxi data](http://nyctaxi.herokuapp.com/)
+* [Open Data Philly](http://www.opendataphilly.org/) Connecting people with data for Philadelphia
 
 ## Bloggers
 
