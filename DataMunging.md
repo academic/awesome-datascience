@@ -1,6 +1,6 @@
-#Data Munging is the clean the data and prep for making analyse.
+#Data Munging is the clean the data and prep for making analyses.
 
-There are various ways to do this step. Above list can help you to choose available way for you.
+There are various ways to do this step. Below list can help you to choose available way for you.
 
  * ##Python - Pandas
  * ##R
