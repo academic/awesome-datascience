@@ -24,8 +24,12 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/). 
 
-![image](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1-1024x831.png)
+![image](http://i.imgur.com/iLIp0Ps.png)
 
+
+
+![](http://i.imgur.com/iNXECI4.jpg)
+by [@gwenthomasdgi](https://twitter.com/gwenthomasdgi) via [twitter](https://twitter.com/gwenthomasdgi/status/557452529370267648)
 
 
 ## What is Data Science? 
