@@ -11,10 +11,11 @@
 
 This is shortcut path to start studying on **Data Science** . Just follow steps to understand "What is Data Science and What should study to learn Data Science?"
 
-First of all, Data Science is hottest topic on Computer and Internet farmland nowadays. People have created pretty much data from applications and systems until today and now time to analyze them. The next steps are producing suggestions from these data and creating predictions about future. You can find [here](http://www.quora.com/Data-Science/What-is-data-science)  biggest question for **Data Science** ever and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is expert of data related systems and hacker, now she has been working on a company as a DataScientist. Clara's [blog](http://datasciencemasters.org/). This web site helps you to understand exact way to study as a professional data scientist. 
+First of all, Data Science is hottest topic on Computer and Internet farmland nowadays. People have created pretty much data from applications and systems until today and now time to analyze them. The next steps are producing suggestions from these data and creating predictions about future. You can find [here](http://www.quora.com/Data-Science/What-is-data-science)  biggest question for **DataScience** ever and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is expert of data related systems and hacker, now she has been working on a company as a DataScientist. Clara's [blog](http://datasciencemasters.org/). This web site helps you to understand exact way to study as a professional data scientist. 
 
 Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Because Python - [Pandas](http://pandas.pydata.org/) library have fully functionality collecting data and analyzing. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play data and to create applications. 
 
+This is the guide [Guide](https://github.com/okulbilisim/awesome-datascience/blob/master/DataScience-Life-Cycle.md) to begin a **DataScience** project.
   
 
 
@@ -35,7 +36,7 @@ by [@gwenthomasdgi](https://twitter.com/gwenthomasdgi) via [twitter](https://twi
 ## What is Data Science? 
 
 * [What is Data Science @ O'reilly](http://radar.oreilly.com/2010/06/what-is-data-science.html)
-* [What is Data Science @ Quoara](http://www.quora.com/Data-Science/What-is-data-science)
+* [What is Data Science @ Quora](http://www.quora.com/Data-Science/What-is-data-science)
 * [The sexiest job of 21st century](http://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1)
 * [What is data science](http://www.datascientists.net/what-is-data-science)
 * [What is a data scientist](http://www.becomingadatascientist.com/2014/02/14/what-is-a-data-scientist/
@@ -81,6 +82,7 @@ by [@gwenthomasdgi](https://twitter.com/gwenthomasdgi) via [twitter](https://twi
 * [Google Public Data](http://www.google.com/publicdata/directory)
 * [World Bank Data](http://data.worldbank.org/)
 * [NYC Taxi data](http://nyctaxi.herokuapp.com/)
+* [Open Data Philly](http://www.opendataphilly.org/) Connecting people with data for Philadelphia
 
 ## Bloggers
 
@@ -250,6 +252,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  * [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
  * [R](http://www.r-project.org/) is a free software environment for statistical computing and graphics. 
  * [Python - Pandas - Anaconda](https://store.continuum.io/cshop/anaconda/) Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing
+ * [Scikit-Learn](http://scikit-learn.org/stable/) Machine Learning in Python
  * [Data Science Toolbox](https://www.coursera.org/course/datascitoolbox) - Coursera Course
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - Blog
  * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generating rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language.
@@ -260,7 +263,10 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
  * [Domino Data Labs](http://www.dominoup.com/) Run, scale, share, and deploy your models — without any infrastructure or setup.
  * [Apache Flink](https://flink.incubator.apache.org/) A platform for efficient, distributed, general-purpose data processing.
- 
+ * [Apache Hama](http://hama.apache.org/) Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce. 
+ * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks.
+ * [Octave](https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab)
+
 ## Presentations
 
 * [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
@@ -274,5 +280,6 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  
 ## Other Awesome Lists
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+ - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
  - [lists](https://github.com/jnv/lists)
 
