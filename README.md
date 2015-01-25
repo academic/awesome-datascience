@@ -51,7 +51,7 @@ by [@gwenthomasdgi](https://twitter.com/gwenthomasdgi) via [twitter](https://twi
 * [CS 109 Data Science](http://cs109.org/)
 * [Schoolofdata](http://schoolofdata.org/)
 * [OpenIntro](http://www.openintro.org/) 
-* [Data science MOOC](http://datascience.sg/category/mooc/)
+* [Data science MOOC](http://datascience.sg/categories/MOOC/)
 * [CS 171 Visualization](http://www.cs171.org/#!index.md)
 * [Process Mining: Data science in Action](https://www.coursera.org/course/procmin)
 
