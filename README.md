@@ -83,6 +83,7 @@ by [@gwenthomasdgi](https://twitter.com/gwenthomasdgi) via [twitter](https://twi
 * [World Bank Data](http://data.worldbank.org/)
 * [NYC Taxi data](http://nyctaxi.herokuapp.com/)
 * [Open Data Philly](http://www.opendataphilly.org/) Connecting people with data for Philadelphia
+* [A list of useful sources](http://ahmetkurnaz.net/en/statistical-data-sources/) A blog post includes many data set databases
 
 ## Bloggers
 
