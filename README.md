@@ -63,7 +63,6 @@ by [@gwenthomasdgi](https://twitter.com/gwenthomasdgi) via [twitter](https://twi
 * [Academic Torrents](http://academictorrents.com/)
 * [hadoopilluminated.com](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 * [data.gov](http://catalog.data.gov/dataset)
-* [Quandl](http://www.quandl.com/)
 * [freebase.com](https://www.freebase.com/)
 * [usgovxml.com](http://usgovxml.com/)
 * [enigma.io](http://enigma.io/)
