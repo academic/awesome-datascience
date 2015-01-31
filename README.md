@@ -61,7 +61,6 @@ by [@gwenthomasdgi](https://twitter.com/gwenthomasdgi) via [twitter](https://twi
 ## Data Sets 
 
 * [Academic Torrents](http://academictorrents.com/)
-* [Quora](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 * [hadoopilluminated.com](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 * [data.gov](http://catalog.data.gov/dataset)
 * [Quandl](http://www.quandl.com/)
