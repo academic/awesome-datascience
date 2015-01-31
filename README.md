@@ -48,6 +48,8 @@ by [@gwenthomasdgi](https://twitter.com/gwenthomasdgi) via [twitter](https://twi
 
 * [Google Making Sense of Data](https://datasense.withgoogle.com/course) 
 * [Coursera Introduction to Data Science](https://www.coursera.org/course/datasci)
+* [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specialization/jhudatascience)
+* [Data Mining - 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specialization/datamining)
 * [CS 109 Data Science](http://cs109.org/)
 * [Schoolofdata](http://schoolofdata.org/)
 * [OpenIntro](http://www.openintro.org/) 
