@@ -1,0 +1,1 @@
+Can it be explain what did you find from your data science project? Does the answer is fit according to draft before project? 
