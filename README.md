@@ -245,8 +245,9 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [TextDataMiningReddit](https://twitter.com/TextMining_r)
 - [Silvia K. Spiva](https://twitter.com/silviakspiva) - #DataScience at Cisco
 - [DADI Charles-Abner](https://twitter.com/DadiCharles) - #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast
-- [Kim Rees](https://twitter.com/krees) -  Interactive data visualization and tools. Data flaneur.
-
+- [Kirk Borne](https://twitter.com/KirkDBorne) -  DataScientist, PhD Astrophysicist, Top #BigData Influencer.
+- [Kenneth Cukier](https://twitter.com/kncukier) -  The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ). 
+- [Gregory Piatetsky](https://twitter.com/kdnuggets) -  KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
 
 ## Toolboxes - Environment
 
