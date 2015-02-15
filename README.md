@@ -29,8 +29,9 @@ Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thou
 
 
 
-![](http://i.imgur.com/iNXECI4.jpg)
-by [@gwenthomasdgi](https://twitter.com/gwenthomasdgi) via [twitter](https://twitter.com/gwenthomasdgi/status/557452529370267648)
+![](http://i.imgur.com/W4NRIdU.png)
+by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)
+[MarketingDistillery.com](http://www.marketingdistillery.com/2014/11/29/is-data-science-a-buzzword-modern-data-scientist-defined/)
 
 
 ## What is Data Science? 
