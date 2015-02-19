@@ -1,6 +1,6 @@
 # DataScience Project Life Cycle
 
-DataScience is the one of the most popular method to achieve meaning from the data. Hundreds of tools and algorithms have been using for many years. But nowadays, experts accept the method of **DataScience** become easiest way with the spreading of many kinds of science area.
+DataScience is the one of the most popular methods to achieve meaning from the data. Hundreds of tools and algorithms have been used for many years. But nowadays, experts accept the method of **DataScience** become easiest way with the spreading of many kinds of science area.
 
 ## Identify the Problem
 
