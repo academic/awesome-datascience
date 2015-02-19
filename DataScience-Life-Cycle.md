@@ -1,6 +1,6 @@
 # DataScience Project Life Cycle
 
-DataScience is the one of the most popular methods to achieve meaning from the data. Hundreds of tools and algorithms have been used for many years. But nowadays, experts accept the method of **DataScience** become easiest way with the spreading of many kinds of science area.
+DataScience is the one of the most popular methods to acquire meaning from the data. Hundreds of tools and algorithms have been using for many years. Today scientists created a method which is a process of problem solution steps, **DataScience** . Nowadays, DataScience is the most popular method. Below titles are the steps of DataScience, generally applying steps are such as Identify the Problem, Find available data source, Data munging, Applying algorithms, visualize the process, and finally report your result and maintenance if require. 
 
 ## Identify the Problem
 
@@ -12,15 +12,15 @@ Data is the blood of your system.  [Here](https://github.com/okulbilisim/awesome
 
 ## Data Munging - Statistical analyse
 
-Make your data readable and prepare to use in your system properly. So this step is most important part of your process. This [page](https://github.com/okulbilisim/awesome-datascience/blob/master/DataMunging.md) can be good list for you!  
+Make your data readable and prepare in order to use in your system properly. So this step is most important part of your process. This [page](https://github.com/okulbilisim/awesome-datascience/blob/master/DataMunging.md) can be a good list for you!  
 
 ## Apply Algorithm to fix problem
 
-Data Mining and Machine Learning algorithms can be used to fix the problem. Engineers are working to find best [algorithms](https://github.com/okulbilisim/awesome-datascience/blob/master/Algorithms.md) to find best results!
+Data Mining and Machine Learning algorithms can be applied to your problems. Engineers work to find best [algorithms](https://github.com/okulbilisim/awesome-datascience/blob/master/Algorithms.md).
 
 ## Visualize the process
 
-Visualization tools are creating and sharing every day in the Internet. But, in fact, **Visualization** is  a kind of Art and lots of visualization artists are creating and developing visualization tools day by day. Look at this [page](https://github.com/okulbilisim/awesome-datascience/blob/master/Visualization.md)! You will find magnificent visualization tool to make your project masterpiece.
+Visualization tools've been creating and sharing in the Internet for a long time. In fact, **Visualization** is  a kind of Art and lots of visualization artists create and develope visualization tools day by day. Look at this [page](https://github.com/okulbilisim/awesome-datascience/blob/master/Visualization.md)! You can find magnificent data visualization tools in order to make your project as a masterpiece.
 
 ## Report your result and Maintenance 
 
