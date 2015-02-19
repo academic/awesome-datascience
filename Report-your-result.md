@@ -1,1 +1,1 @@
-Can it be explain what did you find from your data science project? Does the answer is fit according to draft before project? 
+Can you explain what you found from your data science project? Is your answer aligned with drafts from before starting the project? 

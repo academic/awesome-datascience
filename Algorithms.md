@@ -1,5 +1,5 @@
 # Algorithms
-These are some Machine Learning and Data Mining algorithms and models to get meaning from your data.
+These are some Machine Learning and Data Mining algorithms and models to help you understand your data and derive meaning from it.
 
 ### Supervised Learning
 - Regression

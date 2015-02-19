@@ -1,1 +1,1 @@
-Visualization tools for your data and result of your data.
+Visualization tools for your data and results of your data science.
