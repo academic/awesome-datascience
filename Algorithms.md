@@ -1,5 +1,5 @@
 # Algorithms
-These are some Machine Learning and Data Mining algorithms and models to help you understand your data and derive meaning from it.
+These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
 ### Supervised Learning
 - Regression
@@ -36,3 +36,19 @@ These are some Machine Learning and Data Mining algorithms and models to help yo
 - Q Learning
 - SARSA (State-Action-Reward-State-Action) algorithm
 - Temporal difference learning
+
+### Data Mining Algorithms
+ * C4.5
+ * k-Means
+ * SVM
+ * Apriori
+ * EM
+ * PageRank
+ * AdaBoost
+ * kNN
+ * Naive Bayes
+ * CART
+ 
+**Also,you can  find most data mining algorithms in [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) program easily **
+
+
