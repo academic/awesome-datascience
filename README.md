@@ -57,6 +57,10 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [Data science MOOC](http://datascience.sg/categories/MOOC/)
 * [CS 171 Visualization](http://www.cs171.org/#!index.md)
 * [Process Mining: Data science in Action](https://www.coursera.org/course/procmin)
+* [Oxford Deep Learning](http://www.cs.ox.ac.uk/projects/DeepLearn/)
+* [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+* [Oxford Machine Learning](http://www.cs.ox.ac.uk/activities/machinelearning/)
+* [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 
 
 ## Data Sets 
