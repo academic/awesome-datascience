@@ -207,6 +207,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Drew Conway](https://twitter.com/drewconway) - Data nerd, hacker, student of conflict.
 - [Data Science Central](https://twitter.com/DataScienceCtrl) - Data Science Central is the industry's single resource for Big Data practitioners. 
 - [Hilary Mason](https://twitter.com/hmason) - Data Scientist in Residence at @accel.
+- [DJ Patil](https://twitter.com/dpatil) White House Data Chief
 - [Juan Miguel Lavista](https://twitter.com/BDataScientist) - Principal Data Scientist @ Microsoft Data Science Team
 - [Data Science Tips](https://twitter.com/datasciencetips) - Tips and Tricks for Data Scientists around the world! #datascience #bigdata
 - [Erin Bartolo](https://twitter.com/erinbartolo) - Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr.
