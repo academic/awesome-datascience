@@ -207,7 +207,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Drew Conway](https://twitter.com/drewconway) - Data nerd, hacker, student of conflict.
 - [Data Science Central](https://twitter.com/DataScienceCtrl) - Data Science Central is the industry's single resource for Big Data practitioners. 
 - [Hilary Mason](https://twitter.com/hmason) - Data Scientist in Residence at @accel.
-- [DJ Patil](https://twitter.com/dpatil) White House Data Chief
+- [DJ Patil](https://twitter.com/dpatil) - White House Data Chief, VP @ RelateIQ.
 - [Juan Miguel Lavista](https://twitter.com/BDataScientist) - Principal Data Scientist @ Microsoft Data Science Team
 - [Data Science Tips](https://twitter.com/datasciencetips) - Tips and Tricks for Data Scientists around the world! #datascience #bigdata
 - [Erin Bartolo](https://twitter.com/erinbartolo) - Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr.
@@ -220,7 +220,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Clare Corthell](https://twitter.com/clarecorthell) - Dev, Design, Data Science @mattermark #hackerei
 - [Paul Miller](https://twitter.com/PaulMiller) - Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst. 
 - [Data Science London](https://twitter.com/ds_ldn) Data Science. Big Data. Data Hacks. Data Junkies. Data Startups. Open Data
-- [dj patil](https://twitter.com/dpatil) Applying data science to decision making. VP @_RelateIQ_
 - [Gregory Piatetsky](https://twitter.com/kdnuggets) - KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
 - [Peter Skomoroch](https://twitter.com/peteskomoroch) - Creating intelligent systems to automate tasks & improve decisions. Entrepreneur, ex Principal Data Scientist @LinkedIn. Machine Learning, ProductRei, Networks
 - [Monica Rogati](https://twitter.com/mrogati) - Data @ Jawbone. Turned data into stories & products at LinkedIn. Text mining, applied machine learning, recommender systems. Ex-gamer, ex-machine coder; namer.
