@@ -89,6 +89,7 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [NYC Taxi data](http://nyctaxi.herokuapp.com/)
 * [Open Data Philly](http://www.opendataphilly.org/) Connecting people with data for Philadelphia
 * [A list of useful sources](http://ahmetkurnaz.net/en/statistical-data-sources/) A blog post includes many data set databases
+* [grouplens.org](http://grouplens.org/datasets/) Sample movie (with ratings), book and wiki datasets
 
 ## Bloggers
 
