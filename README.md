@@ -99,7 +99,7 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [MapLight](http://maplight.org/data) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
 * [GHDx](http://ghdx.healthdata.org/catalog) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
 * [St. Louis Federal Reserve Economic Data - FRED](http://research.stlouisfed.org/fred2/)
-* [Sources of Data, New York University - Dept. of Politics Novel Sources of Data, New York University - Dept. of Politics](http://www.nyu.edu/projects/politicsdatalab/data_classic_sources.html)
+* [Dept. of Politics @ New York University](http://www.nyu.edu/projects/politicsdatalab/data_classic_sources.html)
 * [Open Data Sources](https://github.com/datasciencemasters/data)
 * [UNICEF Statistics and Monitoring](http://www.unicef.org/statistics/)
 * [UNICEF Data](http://data.unicef.org/)
