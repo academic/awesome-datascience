@@ -67,15 +67,16 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 
 * [Academic Torrents](http://academictorrents.com/)
 * [hadoopilluminated.com](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
-* [data.gov](http://catalog.data.gov/dataset)
+* [data.gov](http://catalog.data.gov/dataset) - The home of the U.S. Government's open data
+* [United States Census Bureau](http://www.census.gov/)
 * [freebase.com](https://www.freebase.com/)
 * [usgovxml.com](http://usgovxml.com/)
-* [enigma.io](http://enigma.io/)
+* [enigma.io](http://enigma.io/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
 * [datahub.io](http://datahub.io/)
 * [aws.amazon.com/datasets](http://aws.amazon.com/datasets)
 * [databib.org](http://databib.org/)
 * [datacite.org](http://www.datacite.org)
-* [quandl.com](https://www.quandl.com/)
+* [quandl.com](https://www.quandl.com/) - Get the data you need in the form you want; instant download, API or direct to your app.
 * [figshare.com](http://figshare.com/)
 * [GeoLite Legacy Downloadable Databases](http://dev.maxmind.com/geoip/legacy/geolite/)
 * [Quora's Big Datasets Answer](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
@@ -90,6 +91,22 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [Open Data Philly](http://www.opendataphilly.org/) Connecting people with data for Philadelphia
 * [A list of useful sources](http://ahmetkurnaz.net/en/statistical-data-sources/) A blog post includes many data set databases
 * [grouplens.org](http://grouplens.org/datasets/) Sample movie (with ratings), book and wiki datasets
+* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
+* [research-quality data sets](https://bitly.com/bundles/hmason/1) by [Hilary Mason](https://bitly.com/u/hmason/bundles)
+* [National Climatic Data Center - NOAA](http://www.ncdc.noaa.gov/)
+* [ClimateData.us](http://www.climatedata.us/) (related: [U.S. Climate Resilience Toolkit](http://toolkit.climate.gov/))
+* [r/datasets](http://www.reddit.com/r/datasets)
+* [MapLight](http://maplight.org/data) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
+* [GHDx](http://ghdx.healthdata.org/catalog) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
+* [St. Louis Federal Reserve Economic Data - FRED](http://research.stlouisfed.org/fred2/)
+* [Dept. of Politics @ New York University](http://www.nyu.edu/projects/politicsdatalab/data_classic_sources.html)
+* [Open Data Sources](https://github.com/datasciencemasters/data)
+* [UNICEF Statistics and Monitoring](http://www.unicef.org/statistics/)
+* [UNICEF Data](http://data.unicef.org/)
+* [undata](http://data.un.org/)
+* [NASA SocioEconomic Data and Applications Center - SEDAC](http://sedac.ciesin.columbia.edu/)
+* [The GDELT Project](gdeltproject.org)
+* [Sweden, Statistics](www.scb.se/en_/)
 
 ## Bloggers
 
