@@ -105,8 +105,8 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [UNICEF Data](http://data.unicef.org/)
 * [undata](http://data.un.org/)
 * [NASA SocioEconomic Data and Applications Center - SEDAC](http://sedac.ciesin.columbia.edu/)
-* [The GDELT Project](gdeltproject.org)
-* [Sweden, Statistics](www.scb.se/en_/)
+* [The GDELT Project](http://gdeltproject.org/)
+* [Sweden, Statistics](http://www.scb.se/en_/)
 
 ## Bloggers
 
