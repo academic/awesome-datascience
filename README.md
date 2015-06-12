@@ -299,6 +299,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
 * [Introduction to Data Science](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
 * [Intro to Data Science for Enterprise Big Data](http://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
 * [How to Interview a Data Scientist](http://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
+* [How to Share Data with a Statistician](https://github.com/jtleek/datasharing)
 * [The Science of a Great Career in Data Science](http://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
 * [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
