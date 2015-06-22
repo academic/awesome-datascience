@@ -114,7 +114,7 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 - [Matthew Russell](http://miningthesocialweb.com/) - Mining The Social Web.
 - [Greg Reda](http://www.gregreda.com/) - Greg Reda Personal Blog
 - [Kevin Davenport](http://kldavenport.com/) - Kevin Davenport Personal Blog
-- [Julia Evans](http://jvns.ca/) - Hacker School alumna
+- [Julia Evans](http://jvns.ca/) - Recurse Center alumna
 - [Hakan Kardas](http://www.cse.unr.edu/~hkardes/) - Personal Web Page
 - [Sean J. Taylor](http://seanjtaylor.com/) - Personal Web Page
 - [Drew Conway](http://drewconway.com/) - Personal Web Page
