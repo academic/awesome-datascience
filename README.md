@@ -61,6 +61,7 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 * [Oxford Machine Learning](http://www.cs.ox.ac.uk/activities/machinelearning/)
 * [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
+* [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
 
 
 ## Data Sets 
@@ -292,6 +293,8 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Apache Hama](http://hama.apache.org/) Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce. 
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks.
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab)
+ * [Apache Spark](https://spark.apache.org/) Lightning-fast cluster computing
+ * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
 
 ## Presentations
 
@@ -304,10 +307,6 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
 * [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 * [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
-
-# Courses
-
-* [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
  
 ## Other Awesome Lists
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
