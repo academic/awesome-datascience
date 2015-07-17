@@ -45,6 +45,9 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [Wikipedia](http://en.wikipedia.org/wiki/Data_science)
 * [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 
+## COLLEGES
+* [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges) 
+
 ## MOOC's
 
 * [Google Making Sense of Data](https://datasense.withgoogle.com/course) 
