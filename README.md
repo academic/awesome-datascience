@@ -7,15 +7,15 @@
 
 ## Motivation
 
-*This part is for dummies who are new on Data Science*
+*This part is for dummies who are new to Data Science*
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
 
-First of all, Data Science is one of the hottest topics on Computer and Internet farmland nowadays. People have created pretty much data from applications and systems until today and now time to analyze them. The next steps are producing suggestions from these data and creating predictions about future. [Here](http://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **DataScience** and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is an expert in data-related systems and a hacker, and has been working on a company as a DataScientist. [Clara's blog](http://datasciencemasters.org/). This web site helps you to understand exact way to study as a professional data scientist. 
+First of all, Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](http://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is an expert in data-related systems and a hacker, and has been working on a company as a data scientist. [Clare's blog](http://datasciencemasters.org/). This web site helps you to understand the exact way to study as a professional data scientist. 
 
-Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Because Python - [Pandas](http://pandas.pydata.org/) library have fully functionality collecting data and analyzing. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play with data and to create applications. 
+Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play with data and to create applications. 
 
-This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/master/DataScience-Life-Cycle.md) to begin a **DataScience** project.
+This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/master/DataScience-Life-Cycle.md) to begin a **Data Science** project.
   
 
 
@@ -23,7 +23,7 @@ This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/mast
 
 
 
-Swami Chandrasekaran make a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/). 
+Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/). 
 
 ![image](http://i.imgur.com/iLIp0Ps.png)
 
