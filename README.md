@@ -299,6 +299,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab)
  * [Apache Spark](https://spark.apache.org/) Lightning-fast cluster computing
  * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
+ * [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
 
 ## Presentations
 
