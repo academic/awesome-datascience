@@ -251,7 +251,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Science Report](https://twitter.com/TedOBrien93) - Mission is to help guide & advance careers in Data Science & Analytics
 - [Luis Rei](https://twitter.com/lmrei) - PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science.
 - [Spencer Nelson](https://twitter.com/spenczar_n) - Data nerd
-- [Recep Erol](https://twitter.com/EROLRecep) - Data Science geek @ Rice University
+- [Recep Erol](https://twitter.com/EROLRecep) - Data Science geek @ UALR
 - [DataScienceX](https://twitter.com/DataScienceX)
 - [Talha Oz](https://twitter.com/tozCSS) - Enjoys ABM, SNA, DM, ML, NLP, HI, Python, Java. Top percentile kaggler/data scientist
 - [Rand Hindi](https://twitter.com/randhindi)
@@ -277,6 +277,8 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Kirk Borne](https://twitter.com/KirkDBorne) -  DataScientist, PhD Astrophysicist, Top #BigData Influencer.
 - [Kenneth Cukier](https://twitter.com/kncukier) -  The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ). 
 - [Gregory Piatetsky](https://twitter.com/kdnuggets) -  KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
+- [deeplearning4j](https://twitter.com/deeplearning4j) - 
+@SkymindIO's open-source deep learning for the JVM. Integrates with Hadoop, Spark. Distributed GPU/CPUs | http://nd4j.org  | http://www.skymind.io 
 
 ## Toolboxes - Environment
 
