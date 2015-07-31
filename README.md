@@ -280,6 +280,18 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [deeplearning4j](https://twitter.com/deeplearning4j) - 
 @SkymindIO's open-source deep learning for the JVM. Integrates with Hadoop, Spark. Distributed GPU/CPUs | http://nd4j.org  | http://www.skymind.io 
 
+##Youtube Videos & Channels
+
+ - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
+ - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
+ - [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M)
+ - [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc)
+ - [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
+ - [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
+ - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
+
+
+
 ## Toolboxes - Environment
 
  * [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
