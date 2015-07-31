@@ -34,3 +34,4 @@
  * [vida](https://vida.io/)
  * [Wolframalpha](http://www.wolframalpha.com/)
  * [Wrangler](http://vis.stanford.edu/wrangler/)
+ * [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
