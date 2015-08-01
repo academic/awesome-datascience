@@ -189,6 +189,9 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [FlowingData](http://flowingdata.com/) - Visualization and Statistics
 - [Calculated Risk](http://www.calculatedriskblog.com/)
 - [Applied Data Labs](http://www.applieddatalabs.com/) - content and news about data-driven business.
+- [O'reilly Learning Blog](https://beta.oreilly.com/learning)
+- [Dominodatalab](http://blog.dominodatalab.com/)
+- [i am trask](http://iamtrask.github.io/) - A Machine Learning Craftsmanship Blog
 
 
 ## Facebook Accounts
@@ -289,6 +292,8 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
  - [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
  - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
+ - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
+ - 
 
 
 
@@ -314,6 +319,12 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Apache Spark](https://spark.apache.org/) Lightning-fast cluster computing
  * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
  * [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
+ * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
+ * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
+ * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework
+
+ 
+
 
 ## Presentations
 
@@ -334,5 +345,4 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  - [awesome Apache Spark](https://github.com/erolrecep/awesome-apacheSpark)
  - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
  - [awesome-python](https://github.com/vinta/awesome-python)
- - 
 
