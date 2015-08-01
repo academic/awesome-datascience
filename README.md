@@ -324,6 +324,15 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework
 
  
+##Journals, Publications and Magazines
+
+ * [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
+ * [epjdatascience](http://www.epjdatascience.com/)
+ * [Journal of Data Science](http://www.jds-online.com/) - an international journal devoted to applications of statistical methods at large
+ * [Big Data Research](http://www.journals.elsevier.com/big-data-research)
+ * [Journal of Big Data](http://www.journalofbigdata.com/)
+ * [Big Data & Society](http://bds.sagepub.com/)
+ * [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
 
 
 ## Presentations
