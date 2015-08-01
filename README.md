@@ -111,6 +111,8 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [NASA SocioEconomic Data and Applications Center - SEDAC](http://sedac.ciesin.columbia.edu/)
 * [The GDELT Project](http://gdeltproject.org/)
 * [Sweden, Statistics](http://www.scb.se/en_/)
+* [Github free data source list](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
+* 
 
 ## Bloggers
 
@@ -293,6 +295,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
  - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
  - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
+ - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
  - 
 
 
