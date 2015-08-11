@@ -194,7 +194,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [O'reilly Learning Blog](https://beta.oreilly.com/learning)
 - [Dominodatalab](http://blog.dominodatalab.com/)
 - [i am trask](http://iamtrask.github.io/) - A Machine Learning Craftsmanship Blog
-
+- [Trey Causey](http://treycausey.com) - Trey Causey's blog
 
 ## Facebook Accounts
 
