@@ -47,6 +47,7 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 
 ## COLLEGES
 * [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges) 
+* [Data Science Degree @ Berkeley](datascience.berkeley.edu)
 
 ## MOOC's
 
