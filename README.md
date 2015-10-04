@@ -356,7 +356,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
  - [lists](https://github.com/jnv/lists)
- - [awesome Apache Spark](https://github.com/erolrecep/awesome-apacheSpark)
  - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
  - [awesome-python](https://github.com/vinta/awesome-python)
+ - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
 
