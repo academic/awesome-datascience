@@ -40,10 +40,10 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [What is Data Science @ Quora](http://www.quora.com/Data-Science/What-is-data-science)
 * [The sexiest job of 21st century](http://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1)
 * [What is data science](http://www.datascientists.net/what-is-data-science)
-* [What is a data scientist](http://www.becomingadatascientist.com/2014/02/14/what-is-a-data-scientist/
-)
+* [What is a data scientist](http://www.becomingadatascientist.com/2014/02/14/what-is-a-data-scientist/)
 * [Wikipedia](http://en.wikipedia.org/wiki/Data_science)
 * [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
+* [An Introduction to Data Science, PDF](https://ischool.syr.edu/media/documents/2012/3/DataScienceBook1_1.pdf).
 
 ## COLLEGES
 * [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges) 
@@ -114,7 +114,6 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [The GDELT Project](http://gdeltproject.org/)
 * [Sweden, Statistics](http://www.scb.se/en_/)
 * [Github free data source list](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
-* 
 
 ## Bloggers
 
@@ -298,7 +297,6 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
  - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
- - 
 
 
 
