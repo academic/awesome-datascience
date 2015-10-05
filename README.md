@@ -357,4 +357,4 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
  - [awesome-python](https://github.com/vinta/awesome-python)
  - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
-
+ - [awesome-r](https://github.com/qinwf/awesome-R)
