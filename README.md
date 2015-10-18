@@ -3,8 +3,6 @@
 
 *An open source Data Science repository to learn and apply towards solving real world problems.*
 
-This is a clone by me
-
 ## Motivation
 
 *This part is for dummies who are new to Data Science*
