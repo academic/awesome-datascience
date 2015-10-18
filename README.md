@@ -36,7 +36,7 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 
 ## What is Data Science? 
 
-* [What is Data Science @ O'reilly](http://radar.oreilly.com/2010/06/what-is-data-science.html)
+* [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)
 * [What is Data Science @ Quora](http://www.quora.com/Data-Science/What-is-data-science)
 * [The sexiest job of 21st century](http://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1)
 * [What is data science](http://www.datascientists.net/what-is-data-science)
