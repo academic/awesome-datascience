@@ -36,7 +36,7 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 
 ## What is Data Science? 
 
-* [What is Data Science @ O'reilly](http://radar.oreilly.com/2010/06/what-is-data-science.html)
+* [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)
 * [What is Data Science @ Quora](http://www.quora.com/Data-Science/What-is-data-science)
 * [The sexiest job of 21st century](http://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1)
 * [What is data science](http://www.datascientists.net/what-is-data-science)
@@ -48,6 +48,7 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 ## COLLEGES
 * [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges) 
 * [Data Science Degree @ Berkeley](datascience.berkeley.edu)
+* [Data Science Degree @ UVA](https://dsi.virginia.edu/)
 * [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
 
 ## MOOC's
@@ -244,6 +245,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Science Renee](https://twitter.com/BecomingDataSci) - Documenting my path from SQL Data Analyst pursuing an Engineering Master's Degree to Data Scientist
 - [Vamshi Ambati](https://twitter.com/vambati) - Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (Blog: http://allthingsds.wordpress.com )
 - [Tony Ojeda](https://twitter.com/tonyojeda3) - Data Scientist | Author | Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC
+- [Mert Nuhoğlu](https://twitter.com/mertnuhoglu) Data Scientist at BizQualify, Developer
 - [Prash Chan](https://twitter.com/MDMGeek) - Solution Architect @ IBM, Master Data Management, Data Quality & Data Governance Blogger. Data Science, Hadoop, Big Data & Cloud.
 - [Clare Corthell](https://twitter.com/clarecorthell) - Dev, Design, Data Science @mattermark #hackerei
 - [Paul Miller](https://twitter.com/PaulMiller) - Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst. 
