@@ -304,7 +304,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [WNYC Data News Team](https://twitter.com/datanews) - The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work.
 @SkymindIO's open-source deep learning for the JVM. Integrates with Hadoop, Spark. Distributed GPU/CPUs | http://nd4j.org  | http://www.skymind.io 
 
-##Youtube Videos & Channels
+## Youtube Videos & Channels
 
  - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
  - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -343,9 +343,10 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
  * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
  * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework
+ * [Datawrapper](https://datawrapper.de) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper)
 
  
-##Journals, Publications and Magazines
+## Journals, Publications and Magazines
 
  * [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
  * [epjdatascience](http://www.epjdatascience.com/)
