@@ -32,7 +32,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/master/DataScience-Life-Cycle.md) to begin a **Data Science** project.
 
-A large (1280x5859px) visual guide to [Becoming a Data Scientist in 8 Steps](http://i.imgur.com/FnHAqgW.jpg) by [DataCamp](https://www.datacamp.com)
+A visual guide to [Becoming a Data Scientist in 8 Steps](http://i.imgur.com/FnHAqgW.jpg) by [DataCamp](https://www.datacamp.com). *Click the image to view*
 [![image](https://i.imgur.com/ilKnS4b.jpg)](http://i.imgur.com/FnHAqgW.jpg)
 
 
