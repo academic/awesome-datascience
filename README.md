@@ -31,18 +31,17 @@ First of all, Data Science is one of the hottest topics on the Computer and Inte
 Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play with data and to create applications. 
 
 This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/master/DataScience-Life-Cycle.md) to begin a **Data Science** project.
-  
+
+A large (1280x5859px) visual guide to [Becoming a Data Scientist in 8 Steps](http://i.imgur.com/FnHAqgW.jpg) by [DataCamp](https://www.datacamp.com)
+[![image](https://i.imgur.com/ilKnS4b.jpg)](http://i.imgur.com/FnHAqgW.jpg)
 
 
 ![image](http://hubaisms.files.wordpress.com/2013/08/data-scientist.png)
 
 
-
 Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/). 
 
 ![image](http://i.imgur.com/iLIp0Ps.png)
-
-
 
 ![](http://i.imgur.com/W4NRIdU.png)
 by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)
