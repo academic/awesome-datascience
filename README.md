@@ -3,6 +3,21 @@
 
 *An open source Data Science repository to learn and apply towards solving real world problems.*
 
+### Table of contents
+
+* [Motivation](#motivation)
+* [What is Data Science?](#what-is-data-science)
+* [Colleges](#colleges)
+* [MOOC's](#moocs)
+* [Data Sets ](#data-sets)
+* [Bloggers](#bloggers)
+* [Facebook Accounts](#facebook-accounts)
+* [Twitter Accounts ](#twitter-accounts )
+* [YouTube Videos & Channels](#youtube-videos--channels)
+* [Toolboxes - Environment](#toolboxes---environment)
+* [Journals, Publications and Magazines](#journals-publications-and-magazines)
+* [Presentations](#presentations)
+* [Other Awesome Lists](#other-awesome-lists)
 
 
 ## Motivation
