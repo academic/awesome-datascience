@@ -31,18 +31,17 @@ First of all, Data Science is one of the hottest topics on the Computer and Inte
 Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play with data and to create applications. 
 
 This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/master/DataScience-Life-Cycle.md) to begin a **Data Science** project.
-  
+
+A visual guide to [Becoming a Data Scientist in 8 Steps](http://i.imgur.com/FnHAqgW.jpg) by [DataCamp](https://www.datacamp.com). *Click the image to view*
+[![image](https://i.imgur.com/ilKnS4b.jpg)](http://i.imgur.com/FnHAqgW.jpg)
 
 
 ![image](http://hubaisms.files.wordpress.com/2013/08/data-scientist.png)
 
 
-
 Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/). 
 
 ![image](http://i.imgur.com/iLIp0Ps.png)
-
-
 
 ![](http://i.imgur.com/W4NRIdU.png)
 by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)
@@ -304,7 +303,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [WNYC Data News Team](https://twitter.com/datanews) - The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work.
 @SkymindIO's open-source deep learning for the JVM. Integrates with Hadoop, Spark. Distributed GPU/CPUs | http://nd4j.org  | http://www.skymind.io 
 
-##Youtube Videos & Channels
+## Youtube Videos & Channels
 
  - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
  - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -343,9 +342,10 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
  * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
  * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework
+ * [Datawrapper](https://datawrapper.de) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper)
 
  
-##Journals, Publications and Magazines
+## Journals, Publications and Magazines
 
  * [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
  * [epjdatascience](http://www.epjdatascience.com/)
