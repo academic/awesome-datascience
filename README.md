@@ -37,10 +37,10 @@ This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/mast
 
 Preview | Description
 ------------ | -------------
-[<img src="http://i.imgur.com/TvYhCHn.jpg" width="200" />](http://i.imgur.com/AfFMkHe.jpg) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(img)](http://i.imgur.com/AfFMkHe.jpg)
-[<img src="http://i.imgur.com/W2t2Roz.png" width="200" />](http://i.imgur.com/FxsL3b8.png) | A mindmap with necessary skills ([img](http://i.imgur.com/FxsL3b8.png))
-[<img src="http://i.imgur.com/rb9ruaa.png" width="200" />](http://i.imgur.com/FxsL3b8.png) | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
-[<img src="http://i.imgur.com/XBgKF2l.png" width="200" />](http://i.imgur.com/4ZBBvb0.png) | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840), [MarketingDistillery.com](http://www.marketingdistillery.com/2014/11/29/is-data-science-a-buzzword-modern-data-scientist-defined/)
+[<img src="http://i.imgur.com/TvYhCHn.jpg" width="150" />](http://i.imgur.com/AfFMkHe.jpg) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(img)](http://i.imgur.com/AfFMkHe.jpg)
+[<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](http://i.imgur.com/FxsL3b8.png) | Mindmap on required skills ([img](http://i.imgur.com/FxsL3b8.png))
+[<img src="http://i.imgur.com/rb9ruaa.png" width="150" />](http://i.imgur.com/FxsL3b8.png) | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
+[<img src="http://i.imgur.com/XBgKF2l.png" width="150" />](http://i.imgur.com/4ZBBvb0.png) | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840), [MarketingDistillery.com](http://www.marketingdistillery.com/2014/11/29/is-data-science-a-buzzword-modern-data-scientist-defined/)
 
 
 ## What is Data Science?
