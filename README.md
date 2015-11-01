@@ -6,6 +6,7 @@
 ### Table of contents
 
 * [Motivation](#motivation)
+* [Infographic](#infographic)
 * [What is Data Science?](#what-is-data-science)
 * [Colleges](#colleges)
 * [MOOC's](#moocs)
@@ -26,30 +27,23 @@
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
 
-First of all, Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](http://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is an expert in data-related systems and a hacker, and has been working on a company as a data scientist. [Clare's blog](http://datasciencemasters.org/). This web site helps you to understand the exact way to study as a professional data scientist. 
+First of all, Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](http://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is an expert in data-related systems and a hacker, and has been working on a company as a data scientist. [Clare's blog](http://datasciencemasters.org/). This web site helps you to understand the exact way to study as a professional data scientist.
 
 Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://store.continuum.io/cshop/anaconda/) to play with data and to create applications. 
 
 This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/master/DataScience-Life-Cycle.md) to begin a **Data Science** project.
 
-A visual guide to [Becoming a Data Scientist in 8 Steps](http://i.imgur.com/FnHAqgW.jpg) by [DataCamp](https://www.datacamp.com). *Click the image to view*
-[![image](https://i.imgur.com/ilKnS4b.jpg)](http://i.imgur.com/FnHAqgW.jpg)
+## Infographic
+
+Preview | Description
+------------ | -------------
+[<img src="http://i.imgur.com/TvYhCHn.jpg" width="200" />](http://i.imgur.com/AfFMkHe.jpg) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(img)](http://i.imgur.com/AfFMkHe.jpg)
+[<img src="http://i.imgur.com/W2t2Roz.png" width="200" />](http://i.imgur.com/FxsL3b8.png) | A mindmap with necessary skills ([img](http://i.imgur.com/FxsL3b8.png))
+[<img src="http://i.imgur.com/rb9ruaa.png" width="200" />](http://i.imgur.com/FxsL3b8.png) | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
+[<img src="http://i.imgur.com/XBgKF2l.png" width="200" />](http://i.imgur.com/4ZBBvb0.png) | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840), [MarketingDistillery.com](http://www.marketingdistillery.com/2014/11/29/is-data-science-a-buzzword-modern-data-scientist-defined/)
 
 
-![image](http://hubaisms.files.wordpress.com/2013/08/data-scientist.png)
-
-
-Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/). 
-
-![image](http://i.imgur.com/iLIp0Ps.png)
-
-![](http://i.imgur.com/W4NRIdU.png)
-by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)
-[MarketingDistillery.com](http://www.marketingdistillery.com/2014/11/29/is-data-science-a-buzzword-modern-data-scientist-defined/)
-
-
-
-## What is Data Science? 
+## What is Data Science?
 
 * [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)
 * [What is Data Science @ Quora](http://www.quora.com/Data-Science/What-is-data-science)
@@ -61,20 +55,20 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [An Introduction to Data Science, PDF](https://ischool.syr.edu/media/documents/2012/3/DataScienceBook1_1.pdf).
 
 ## COLLEGES
-* [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges) 
+* [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 * [Data Science Degree @ Berkeley](datascience.berkeley.edu)
 * [Data Science Degree @ UVA](https://dsi.virginia.edu/)
 * [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
 
 ## MOOC's
 
-* [Google Making Sense of Data](https://datasense.withgoogle.com/course) 
+* [Google Making Sense of Data](https://datasense.withgoogle.com/course)
 * [Coursera Introduction to Data Science](https://www.coursera.org/course/datasci)
 * [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage)
 * [Data Mining - 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specialization/datamining)
 * [CS 109 Data Science](http://cs109.org/)
 * [Schoolofdata](http://schoolofdata.org/)
-* [OpenIntro](http://www.openintro.org/) 
+* [OpenIntro](http://www.openintro.org/)
 * [Data science MOOC](http://datascience.sg/categories/MOOC/)
 * [CS 171 Visualization](http://www.cs171.org/#!index.md)
 * [Process Mining: Data science in Action](https://www.coursera.org/course/procmin)
@@ -85,7 +79,7 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
 
 
-## Data Sets 
+## Data Sets
 
 * [Academic Torrents](http://academictorrents.com/)
 * [hadoopilluminated.com](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
@@ -130,7 +124,7 @@ by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/Mkt
 * [The GDELT Project](http://gdeltproject.org/)
 * [Sweden, Statistics](http://www.scb.se/en_/)
 * [Github free data source list](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
-* [StackExchange Data Explorer](http://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network. 
+* [StackExchange Data Explorer](http://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
 
 ## Bloggers
 
@@ -165,13 +159,13 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Revolution Analytics](http://blog.revolutionanalytics.com/) - Data Science Blog
 - [R Bloggers](http://www.r-bloggers.com/) - R Bloggers
 - [The Practical Quant](http://practicalquant.blogspot.com/) Big data
-- [Micheal Le Gal](http://www.mickaellegal.com/) a data enthusiast who gets hooked on solving intriguing problems and crafting beautiful stories and visualizations with data. Over the past 5 years, He haas applied statistics to solve problems in government, brain sciences, and most recently, retail. 
+- [Micheal Le Gal](http://www.mickaellegal.com/) a data enthusiast who gets hooked on solving intriguing problems and crafting beautiful stories and visualizations with data. Over the past 5 years, He haas applied statistics to solve problems in government, brain sciences, and most recently, retail.
 - [Datascope Anayltics](http://datascopeanalytics.com/) data-driven consulting and design
 - [Yet Another Data Blog](http://yet-another-data-blog.blogspot.com.tr/) Yet Another Data Blog
 - [Spenczar](http://spenczar.com/) a data scientist at _Twitch_. I handle the whole data pipeline, from tracking to model-building to reporting.
 - [KD Nuggets](http://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
 - [Meta Brown](http://www.metabrown.com/blog/) - Personal Blog
-- [Data Scientist](http://www.datascientists.net/) is building the data scientist culture. 
+- [Data Scientist](http://www.datascientists.net/) is building the data scientist culture.
 - [WhatSTheBigData](http://whatsthebigdata.com/) is some of, all of, or much more than the above and this blog explores its impact on information technology, the business world, government agencies, and our lives.
 - [Mic Farris](http://www.micfarris.com/) Focusing on science, datascience, business, technology, and channeling inner geekness!
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - Magnus Notitia
@@ -236,7 +230,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Mining/Big Data - Social Network Ana](https://www.facebook.com/groups/dataminingsocialnetworks/)
 
 
-## Twitter Accounts 
+## Twitter Accounts
 
 - [Big Data Combine](https://twitter.com/BigDataCombine) - Rapid-fire, live tryouts for data scientists seeking to monetize their models as trading strategies
 - [Big Data Mania](https://twitter.com/BigDataGal) - Data Viz Wiz | Data Journalist | Growth Hacker | Author of Data Science for Dummies (2015)
@@ -245,14 +239,14 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Chris Said](https://twitter.com/Chris_Said) - Data scientist at Twitter
 - [Clare Corthell](https://twitter.com/clarecorthell) - Dev, Design, Data Science @mattermark #hackerei
 - [DADI Charles-Abner](https://twitter.com/DadiCharles) - #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast
-- [Data Science Central](https://twitter.com/DataScienceCtrl) - Data Science Central is the industry's single resource for Big Data practitioners. 
+- [Data Science Central](https://twitter.com/DataScienceCtrl) - Data Science Central is the industry's single resource for Big Data practitioners.
 - [Data Science London](https://twitter.com/ds_ldn) Data Science. Big Data. Data Hacks. Data Junkies. Data Startups. Open Data
 - [Data Science Renee](https://twitter.com/BecomingDataSci) - Documenting my path from SQL Data Analyst pursuing an Engineering Master's Degree to Data Scientist
 - [Data Science Report](https://twitter.com/TedOBrien93) - Mission is to help guide & advance careers in Data Science & Analytics
 - [Data Science Tips](https://twitter.com/datasciencetips) - Tips and Tricks for Data Scientists around the world! #datascience #bigdata
 - [Data Vizzard](https://twitter.com/DataVisualizati) - DataViz, Security, Military
 - [DataScienceX](https://twitter.com/DataScienceX)
-- [deeplearning4j](https://twitter.com/deeplearning4j) - 
+- [deeplearning4j](https://twitter.com/deeplearning4j) -
 - [DJ Patil](https://twitter.com/dpatil) - White House Data Chief, VP @ RelateIQ.
 - [Domino Data Lab](https://twitter.com/DominoDataLab)
 - [Drew Conway](https://twitter.com/drewconway) - Data nerd, hacker, student of conflict.
@@ -263,11 +257,11 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Gregory Piatetsky](https://twitter.com/kdnuggets) - KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
 - [Hakan Kardas](https://twitter.com/hakan_kardes) - Data Scientist
 - [Hilary Mason](https://twitter.com/hmason) - Data Scientist in Residence at @accel.
-- [Jeff Hammerbacher](https://twitter.com/hackingdata) ReTweeting about data science 
+- [Jeff Hammerbacher](https://twitter.com/hackingdata) ReTweeting about data science
 - [John Myles White](https://twitter.com/johnmyleswhite) Scientist at Facebook and Julia developer. Author of Machine Learning for Hackers and Bandit Algorithms for Website Optimization. Tweets reflect my views only.
 - [Juan Miguel Lavista](https://twitter.com/BDataScientist) - Principal Data Scientist @ Microsoft Data Science Team
 - [Julia Evans](https://twitter.com/b0rk) - Hacker - Pandas - Data Analyze
-- [Kenneth Cukier](https://twitter.com/kncukier) -  The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ). 
+- [Kenneth Cukier](https://twitter.com/kncukier) -  The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ).
 - [Kevin Davenport](https://twitter.com/KevinLDavenport) - Organizer of http://sddatascience.com
 - [Kim Rees](https://twitter.com/krees) - Interactive data visualization and tools. Data flaneur.
 - [Kirk Borne](https://twitter.com/KirkDBorne) -  DataScientist, PhD Astrophysicist, Top #BigData Influencer.
@@ -278,8 +272,8 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Matthew Russell](https://twitter.com/ptwobrussell) - Mining the Social Web.
 - [Mert Nuhoğlu](https://twitter.com/mertnuhoglu) Data Scientist at BizQualify, Developer
 - [Monica Rogati](https://twitter.com/mrogati) - Data @ Jawbone. Turned data into stories & products at LinkedIn. Text mining, applied machine learning, recommender systems. Ex-gamer, ex-machine coder; namer.
-- [Noah Iliinsky](https://twitter.com/noahi) - Visualization & interaction designer. Practical cyclist. Author of vis books: http://www.oreillynet.com/pub/au/4419 
-- [Paul Miller](https://twitter.com/PaulMiller) - Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst. 
+- [Noah Iliinsky](https://twitter.com/noahi) - Visualization & interaction designer. Practical cyclist. Author of vis books: http://www.oreillynet.com/pub/au/4419
+- [Paul Miller](https://twitter.com/PaulMiller) - Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst.
 - [Peter Skomoroch](https://twitter.com/peteskomoroch) - Creating intelligent systems to automate tasks & improve decisions. Entrepreneur, ex Principal Data Scientist @LinkedIn. Machine Learning, ProductRei, Networks
 - [Prash Chan](https://twitter.com/MDMGeek) - Solution Architect @ IBM, Master Data Management, Data Quality & Data Governance Blogger. Data Science, Hadoop, Big Data & Cloud.
 - [Quora Data Science](https://twitter.com/q_datascience) Quora's data science topic
@@ -292,7 +286,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Silvia K. Spiva](https://twitter.com/silviakspiva) - #DataScience at Cisco
 - [Spencer Nelson](https://twitter.com/spenczar_n) - Data nerd
 - [Talha Oz](https://twitter.com/tozCSS) - Enjoys ABM, SNA, DM, ML, NLP, HI, Python, Java. Top percentile kaggler/data scientist
-- [Tasos Skarlatidis](https://twitter.com/anskarl) - Complex Event Processing, Big Data, Artificial Intelligence and Machine Learning. Passionate about programming and open-source. 
+- [Tasos Skarlatidis](https://twitter.com/anskarl) - Complex Event Processing, Big Data, Artificial Intelligence and Machine Learning. Passionate about programming and open-source.
 - [Terry Timko](https://twitter.com/Terry_Timko) - InfoGov; Bigdata; Data as a Service; Data Science; Open, Social & Business Data Convergence
 - [TextDataMiningReddit](https://twitter.com/TextMining_r)
 - [Tony Baer](https://twitter.com/TonyBaer) - IT analyst with Ovum covering Big Data & data management with some systems engineering thrown in.
@@ -301,7 +295,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Wes McKinney](https://twitter.com/wesmckinn) - Pandas (Python Data Analysis library).
 - [WileyEd](https://twitter.com/WileyEd) - Senior Manager - @Seagate Big Data Analytics | @McKinsey Alum | #BigData + #Analytics Evangelist | #Hadoop, #Cloud, #Digital, & #R Enthusiast
 - [WNYC Data News Team](https://twitter.com/datanews) - The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work.
-@SkymindIO's open-source deep learning for the JVM. Integrates with Hadoop, Spark. Distributed GPU/CPUs | http://nd4j.org  | http://www.skymind.io 
+@SkymindIO's open-source deep learning for the JVM. Integrates with Hadoop, Spark. Distributed GPU/CPUs | http://nd4j.org  | http://www.skymind.io
 
 ## Youtube Videos & Channels
 
@@ -319,7 +313,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 ## Toolboxes - Environment
 
  * [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
- * [R](http://www.r-project.org/) is a free software environment for statistical computing and graphics. 
+ * [R](http://www.r-project.org/) is a free software environment for statistical computing and graphics.
  * [RStudio](https://www.rstudio.com) IDE – powerful user interface for R. It’s free and open source, works onWindows, Mac, and Linux.
  * [Python - Pandas - Anaconda](https://store.continuum.io/cshop/anaconda/) Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing
  * [Scikit-Learn](http://scikit-learn.org/stable/) Machine Learning in Python
@@ -333,7 +327,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
  * [Domino Data Labs](http://www.dominoup.com/) Run, scale, share, and deploy your models — without any infrastructure or setup.
  * [Apache Flink](https://flink.incubator.apache.org/) A platform for efficient, distributed, general-purpose data processing.
- * [Apache Hama](http://hama.apache.org/) Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce. 
+ * [Apache Hama](http://hama.apache.org/) Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce.
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks.
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab)
  * [Apache Spark](https://spark.apache.org/) Lightning-fast cluster computing
@@ -344,7 +338,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework
  * [Datawrapper](https://datawrapper.de) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper)
 
- 
+
 ## Journals, Publications and Magazines
 
  * [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
@@ -367,7 +361,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
 * [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 * [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
- 
+
 ## Other Awesome Lists
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
