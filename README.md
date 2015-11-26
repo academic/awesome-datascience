@@ -41,6 +41,10 @@ Preview | Description
 [<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](http://i.imgur.com/FxsL3b8.png) | Mindmap on required skills ([img](http://i.imgur.com/FxsL3b8.png))
 [<img src="http://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png) | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
 [<img src="http://i.imgur.com/XBgKF2l.png" width="150" />](http://i.imgur.com/4ZBBvb0.png) | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840), [MarketingDistillery.com](http://www.marketingdistillery.com/2014/11/29/is-data-science-a-buzzword-modern-data-scientist-defined/)
+[<img src="http://i.imgur.com/bM7g2co.png" width="150" />](http://i.imgur.com/4e705Q4.png) | And a male version, from another article by [MarketingDistillery.com](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/)
+[<img src="http://i.imgur.com/l9ZGtal.jpg" width="150" />](http://i.imgur.com/xLY3XZn.jpg) | By [Data Science Central](http://www.datasciencecentral.com/)
+[<img src="http://i.imgur.com/b9xYdZB.jpg" width="150" />](http://i.imgur.com/aoz1BJy.jpg) | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.
+[<img src="http://i.imgur.com/Sx39DIT.png" width="150" />](http://i.imgur.com/0TydZ4M.png) | Data Science Wars: R vs Python
 
 
 ## What is Data Science?
