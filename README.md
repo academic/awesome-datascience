@@ -209,7 +209,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [O'reilly Learning Blog](https://beta.oreilly.com/learning)
 - [Dominodatalab](http://blog.dominodatalab.com/)
 - [i am trask](http://iamtrask.github.io/) - A Machine Learning Craftsmanship Blog
-
+- [Vademecum of Practical Data Science](http://datasciencevademecum.wordpress.com/) - Handbook and recipes for data-driven solutions of real-world problems
 
 ## Facebook Accounts
 
@@ -232,7 +232,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [BigData/Hadoop Expert](https://www.facebook.com/groups/BigDataExpert/)
 - [Data Mining / Machine Learning / AI](https://www.facebook.com/groups/machinelearningforum/)
 - [Data Mining/Big Data - Social Network Ana](https://www.facebook.com/groups/dataminingsocialnetworks/)
-
+- [Vademecum of Practical Data Science](https://www.facebook.com/datasciencevademecum)
 
 ## Twitter Accounts
 
