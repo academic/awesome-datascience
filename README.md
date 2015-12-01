@@ -70,6 +70,7 @@ Preview | Description
 * [Coursera Introduction to Data Science](https://www.coursera.org/course/datasci)
 * [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage)
 * [Data Mining - 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specialization/datamining)
+* [Machine Learning – 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/machine-learning)
 * [CS 109 Data Science](http://cs109.org/)
 * [Schoolofdata](http://schoolofdata.org/)
 * [OpenIntro](http://www.openintro.org/)
