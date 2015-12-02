@@ -82,6 +82,7 @@ Preview | Description
 * [Oxford Machine Learning](http://www.cs.ox.ac.uk/activities/machinelearning/)
 * [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 * [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
+* [Coursera Big Data Specialization] (https://www.coursera.org/specializations/big-data)
 
 
 ## Data Sets
