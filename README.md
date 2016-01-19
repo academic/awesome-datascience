@@ -58,6 +58,7 @@ Preview | Description
 * [Wikipedia](http://en.wikipedia.org/wiki/Data_science)
 * [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 * [An Introduction to Data Science, PDF](https://ischool.syr.edu/media/documents/2012/3/DataScienceBook1_1.pdf).
+* [Data Science Methodology by John Rollins PhD](http://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science)
 
 ## COLLEGES
 * [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
@@ -84,6 +85,8 @@ Preview | Description
 * [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 * [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
 * [Coursera Big Data Specialization] (https://www.coursera.org/specializations/big-data)
+* [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
+* [Big Data University by IBM](http://bigdatauniversity.com/)
 
 
 ## Data Sets
@@ -345,6 +348,9 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
  * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework
  * [Datawrapper](https://datawrapper.de) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper)
+ * [Tensor Flow](https://www.tensorflow.org/) - TensorFlow is an Open Source Software Library for Machine Intelligence
+ * [Natural Language Toolkit](http://www.nltk.org/)
+ * [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit)
 
 
 ## Journals, Publications and Magazines
