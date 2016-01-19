@@ -352,6 +352,46 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Tensor Flow](https://www.tensorflow.org/) - TensorFlow is an Open Source Software Library for Machine Intelligence
  * [Natural Language Toolkit](http://www.nltk.org/)
  * [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit)
+ 
+ 
+ ## Visualization Tools - Environments
+
+ * [addepar](http://addepar.github.io/#/ember-charts/overview)
+ * [amcharts](http://www.amcharts.com/)
+ * [anychart](http://www.anychart.com/home/)
+ * [capsidea](https://capsidea.com/)
+ * [cartodb](http://cartodb.github.io/odyssey.js/)
+ * [Cube](http://square.github.io/cube/)
+ * [d3plus](http://d3plus.org/)
+ * [Data-Driven Documents(D3js)](http://d3js.org/)
+ * [datahero](https://datahero.com/)
+ * [dygraphs](http://dygraphs.com/)
+ * [ECharts](http://echarts.baidu.com/index-en.html)
+ * [exhibit](http://www.simile-widgets.org/exhibit/)
+ * [Gatherplot](http://www.gatherplot.org/)
+ * [gephi](http://gephi.github.io/)
+ * [ggplot2](http://ggplot2.org/)
+ * [Glue](http://www.glueviz.org/en/latest/)
+ * [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
+ * [highcarts](http://www.highcharts.com/)
+ * [import.io](https://import.io/)
+ * [jqplot](http://www.jqplot.com/)
+ * [Matplotlib](http://matplotlib.org/)
+ * [nvd3](http://nvd3.org/)
+ * [Opendata-tools](http://opendata-tools.org/en/visualization/) - list of open source data visualization tools
+ * [Openrefine](http://openrefine.org/)
+ * [plot.ly](https://plot.ly/)
+ * [raw](http://raw.densitydesign.org/)
+ * [rcharts](http://rcharts.io/)
+ * [techanjs](http://techanjs.org/)
+ * [tenxer](http://tenxer.github.io/xcharts/)
+ * [Timeline](http://timeline.knightlab.com/)
+ * [variancecharts](https://variancecharts.com/index.html)
+ * [vida](https://vida.io/)
+ * [Wolframalpha](http://www.wolframalpha.com/)
+ * [Wrangler](http://vis.stanford.edu/wrangler/)
+ * [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+ * [NetworkX](https://networkx.github.io/) - High-productivity software for complex networks
 
 
 ## Journals, Publications and Magazines
