@@ -239,6 +239,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Mining / Machine Learning / AI](https://www.facebook.com/groups/machinelearningforum/)
 - [Data Mining/Big Data - Social Network Ana](https://www.facebook.com/groups/dataminingsocialnetworks/)
 - [Vademecum of Practical Data Science](https://www.facebook.com/datasciencevademecum)
+- [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
 
 ## Twitter Accounts
 
