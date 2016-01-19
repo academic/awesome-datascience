@@ -354,8 +354,8 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit)
  
  
- ## Visualization Tools - Environments
-
+## Visualization Tools - Environments
+ 
  * [addepar](http://addepar.github.io/#/ember-charts/overview)
  * [amcharts](http://www.amcharts.com/)
  * [anychart](http://www.anychart.com/home/)
