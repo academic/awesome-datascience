@@ -87,6 +87,7 @@ Preview | Description
 * [Coursera Big Data Specialization] (https://www.coursera.org/specializations/big-data)
 * [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
 * [Big Data University by IBM](http://bigdatauniversity.com/)
+* [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 
 
 ## Data Sets
