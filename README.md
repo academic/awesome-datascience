@@ -110,6 +110,7 @@ Preview | Description
 * [Public Big Data Sets](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 * [Houston Data Portal](http://data.ohouston.org/)
 * [Kaggle Data Sources](https://www.kaggle.com/wiki/DataSources)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [A Deep Catalog of Human Genetic Variation](http://www.1000genomes.org/data)
 * [A community-curated database of well-known people, places, and things](https://www.freebase.com/)
 * [Google Public Data](http://www.google.com/publicdata/directory)
