@@ -355,6 +355,8 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Tensor Flow](https://www.tensorflow.org/) - TensorFlow is an Open Source Software Library for Machine Intelligence
  * [Natural Language Toolkit](http://www.nltk.org/)
  * [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit)
+ * [Julia](http://julialang.org) – high-level, high-performance dynamic programming language for technical computing.
+ * [IJulia](https://github.com/JuliaLang/IJulia.jl) – a Julia-language backend combined with the Jupyter interactive environment.
  
  
 ## Visualization Tools - Environments
