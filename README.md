@@ -139,6 +139,7 @@ Preview | Description
 * [StackExchange Data Explorer](http://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
 * [San Fransisco Government Open Data](https://data.sfgov.org/)
 * [IBM Blog abour open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
+* [Google Public Data](https://www.google.com/publicdata)
 
 ## Bloggers
 
