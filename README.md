@@ -141,6 +141,7 @@ Preview | Description
 * [San Fransisco Government Open Data](https://data.sfgov.org/)
 * [IBM Blog abour open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
 * [Google Public Data](https://www.google.com/publicdata)
+* [Open data Index](http://index.okfn.org/)
 
 ## Bloggers
 
