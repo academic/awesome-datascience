@@ -44,9 +44,10 @@ Preview | Description
 [<img src="http://i.imgur.com/bM7g2co.png" width="150" />](http://i.imgur.com/4e705Q4.png) | And a male version, from another article by [MarketingDistillery.com](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/)
 [<img src="http://i.imgur.com/l9ZGtal.jpg" width="150" />](http://i.imgur.com/xLY3XZn.jpg) | By [Data Science Central](http://www.datasciencecentral.com/)
 [<img src="http://i.imgur.com/b9xYdZB.jpg" width="150" />](http://i.imgur.com/aoz1BJy.jpg) | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.
-[<img src="http://i.imgur.com/Sx39DIT.png" width="150" />](http://i.imgur.com/0TydZ4M.png) | Data Science Wars: R vs Python
+[<img src="http://i.imgur.com/TWkB4X6.png" width="150" />](http://i.imgur.com/0TydZ4M.png) | Data Science Wars: R vs Python
 [<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png) | How to select statistical or machine learning techniques
-[<img src="http://blog.datacamp.com/wp-content/uploads/2015/11/ds-industry_22.png" width="150" />](http://blog.datacamp.com/wp-content/uploads/2015/11/ds-industry_22.png) | The Data Science Industry: Who Does What
+[<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png) | The Data Science Industry: Who Does What
+[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png) | Data Science Venn Diagram
 
 
 ## What is Data Science?
@@ -62,6 +63,7 @@ Preview | Description
 * [Data Science Methodology by John Rollins PhD](http://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science)
 
 ## COLLEGES
+
 * [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 * [Data Science Degree @ Berkeley](datascience.berkeley.edu)
 * [Data Science Degree @ UVA](https://dsi.virginia.edu/)
