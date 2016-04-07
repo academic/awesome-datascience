@@ -48,6 +48,7 @@ Preview | Description
 [<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png) | How to select statistical or machine learning techniques
 [<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png) | The Data Science Industry: Who Does What
 [<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png) | Data Science Venn Diagram
+[<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard
 
 
 ## What is Data Science?
@@ -225,6 +226,8 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Dominodatalab](http://blog.dominodatalab.com/)
 - [i am trask](http://iamtrask.github.io/) - A Machine Learning Craftsmanship Blog
 - [Vademecum of Practical Data Science](http://datasciencevademecum.wordpress.com/) - Handbook and recipes for data-driven solutions of real-world problems
+- [Dataconomy](http://dataconomy.com/) - A blog on the new emerging data economy
+- [Springboard](http://springboard.com/blog) - A blog with resources for data science learners
 
 ## Facebook Accounts
 
