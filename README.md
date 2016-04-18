@@ -62,6 +62,7 @@ Preview | Description
 * [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 * [An Introduction to Data Science, PDF](https://ischool.syr.edu/media/documents/2012/3/DataScienceBook1_1.pdf).
 * [Data Science Methodology by John Rollins PhD](http://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science)
+* [A Day in the Life of a Data Scientist by Rutgers University](http://online.rutgers.edu/resources/articles/a-day-in-the-life-of-a-data-scientist/)
 
 ## COLLEGES
 
@@ -69,6 +70,7 @@ Preview | Description
 * [Data Science Degree @ Berkeley](datascience.berkeley.edu)
 * [Data Science Degree @ UVA](https://dsi.virginia.edu/)
 * [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
+* [Master of Information @ Rutgers](http://online.rutgers.edu/master-library-info/)
 
 ## MOOC's
 
