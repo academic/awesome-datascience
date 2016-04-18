@@ -49,6 +49,7 @@ Preview | Description
 [<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png) | The Data Science Industry: Who Does What
 [<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png) | Data Science Venn Diagram
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard
+[<img src="http://i.imgur.com/gsFmRiZ.png" width="150" />] (http://online.rutgers.edu/wp-content/themes/ckg-blank-child/img/infographics/MI-Career-Data-Scientist-FINAL.png) | by [Rutgers University Online](http://online.rutgers.edu/resources/infographics/what-can-you-do-with-a-career-in-data-science/)
 
 
 ## What is Data Science?
