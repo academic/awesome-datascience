@@ -72,6 +72,7 @@ Preview | Description
 * [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
 * [Master of Information @ Rutgers](http://online.rutgers.edu/master-library-info/)
 * [MS in Business Analytics @ ASU Online] (http://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
+* [Data Science Engineer @ BTH](https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/)
 
 ## MOOC's
 
