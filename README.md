@@ -18,7 +18,7 @@
 * [Toolboxes - Environment](#toolboxes---environment)
 * [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Presentations](#presentations)
-* [Data Science Competitions](#Competitions)
+* [Data Science Competitions](#competitions)
 * [Other Awesome Lists](#other-awesome-lists)
 
 
@@ -340,8 +340,8 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
 
-
 ## Toolboxes - Environment
+
  * [Datalab from Google](https://cloud.google.com/datalab/overview) easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively.
  * [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
  * [R](http://www.r-project.org/) is a free software environment for statistical computing and graphics.
@@ -439,6 +439,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
 * [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
 
 ## Competitions
+
   Some data mining competition platforms
 * [Kaggle](https://www.kaggle.com/)
 * [DrivenData](https://www.drivendata.org/)
