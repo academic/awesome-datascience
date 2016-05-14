@@ -18,6 +18,7 @@
 * [Toolboxes - Environment](#toolboxes---environment)
 * [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Presentations](#presentations)
+* [Data Science Competitions](#Competitions)
 * [Other Awesome Lists](#other-awesome-lists)
 
 
@@ -232,6 +233,8 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Vademecum of Practical Data Science](http://datasciencevademecum.wordpress.com/) - Handbook and recipes for data-driven solutions of real-world problems
 - [Dataconomy](http://dataconomy.com/) - A blog on the new emerging data economy
 - [Springboard](http://springboard.com/blog) - A blog with resources for data science learners
+- [Analytics Vidhya](http://www.analyticsvidhya.com/) - A full-fledged website about data science and analytics study material.
+- [Occam's Razor](http://www.kaushik.net/avinash/) - Focused on Web Analytics.
 
 ## Facebook Accounts
 
@@ -434,6 +437,15 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
 * [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 * [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
+
+## Competitions
+  Some data mining competition platforms
+* [Kaggle](https://www.kaggle.com/)
+* [DrivenData](https://www.drivendata.org/)
+* [Analytics Vidhya](http://www.analyticsvidhya.com/blog/tag/data-science-competitions/)
+* [The Data Science Game](http://www.datasciencegame.com/)
+* [InnoCentive](https://www.innocentive.com/)
+* [TuneedIT](http://tunedit.org/challenges)
 
 ## Other Awesome Lists
 
