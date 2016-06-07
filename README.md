@@ -257,6 +257,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Mining/Big Data - Social Network Ana](https://www.facebook.com/groups/dataminingsocialnetworks/)
 - [Vademecum of Practical Data Science](https://www.facebook.com/datasciencevademecum)
 - [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
+- [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
 ## Twitter Accounts
 
@@ -449,3 +450,4 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
  - [awesome-r](https://github.com/qinwf/awesome-R)
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets). – An awesome list of high-quality open datasets in public domains
+ - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
