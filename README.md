@@ -235,6 +235,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Vademecum of Practical Data Science](http://datasciencevademecum.wordpress.com/) - Handbook and recipes for data-driven solutions of real-world problems
 - [Dataconomy](http://dataconomy.com/) - A blog on the new emerging data economy
 - [Springboard](http://springboard.com/blog) - A blog with resources for data science learners
+- [Data School](http://www.dataschool.io/) - Data science tutorials for beginners!
 
 ## Facebook Accounts
 
