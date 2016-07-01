@@ -294,6 +294,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Julia Evans](https://twitter.com/b0rk) - Hacker - Pandas - Data Analyze
 - [Kenneth Cukier](https://twitter.com/kncukier) -  The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ).
 - [Kevin Davenport](https://twitter.com/KevinLDavenport) - Organizer of http://sddatascience.com
+- [Kevin Markham](https://twitter.com/justmarkham) - Data science instructor, and founder of [Data School](http://www.dataschool.io/)
 - [Kim Rees](https://twitter.com/krees) - Interactive data visualization and tools. Data flaneur.
 - [Kirk Borne](https://twitter.com/KirkDBorne) -  DataScientist, PhD Astrophysicist, Top #BigData Influencer.
 - [Linda Regber](https://twitter.com/LindaRegber) - Data story teller, visualizations.
