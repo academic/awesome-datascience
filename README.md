@@ -68,7 +68,7 @@ Preview | Description
 ## COLLEGES
 
 * [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
-* [Data Science Degree @ Berkeley](datascience.berkeley.edu)
+* [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
 * [Data Science Degree @ UVA](https://dsi.virginia.edu/)
 * [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
 * [Master of Information @ Rutgers](http://online.rutgers.edu/master-library-info/)
