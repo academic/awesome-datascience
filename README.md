@@ -455,3 +455,4 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  - [awesome-r](https://github.com/qinwf/awesome-R)
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets). – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
+ - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas)
