@@ -447,7 +447,6 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 * [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
 
-<<<<<<< HEAD
 ## Competitions
 
   Some data mining competition platforms
@@ -457,10 +456,9 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
 * [The Data Science Game](http://www.datasciencegame.com/)
 * [InnoCentive](https://www.innocentive.com/)
 * [TuneedIT](http://tunedit.org/challenges)
-=======
+
 ## Comics
 * [<img src="http://imgs.xkcd.com/comics/digital_data.png" />](Digital Data)
->>>>>>> 130704eeba24106da74c235862ffd190f21b1bea
 
 ## Other Awesome Lists
 
