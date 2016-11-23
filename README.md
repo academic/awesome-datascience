@@ -372,6 +372,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
  * [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
  * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
+ * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS
  * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
  * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework
  * [Datawrapper](https://datawrapper.de) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper)
