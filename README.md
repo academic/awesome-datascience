@@ -355,6 +355,8 @@ We are more than 3,190 data scientists and data geeks in our community.
  * [RStudio](https://www.rstudio.com) IDE – powerful user interface for R. It’s free and open source, works onWindows, Mac, and Linux.
  * [Python - Pandas - Anaconda](https://store.continuum.io/cshop/anaconda/) Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing
  * [Scikit-Learn](http://scikit-learn.org/stable/) Machine Learning in Python
+ * [NumPy](http://www.numpy.org/) NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays.
+ * [SciPy](https://www.scipy.org/) SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization.
  * [Data Science Toolbox](https://www.coursera.org/course/datascitoolbox) - Coursera Course
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - Blog
  * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generating rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language.
