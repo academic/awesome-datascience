@@ -371,6 +371,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks.
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab)
  * [Apache Spark](https://spark.apache.org/) Lightning-fast cluster computing
+ * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.
  * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
  * [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
  * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
