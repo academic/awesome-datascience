@@ -150,6 +150,7 @@ Preview | Description
 * [San Fransisco Government Open Data](https://data.sfgov.org/)
 * [IBM Blog abour open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
 * [Open data Index](http://index.okfn.org/)
+* [Liver Tumor Segmentation Challenge Dataset](http://www.lits-challenge.com/)
 
 ## Bloggers
 
