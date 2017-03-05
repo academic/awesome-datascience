@@ -232,10 +232,12 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Vademecum of Practical Data Science](https://datasciencevademecum.wordpress.com/) - Handbook and recipes for data-driven solutions of real-world problems
 - [Dataconomy](http://dataconomy.com/) - A blog on the new emerging data economy
 - [Springboard](https://springboard.com/blog) - A blog with resources for data science learners
-- [Analytics Vidhya](https://www.analyticsvidhya.com/) - A full-fledged website about data science and analytics study material.
+- [Analytics Vidhya](https://www.analyticsvidhya.com/) - A full-fledged website about data science and analytics study material. 
 - [Occam's Razor](https://www.kaushik.net/avinash/) - Focused on Web Analytics.
-=======
 - [Data School](http://www.dataschool.io/) - Data science tutorials for beginners!
+
+
+=======
 
 ## Facebook Accounts
 
