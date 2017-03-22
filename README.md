@@ -236,6 +236,9 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Occam's Razor](https://www.kaushik.net/avinash/) - Focused on Web Analytics.
 =======
 - [Data School](http://www.dataschool.io/) - Data science tutorials for beginners!
+- [Colah's Blog](http://colah.github.io) - Blog for understanding Neural Networks!
+- [Sebastian's Blog](http://sebastianruder.com/#open) - Blog for NLP and transfer learning!
+- [Distill](http://distill.pub) - Dedicated to clear explanations of machine learning!
 
 ## Facebook Accounts
 
