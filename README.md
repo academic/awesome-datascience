@@ -436,6 +436,8 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Journal of Big Data](http://journalofbigdata.springeropen.com/)
  * [Big Data & Society](http://journals.sagepub.com/home/bds)
  * [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
+ * [datatau.com/news](http://www.datatau.com/news) - Like Hacker News, but for data
+ * [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
 
 
 ## Presentations
