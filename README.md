@@ -12,6 +12,7 @@
 * [MOOC's](#moocs)
 * [Data Sets ](#data-sets)
 * [Bloggers](#bloggers)
+* [Podcasts](#podcasts)
 * [Facebook Accounts](#facebook-accounts)
 * [Twitter Accounts ](#twitter-accounts )
 * [YouTube Videos & Channels](#youtube-videos--channels)
@@ -239,8 +240,19 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Sebastian's Blog](http://sebastianruder.com/#open) - Blog for NLP and transfer learning!
 - [Distill](http://distill.pub) - Dedicated to clear explanations of machine learning!
 
+## Podcasts
 
-=======
+- [Adversarial Learning](https://adversariallearning.com/)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+- [Data Crunch](http://vaultanalytics.com/datacrunch/)
+- [Data Skeptic](https://dataskeptic.com/)
+- [Data Stories](http://datastori.es/)
+- [Learning Machines 101](http://www.learningmachines101.com/)
+- [Linear Digressions](http://lineardigressions.com/)
+- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
+- [Partially Derivative](http://partiallyderivative.com/)
+- [Superdatascience](https://www.superdatascience.com/podcast/)
+- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 
 ## Facebook Accounts
 
