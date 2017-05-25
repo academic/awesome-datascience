@@ -450,6 +450,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
  * [datatau.com/news](http://www.datatau.com/news) - Like Hacker News, but for data
  * [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
+ * [Medium Data Science Topic](https://medium.com/topic/data-science) - Data Science related publications on medium
 
 
 ## Presentations
