@@ -108,7 +108,7 @@ Preview | Description
 * [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 * [United States Census Bureau](http://www.census.gov/)
 * [usgovxml.com](http://usgovxml.com/)
-* [enigma.io](http://enigma.io/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
+* [enigma.com](http://enigma.com/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
 * [datahub.io](https://datahub.io/)
 * [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 * [databib.org](http://databib.org/)
