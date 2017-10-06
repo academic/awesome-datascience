@@ -13,6 +13,7 @@
 * [Data Sets ](#data-sets)
 * [Bloggers](#bloggers)
 * [Podcasts](#podcasts)
+* [Books](#books)
 * [Facebook Accounts](#facebook-accounts)
 * [Twitter Accounts ](#twitter-accounts )
 * [YouTube Videos & Channels](#youtube-videos--channels)
@@ -253,6 +254,9 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+
+## Books
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Facebook Accounts
 
