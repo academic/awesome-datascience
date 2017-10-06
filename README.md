@@ -257,6 +257,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 
 ## Books
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 
 ## Facebook Accounts
 
