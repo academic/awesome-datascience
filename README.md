@@ -265,6 +265,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
 - [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
+- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
 
 ## Facebook Accounts
 
