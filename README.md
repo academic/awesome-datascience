@@ -490,7 +490,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [TuneedIT](http://tunedit.org/challenges)
 
 ## Comics
-* [<img src="http://imgs.xkcd.com/comics/digital_data.png" />](Digital Data)
+* ![Digital Data](http://imgs.xkcd.com/comics/digital_data.png "Digital Data")
 
 ## Other Awesome Lists
 
