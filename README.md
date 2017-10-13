@@ -21,8 +21,8 @@
 * [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Presentations](#presentations)
 * [Data Science Competitions](#competitions)
-* [Other Awesome Lists](#other-awesome-lists)
 * [Comics](#comics)
+* [Other Awesome Lists](#other-awesome-lists)
 
 
 ## Motivation
@@ -490,7 +490,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [TuneedIT](http://tunedit.org/challenges)
 
 ## Comics
-* [<img src="http://imgs.xkcd.com/comics/digital_data.png" />](Digital Data)
+![Digital Data](http://imgs.xkcd.com/comics/digital_data.png "Digital Data")
 
 ## Other Awesome Lists
 
