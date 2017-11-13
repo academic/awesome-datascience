@@ -13,6 +13,7 @@
 * [Data Sets ](#data-sets)
 * [Bloggers](#bloggers)
 * [Podcasts](#podcasts)
+* [Books](#books)
 * [Facebook Accounts](#facebook-accounts)
 * [Twitter Accounts ](#twitter-accounts )
 * [YouTube Videos & Channels](#youtube-videos--channels)
@@ -20,8 +21,8 @@
 * [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Presentations](#presentations)
 * [Data Science Competitions](#competitions)
-* [Other Awesome Lists](#other-awesome-lists)
 * [Comics](#comics)
+* [Other Awesome Lists](#other-awesome-lists)
 
 
 ## Motivation
@@ -49,6 +50,7 @@ Preview | Description
 [<img src="http://i.imgur.com/b9xYdZB.jpg" width="150" />](http://i.imgur.com/aoz1BJy.jpg) | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.
 [<img src="http://i.imgur.com/TWkB4X6.png" width="150" />](http://i.imgur.com/0TydZ4M.png) | Data Science Wars: R vs Python
 [<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png) | How to select statistical or machine learning techniques
+[<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png) | Choosing the Right Estimator
 [<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png) | The Data Science Industry: Who Does What
 [<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png) | Data Science Venn Diagram
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard
@@ -99,6 +101,7 @@ Preview | Description
 * [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
 * [Big Data University by IBM](https://bigdatauniversity.com/)
 * [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+* [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
 
 
 ## Data Sets
@@ -253,6 +256,17 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+
+## Books
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
+- [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) - Early access
+- [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
+- [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
+- [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
+- [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
+- [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
+- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
 
 ## Facebook Accounts
 
@@ -477,7 +491,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [TuneedIT](http://tunedit.org/challenges)
 
 ## Comics
-* [<img src="http://imgs.xkcd.com/comics/digital_data.png" />](Digital Data)
+![Digital Data](http://imgs.xkcd.com/comics/digital_data.png "Digital Data")
 
 ## Other Awesome Lists
 
