@@ -413,6 +413,10 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [IJulia](https://github.com/JuliaLang/IJulia.jl) – a Julia-language backend combined with the Jupyter interactive environment
  * [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook that enables data-driven, 
 interactive data analytics and collaborative documents with SQL, Scala and more
+* [Featuretools](https://github.com/featuretools/featuretools/) - An open source framework for automated feature engineering written in python
+
+Quick Start
+
  
 ## Visualization Tools - Environments
  
