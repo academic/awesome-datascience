@@ -191,7 +191,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [R Bloggers](https://www.r-bloggers.com/) - R Bloggers
 - [The Practical Quant](https://practicalquant.blogspot.com/) Big data
 - [Micheal Le Gal](http://www.mickaellegal.com/) a data enthusiast who gets hooked on solving intriguing problems and crafting beautiful stories and visualizations with data. Over the past 5 years, He haas applied statistics to solve problems in government, brain sciences, and most recently, retail.
-- [Datascope Anayltics](https://datascopeanalytics.com/) data-driven consulting and design
+- [Datascope Analytics](https://datascopeanalytics.com/) data-driven consulting and design
 - [Yet Another Data Blog](http://yet-another-data-blog.blogspot.com.tr/) Yet Another Data Blog
 - [Spenczar](http://spenczar.com/) a data scientist at _Twitch_. I handle the whole data pipeline, from tracking to model-building to reporting.
 - [KD Nuggets](http://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
@@ -388,7 +388,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) - Coursera Course
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - Blog
  * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generating rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language.
- * [Sense Data Science Development Paltform](https://sense.io/) A New Cloud Platform for Data Science and Big Data Analytics
+ * [Sense Data Science Development Platform](https://sense.io/) A New Cloud Platform for Data Science and Big Data Analytics
 Collaborate on, scale, and deploy data analysis and advanced analytics projects radically faster. Use the most powerful tools — R, Python, JavaScript, Redshift, Hive, Impala, Hadoop, and more — supercharged and integrated in the cloud.
  * [Datadog](https://www.datadoghq.com/) Solutions, code, and devops for high-scale data science.
  * [Variance](http://variancecharts.com/) Build powerful data visualizations for the web without writing JavaScript
