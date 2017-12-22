@@ -149,7 +149,7 @@ Preview | Description
 * [undata](http://data.un.org/)
 * [NASA SocioEconomic Data and Applications Center - SEDAC](http://sedac.ciesin.columbia.edu/)
 * [The GDELT Project](http://gdeltproject.org/)
-* [Sweden, Statistics](http://www.scb.se/en_/)
+* [Sweden, Statistics](http://www.scb.se/en/)
 * [Github free data source list](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
 * [StackExchange Data Explorer](http://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
 * [San Fransisco Government Open Data](https://data.sfgov.org/)
