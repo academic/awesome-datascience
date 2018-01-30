@@ -80,6 +80,7 @@ Preview | Description
 * [MS in Computer Information Systems @ Boston University](http://cisonline.bu.edu/)
 * [MS in Business Analytics @ ASU Online](http://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
 * [Data Science Engineer @ BTH](https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/)
+* [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
 
 ## MOOC's
 
