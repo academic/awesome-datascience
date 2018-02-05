@@ -22,6 +22,7 @@
 * [Presentations](#presentations)
 * [Data Science Competitions](#competitions)
 * [Comics](#comics)
+* [Tutorials](#tutorials)
 * [Other Awesome Lists](#other-awesome-lists)
 
 
@@ -499,6 +500,10 @@ Quick Start
 
 ## Comics
 ![Digital Data](http://imgs.xkcd.com/comics/digital_data.png "Digital Data")
+
+## Tutorials
+
+* [Data science your way](https://github.com/jadianes/data-science-your-way)
 
 ## Other Awesome Lists
 
