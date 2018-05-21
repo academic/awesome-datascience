@@ -249,7 +249,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 
 ## Podcasts
 
-- [Adversarial Learning](https://adversariallearning.com/)
+- [Adversarial Learning](http://adversariallearning.com/)
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
 - [Data Skeptic](https://dataskeptic.com/)
