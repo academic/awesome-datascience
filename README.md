@@ -159,6 +159,7 @@ Preview | Description
 * [Liver Tumor Segmentation Challenge Dataset](http://www.lits-challenge.com/)
 * [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 * [GHTorrent](http://ghtorrent.org/)
+* [Microsoft Research Open Data](https://msropendata.com/)
 
 ## Bloggers
 
