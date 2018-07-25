@@ -160,6 +160,7 @@ Preview | Description
 * [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 * [GHTorrent](http://ghtorrent.org/)
 * [Microsoft Research Open Data](https://msropendata.com/)
+* [Open Government Data Platform India](https://data.gov.in/)
 
 ## Bloggers
 
