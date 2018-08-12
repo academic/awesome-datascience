@@ -464,6 +464,8 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [Wrangler](http://vis.stanford.edu/wrangler/)
  * [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
  * [NetworkX](https://networkx.github.io/) - High-productivity software for complex networks
+ * [Redash](https://redash.io/)
+ * [C3](https://c3js.org/) - D3-based reusable chart library
 
 
 ## Journals, Publications and Magazines
