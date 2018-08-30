@@ -385,6 +385,9 @@ We are more than 3,190 data scientists and data geeks in our community.
 
 ## Toolboxes - Environment
 
+ * [neptune.ml](https://neptune.ml) -> Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility.
+ * [steppy](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design.
+* [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) -> Curated collection of the neural networks, transformers and models that make your machine learning work faster and more effective.
  * [Datalab from Google](https://cloud.google.com/datalab/docs/) easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively.
  * [Hortonworks Sandbox](http://hortonworks.com/products/sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
  * [R](http://www.r-project.org/) is a free software environment for statistical computing and graphics.
