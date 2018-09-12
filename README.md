@@ -502,7 +502,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
   Some data mining competition platforms
 * [Kaggle](https://www.kaggle.com/)
 * [DrivenData](https://www.drivendata.org/)
-* [Analytics Vidhya](https://www.analyticsvidhya.com/blog/tag/data-science-competitions/)
+* [Analytics Vidhya](http://datahack.analyticsvidhya.com/)
 * [The Data Science Game](http://www.datasciencegame.com/)
 * [InnoCentive](https://www.innocentive.com/)
 * [TuneedIT](http://tunedit.org/challenges)
