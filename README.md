@@ -250,6 +250,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Colah's Blog](http://colah.github.io) - Blog for understanding Neural Networks!
 - [Sebastian's Blog](http://sebastianruder.com/#open) - Blog for NLP and transfer learning!
 - [Distill](http://distill.pub) - Dedicated to clear explanations of machine learning!
+- [Chris Albon's Website](https://chrisalbon.com/) - Data Science and AI notes 
 
 ## Podcasts
 
