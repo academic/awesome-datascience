@@ -430,7 +430,8 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [Featuretools](https://github.com/featuretools/featuretools/) - An open source framework for automated feature engineering written in python
 * [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend. 
 * [Albumentations](https://github.com/albu/albumentations) - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
-* [DVC](https://github.com/iterative/dvc) - An open-source data science version control system. It helps track, organize and make data science projects reproducible. In its very basic scenario it helps version control and share large data and model files. 
+* [DVC](https://github.com/iterative/dvc) - An open-source data science version control system. It helps track, organize and make data science projects reproducible. In its very basic scenario it helps version control and share large data and model files.
+* [Lambdo](https://github.com/asavinov/lambdo) is a workflow engine which significantly simplifies data analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation.
 
 ## Visualization Tools - Environments
  
