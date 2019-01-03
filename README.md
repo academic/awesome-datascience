@@ -249,7 +249,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Colah's Blog](http://colah.github.io) - Blog for understanding Neural Networks!
 - [Sebastian's Blog](http://sebastianruder.com/#open) - Blog for NLP and transfer learning!
 - [Distill](http://distill.pub) - Dedicated to clear explanations of machine learning!
-- [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early aces
+
 ## Podcasts
 
 - [Adversarial Learning](http://adversariallearning.com/)
@@ -265,6 +265,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 
 ## Books
+
 - [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
