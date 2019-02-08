@@ -163,6 +163,7 @@ Preview | Description
 * [GHTorrent](http://ghtorrent.org/)
 * [Microsoft Research Open Data](https://msropendata.com/)
 * [Open Government Data Platform India](https://data.gov.in/)
+* [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
 
 ## Bloggers
 
