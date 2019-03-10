@@ -528,6 +528,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 ## Tutorials
 
 * [Data science your way](https://github.com/jadianes/data-science-your-way)
+* [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 
 ## Other Awesome Lists
 
