@@ -17,6 +17,7 @@
 * [Facebook Accounts](#facebook-accounts)
 * [Twitter Accounts ](#twitter-accounts )
 * [YouTube Videos & Channels](#youtube-videos--channels)
+* [Telegram Channels ](#telegram-channels)
 * [Toolboxes - Environment](#toolboxes---environment)
 * [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Presentations](#presentations)
@@ -387,6 +388,12 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
  - [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
+
+## Telegram Channels
+
+- [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
+- [Loss function porn](https://t.me/loss_function_porn) — Beautiful posts on DS/ML theme with video or graphic vizualization.
+- [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
 
 ## Toolboxes - Environment
 
