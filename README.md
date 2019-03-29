@@ -12,6 +12,7 @@
 * [MOOC's](#moocs)
 * [Data Sets ](#data-sets)
 * [Bloggers](#bloggers)
+* [Newsletters](#newsletters)
 * [Podcasts](#podcasts)
 * [Books](#books)
 * [Facebook Accounts](#facebook-accounts)
@@ -251,6 +252,10 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Sebastian's Blog](http://sebastianruder.com/#open) - Blog for NLP and transfer learning!
 - [Distill](http://distill.pub) - Dedicated to clear explanations of machine learning!
 - [Chris Albon's Website](https://chrisalbon.com/) - Data Science and AI notes 
+
+## Newsletters
+
+- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 
 ## Podcasts
 
