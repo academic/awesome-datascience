@@ -550,4 +550,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
  - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
  - [Awesome-Community-Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
- - [Awesome-Graph-Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+ - [Awesome-Graph-Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - [Awesome-Community-Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+ - [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+ - [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+ - [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
