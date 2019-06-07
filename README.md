@@ -488,7 +488,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [NetworkX](https://networkx.github.io/) - High-productivity software for complex networks
  * [Redash](https://redash.io/)
  * [C3](https://c3js.org/) - D3-based reusable chart library
-
+ * [TensorWatch](https://github.com/microsoft/tensorwatch) - Debugging and visualization for data science and machine learning
 
 ## Journals, Publications and Magazines
 
