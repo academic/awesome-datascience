@@ -554,3 +554,4 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
  - [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
  - [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+ - [Awesome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
