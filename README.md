@@ -368,6 +368,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Ryan Orban](https://twitter.com/ryanorban) - Data scientist, genetic origamist, hardware aficionado
 - [Sean J. Taylor](https://twitter.com/seanjtaylor) - Social Scientist. Hacker. Facebook Data Science Team. Keywords: Experiments, Causal Inference, Statistics, Machine Learning, Economics.
 - [Silvia K. Spiva](https://twitter.com/silviakspiva) - #DataScience at Cisco
+- [Harsh B. Gupta](https://twitter.com/harshbg) - Data Scientist at BBVA Compass 
 - [Spencer Nelson](https://twitter.com/spenczar_n) - Data nerd
 - [Talha Oz](https://twitter.com/tozCSS) - Enjoys ABM, SNA, DM, ML, NLP, HI, Python, Java. Top percentile kaggler/data scientist
 - [Tasos Skarlatidis](https://twitter.com/anskarl) - Complex Event Processing, Big Data, Artificial Intelligence and Machine Learning. Passionate about programming and open-source.
