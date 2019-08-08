@@ -85,6 +85,7 @@ Preview | Description
 * [Master of Data Science @ Melbourne University](https://science-courses.unimelb.edu.au/study/degrees/master-of-data-science/overview#overview)
 * [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
 * [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
+* [Master of Data Science @ Illinois Institute of Technology](https://science.iit.edu/programs/graduate/master-data-science)
 
 ## MOOC's
 
