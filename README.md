@@ -288,7 +288,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Python® for R Users: A Data Science Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126805)
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) 
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
-
+- [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) Early access
 
 ## Facebook Accounts
 
