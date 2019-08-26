@@ -65,6 +65,7 @@ Preview | Description
 * [What is data science](http://www.datascientists.net/what-is-data-science)
 * [What is a data scientist](http://www.becomingadatascientist.com/2014/02/14/what-is-a-data-scientist/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
+* [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)
 * [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
 * [An Introduction to Data Science, PDF](https://ischool.syr.edu/media/documents/2012/3/DataScienceBook1_1.pdf).
 * [Data Science Methodology by John Rollins PhD](http://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science)
