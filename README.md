@@ -538,6 +538,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 
 * [Data science your way](https://github.com/jadianes/data-science-your-way)
 * [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
+* [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 
 ## Other Awesome Lists
 
