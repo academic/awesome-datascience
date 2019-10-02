@@ -111,6 +111,7 @@ Preview | Description
 * [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 * [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
+* [CS 231 - Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 
 ## Data Sets
 
