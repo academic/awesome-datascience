@@ -292,6 +292,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) 
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
 - [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) Early access
+- [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp) Early access
 
 ## Facebook Accounts
 
