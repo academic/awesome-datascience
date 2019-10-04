@@ -543,6 +543,12 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 * [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 
+
+### Free Courses
+
+* [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
+* [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+
 ## Other Awesome Lists
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
