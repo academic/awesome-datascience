@@ -570,3 +570,4 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
  - [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
  - [Awesome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
+ - [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/) 
