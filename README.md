@@ -455,6 +455,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [Lambdo](https://github.com/asavinov/lambdo) is a workflow engine which significantly simplifies data analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation.
 * [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
+* [LightTag](https://lighttag.io) - Text Annotation Tool for teams
 
 ## Visualization Tools - Environments
  
@@ -541,6 +542,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [Data science your way](https://github.com/jadianes/data-science-your-way)
 * [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 * [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
+* [How To Label Data](https://www.lighttag.io/how-to-label-data/) 
 
 
 ### Free Courses
