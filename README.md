@@ -280,7 +280,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 
 - [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
+- [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](http://www.thedatasciencehandbook.com/)
 - [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) - Early access
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
 - [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
@@ -293,6 +293,10 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
 - [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) Early access
 - [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp) Early access
+- [Data Science Thinking: The Next Scientific, Technological and Economic Revolution](https://www.springer.com/gp/book/9783319950914)
+- [Applied Data Science: Lessons Learned for the Data-Driven Business](https://www.springer.com/gp/book/9783030118204)
+- [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Field-Cady/dp/1119092949)
+- [The Data Science Design Manual](http://www.data-manual.com/) Beginner Friendly
 
 ## Facebook Accounts
 
