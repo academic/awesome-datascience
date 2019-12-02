@@ -96,7 +96,6 @@ Preview | Description
 * [CS 109 Data Science](http://cs109.github.io/2015/)
 * [Schoolofdata](https://schoolofdata.org/)
 * [OpenIntro](https://www.openintro.org/)
-* [Data science MOOC](http://datascience.sg/categories/MOOC/)
 * [CS 171 Visualization](http://www.cs171.org/#!index.md)
 * [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
 * [Oxford Deep Learning](http://www.cs.ox.ac.uk/projects/DeepLearn/)
@@ -112,6 +111,7 @@ Preview | Description
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 * [COMP3222/COMP6246 - Machine Learning Technologies](https://tdgunes.com/COMP6246-2019Fall/)
 * [CS 231 - Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+* [~Data science MOOC~](http://datascience.sg/categories/MOOC/) -- currently an empty page of a Singapore meetup
 
 ## Data Sets
 
@@ -299,6 +299,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [The Data Science Design Manual](http://www.data-manual.com/) Beginner Friendly
 - [Exploring Data with R](https://www.manning.com/books/exploring-data-with-r) - Early access
 - [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - Early access
+- [Mining Massive Datasets](http://www.mmds.org/) - free e-book comprehended by an online course
 
 ## Facebook Accounts
 
