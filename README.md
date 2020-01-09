@@ -465,6 +465,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 * [LightTag](https://lighttag.io) - Text Annotation Tool for teams
+* [Trains](https://github.com/allegroai/trains) - Auto-Magical Experiment Manager, Version Control & DevOps for AI
 
 ## Visualization Tools - Environments
  
