@@ -416,6 +416,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 
 ## Toolboxes - Environment
 
+ * [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
  * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a Docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
  * [neptune.ml](https://neptune.ml) -> Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility.
  * [steppy](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design.
