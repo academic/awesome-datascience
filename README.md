@@ -554,6 +554,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 * [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 * [How To Label Data](https://www.lighttag.io/how-to-label-data/) 
+* [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
 
 
 ### Free Courses
