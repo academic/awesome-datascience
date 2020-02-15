@@ -467,6 +467,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 * [LightTag](https://lighttag.io) - Text Annotation Tool for teams
 * [Trains](https://github.com/allegroai/trains) - Auto-Magical Experiment Manager, Version Control & DevOps for AI
+* [Hopsworks](https://github.com/logicalclocks/hopsworks) - Open-source data-intensive machine learning platform with a feature store. Ingest and manage features for both online (MySQL Cluster) and offline (Apache Hive) access, train and serve models at scale.
 
 ## Visualization Tools - Environments
  
