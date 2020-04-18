@@ -169,6 +169,7 @@ Preview | Description
 * [Open Government Data Platform India](https://data.gov.in/)
 * [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
 * [NAYN.CO Turkish News with categories](https://github.com/naynco/nayn.data)
+* [Covid-19](https://github.com/datasets/covid-19)
 
 ## Bloggers
 
