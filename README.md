@@ -112,6 +112,9 @@ Preview | Description
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 * [COMP3222/COMP6246 - Machine Learning Technologies](https://tdgunes.com/COMP6246-2019Fall/)
 * [CS 231 - Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+* [Coursera Tensorflow in practice](https://www.coursera.org/specializations/tensorflow-in-practice?)
+* [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+* [365 Data Science Course](https://365datascience.com/)
 
 ## Data Sets
 
