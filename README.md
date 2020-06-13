@@ -567,7 +567,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 * [How To Label Data](https://www.lighttag.io/how-to-label-data/) 
 * [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
-
+* [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/data-science)
 
 ### Free Courses
 
