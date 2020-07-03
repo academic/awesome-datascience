@@ -175,6 +175,7 @@ Preview | Description
 * [NAYN.CO Turkish News with categories](https://github.com/naynco/nayn.data)
 * [Covid-19](https://github.com/datasets/covid-19)
 * [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
+* [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 
 ## Bloggers
 
