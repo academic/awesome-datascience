@@ -530,6 +530,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 ## Journals, Publications and Magazines
 
  * [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
+ * [ICGA](https://dblp.org/db/conf/icga/index) - International Conference on Genetic Algorithms (ICGA) 
  * [epjdatascience](http://epjdatascience.springeropen.com/)
  * [Journal of Data Science](http://www.jds-online.com/) - an international journal devoted to applications of statistical methods at large
  * [Big Data Research](https://www.journals.elsevier.com/big-data-research)
@@ -539,6 +540,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [datatau.com/news](http://www.datatau.com/news) - Like Hacker News, but for data
  * [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
  * [Medium Data Science Topic](https://medium.com/topic/data-science) - Data Science related publications on medium
+ * [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
 
 
 ## Presentations
