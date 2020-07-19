@@ -310,6 +310,9 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - Early access
 - [Mining Massive Datasets](http://www.mmds.org/) - free e-book comprehended by an online course
 - [Pandas in Action](https://www.manning.com/books/pandas-in-action) - Early access
+- [Genetic Algorithms and Genetic Programming](https://www.taylorfrancis.com/books/9780429141973)
+- [Genetic algorithms in search, optimization, and machine learning](http://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf) - Free  Download
+- [An Introduction to Genetic Algorithms](https://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf) - Free Download
 
 ## Facebook Accounts
 
@@ -530,7 +533,8 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 ## Journals, Publications and Magazines
 
  * [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
- * [ICGA](https://dblp.org/db/conf/icga/index) - International Conference on Genetic Algorithms (ICGA) 
+ * [ICGA](https://dblp.org/db/conf/icga/index) - International Conference on Genetic Algorithms (ICGA)
+ * [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
  * [epjdatascience](http://epjdatascience.springeropen.com/)
  * [Journal of Data Science](http://www.jds-online.com/) - an international journal devoted to applications of statistical methods at large
  * [Big Data Research](https://www.journals.elsevier.com/big-data-research)
@@ -576,6 +580,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [How To Label Data](https://www.lighttag.io/how-to-label-data/) 
 * [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
 * [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/data-science)
+* [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 
 ### Free Courses
 
