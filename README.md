@@ -416,6 +416,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
  - [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
+ - [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
 
 ## Telegram Channels
 
