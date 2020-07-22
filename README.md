@@ -619,3 +619,4 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) 
  - [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/) 
  - [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
+ - [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
