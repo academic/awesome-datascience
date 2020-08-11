@@ -436,7 +436,8 @@ We are more than 3,190 data scientists and data geeks in our community.
 
 ## Toolboxes - Environment
 
-
+ * [The Data Science Lifecycle Process](https://github.com/dslp/dslp)
+ * [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template)
  * [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Representation learning on dynamic graphs.
  * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A graph sampling library for NetworkX with a Scikit-Learn like API.
  * [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
