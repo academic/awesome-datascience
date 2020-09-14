@@ -41,6 +41,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 Preview | Description
 ------------ | -------------
+[<img src="https://github.com/dafriedman97/mlbook/blob/master/content/logo_light.png" width="150" />](https://github.com/dafriedman97/mlbook/blob/master/content/logo_light.png) | [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 [<img src="http://i.imgur.com/0OoLaa5.png" width="150" />](http://i.imgur.com/0OoLaa5.png) | [Key differences of a data scientist vs. data engineer](https://searchbusinessanalytics.techtarget.com/feature/Key-differences-of-a-data-scientist-vs-data-engineer)
 [<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)
 [<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](http://i.imgur.com/FxsL3b8.png) | Mindmap on required skills ([img](http://i.imgur.com/FxsL3b8.png))
