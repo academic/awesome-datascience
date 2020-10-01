@@ -529,6 +529,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [plot.ly](https://plot.ly/)
  * [raw](http://rawgraphs.io)
  * [rcharts](http://rcharts.io/)
+ * [Seaborn](https://seaborn.pydata.org/)
  * [techanjs](http://techanjs.org/)
  * [tenxer](http://tenxer.github.io/xcharts/)
  * [Timeline](http://timeline.knightlab.com/)
