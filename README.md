@@ -115,6 +115,8 @@ Preview | Description
 * [Coursera Tensorflow in practice](https://www.coursera.org/specializations/tensorflow-in-practice?)
 * [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 * [365 Data Science Course](https://365datascience.com/)
+* [Coursera Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
+* [Coursera GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
 
 ## Data Sets
 
