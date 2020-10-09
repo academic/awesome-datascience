@@ -290,6 +290,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 ## Books
 
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- [Become a Leader in Data Science](https://www.manning.com/books/become-a-leader-in-data-science) - Early access
 - [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)
 - [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
