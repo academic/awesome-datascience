@@ -1,60 +1,52 @@
 # Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Subscribe to new links](https://app.releasly.co/assets/badges/badge-awesome-blue.svg)](https://app.releasly.co/sites/academic/awesome-datascience?utm_source=github_badge)
 
-*An open source Data Science repository to learn and apply towards solving real world problems.*
+<img src="./assets/head.jpg">
 
-### Table of contents
+**An open source Data Science repository to learn and apply towards solving real world problems.**
 
-* [Motivation](#motivation)
-* [Infographic](#infographic)
-* [What is Data Science?](#what-is-data-science)
-* [Colleges](#colleges)
-* [MOOC's](#moocs)
-* [Data Sets ](#data-sets)
-* [Bloggers](#bloggers)
-* [Newsletters](#newsletters)
-* [Podcasts](#podcasts)
-* [Books](#books)
-* [Facebook Accounts](#facebook-accounts)
-* [Twitter Accounts ](#twitter-accounts )
-* [YouTube Videos & Channels](#youtube-videos--channels)
-* [Telegram Channels ](#telegram-channels)
-* [Toolboxes - Environment](#toolboxes---environment)
-* [Journals, Publications and Magazines](#journals-publications-and-magazines)
-* [Presentations](#presentations)
-* [Data Science Competitions](#competitions)
-* [Comics](#comics)
-* [Tutorials](#tutorials)
-* [Other Awesome Lists](#other-awesome-lists)
-
-
-## Motivation
-
-*This part is for dummies who are new to Data Science*
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
 
-First of all, Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts. 
+<br>
+<br>
+<br>
 
-Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.continuum.io/downloads) to play with data and to create applications. 
 
-## Infographic
+# What is Data Science?
 
-Preview | Description
------------- | -------------
-[<img src="http://i.imgur.com/0OoLaa5.png" width="150" />](http://i.imgur.com/0OoLaa5.png) | [Key differences of a data scientist vs. data engineer](https://searchbusinessanalytics.techtarget.com/feature/Key-differences-of-a-data-scientist-vs-data-engineer)
-[<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)
-[<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](http://i.imgur.com/FxsL3b8.png) | Mindmap on required skills ([img](http://i.imgur.com/FxsL3b8.png))
-[<img src="http://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png) | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
-[<img src="http://i.imgur.com/XBgKF2l.png" width="150" />](http://i.imgur.com/4ZBBvb0.png) | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)
-[<img src="http://i.imgur.com/l9ZGtal.jpg" width="150" />](http://i.imgur.com/xLY3XZn.jpg) | By [Data Science Central](http://www.datasciencecentral.com/)
-[<img src="http://i.imgur.com/b9xYdZB.jpg" width="150" />](http://i.imgur.com/aoz1BJy.jpg) | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.
-[<img src="http://i.imgur.com/TWkB4X6.png" width="150" />](http://i.imgur.com/0TydZ4M.png) | Data Science Wars: R vs Python
-[<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png) | How to select statistical or machine learning techniques
-[<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png) | Choosing the Right Estimator
-[<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png) | The Data Science Industry: Who Does What
-[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png) | Data Science ~~Venn~~ Euler Diagram
-[<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard
-[<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/) | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/).
+Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts. 
+
+* [What is Data Science?](#what-is-data-science)
+
+
+# Learn Data Science
+
+Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.continuum.io/downloads) to play with data and to create applications. 
+
+* [Colleges](#colleges)
+* [MOOC's](#moocs)
+* [Podcasts](#podcasts)
+* [Books](#books)
+* [YouTube Videos & Channels](#youtube-videos--channels)
+* [Toolboxes - Environment](#toolboxes---environment)
+* [Journals, Publications and Magazines](#journals-publications-and-magazines)
+* [Presentations](#presentations)
+* [Tutorials](#tutorials)
+
+# Socialize
+
+* [Bloggers](#bloggers)
+* [Facebook Accounts](#facebook-accounts)
+* [Twitter Accounts ](#twitter-accounts )
+* [Newsletters](#newsletters)
+* [Telegram Channels ](#telegram-channels)
+* [Data Science Competitions](#competitions)
+
+# Fun
+
+* [Infographic](#infographic)
+* [Data Sets](#data-sets)
+* [Comics](#comics)
 
 
 ## What is Data Science?
@@ -118,66 +110,6 @@ Preview | Description
 * [Coursera Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 * [Coursera GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
 
-## Data Sets
-
-* [Academic Torrents](http://academictorrents.com/)
-* [hadoopilluminated.com](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
-* [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
-* [United States Census Bureau](http://www.census.gov/)
-* [usgovxml.com](http://usgovxml.com/)
-* [enigma.com](http://enigma.com/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
-* [datahub.io](https://datahub.io/)
-* [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
-* [databib.org](http://databib.org/)
-* [datacite.org](https://www.datacite.org)
-* [quandl.com](https://www.quandl.com/) - Get the data you need in the form you want; instant download, API or direct to your app.
-* [figshare.com](https://figshare.com/)
-* [GeoLite Legacy Downloadable Databases](http://dev.maxmind.com/geoip/legacy/geolite/)
-* [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
-* [Public Big Data Sets](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
-* [Houston Data Portal](http://data.ohouston.org/)
-* [Kaggle Data Sources](https://www.kaggle.com/wiki/DataSources)
-* [Kaggle Datasets](https://www.kaggle.com/datasets)
-* [A Deep Catalog of Human Genetic Variation](http://www.internationalgenome.org/data)
-* [A community-curated database of well-known people, places, and things](https://developers.google.com/freebase/)
-* [Google Public Data](http://www.google.com/publicdata/directory)
-* [World Bank Data](http://data.worldbank.org/)
-* [NYC Taxi data](http://chriswhong.github.io/nyctaxi/)
-* [Open Data Philly](https://www.opendataphilly.org/) Connecting people with data for Philadelphia
-* [A list of useful sources](http://ahmetkurnaz.net/en/statistical-data-sources/) A blog post includes many data set databases
-* [grouplens.org](https://grouplens.org/datasets/) Sample movie (with ratings), book and wiki datasets
-* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
-* [research-quality data sets](http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) by [Hilary Mason](http://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
-* [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
-* [ClimateData.us](http://www.climatedata.us/) (related: [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
-* [r/datasets](https://www.reddit.com/r/datasets/)
-* [MapLight](http://maplight.org/data) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
-* [GHDx](http://ghdx.healthdata.org/) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
-* [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
-* [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-* [Dept. of Politics @ New York University](http://www.nyu.edu/projects/politicsdatalab/datasupp_datasources.html)
-* [Open Data Sources](https://github.com/datasciencemasters/data)
-* [UNICEF Statistics and Monitoring](https://www.unicef.org/statistics/index_24287.html)
-* [UNICEF Data](https://data.unicef.org/)
-* [undata](http://data.un.org/)
-* [NASA SocioEconomic Data and Applications Center - SEDAC](http://sedac.ciesin.columbia.edu/)
-* [The GDELT Project](http://gdeltproject.org/)
-* [Sweden, Statistics](http://www.scb.se/en/)
-* [Github free data source list](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
-* [StackExchange Data Explorer](http://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
-* [San Fransisco Government Open Data](https://data.sfgov.org/)
-* [IBM Blog about open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
-* [Open data Index](http://index.okfn.org/)
-* [Liver Tumor Segmentation Challenge Dataset](http://www.lits-challenge.com/)
-* [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
-* [GHTorrent](http://ghtorrent.org/)
-* [Microsoft Research Open Data](https://msropendata.com/)
-* [Open Government Data Platform India](https://data.gov.in/)
-* [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
-* [NAYN.CO Turkish News with categories](https://github.com/naynco/nayn.data)
-* [Covid-19](https://github.com/datasets/covid-19)
-* [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
-* [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 
 ## Bloggers
 
@@ -582,9 +514,6 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [InnoCentive](https://www.innocentive.com/)
 * [TuneedIT](http://tunedit.org/challenges)
 
-## Comics
-![Digital Data](http://imgs.xkcd.com/comics/digital_data.png "Digital Data")
-
 ## Tutorials
 
 * [Data science your way](https://github.com/jadianes/data-science-your-way)
@@ -601,16 +530,101 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 * [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 
+
+## Infographic
+
+Preview | Description
+------------ | -------------
+[<img src="http://i.imgur.com/0OoLaa5.png" width="150" />](http://i.imgur.com/0OoLaa5.png) | [Key differences of a data scientist vs. data engineer](https://searchbusinessanalytics.techtarget.com/feature/Key-differences-of-a-data-scientist-vs-data-engineer)
+[<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)
+[<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](http://i.imgur.com/FxsL3b8.png) | Mindmap on required skills ([img](http://i.imgur.com/FxsL3b8.png))
+[<img src="http://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png) | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
+[<img src="http://i.imgur.com/XBgKF2l.png" width="150" />](http://i.imgur.com/4ZBBvb0.png) | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)
+[<img src="http://i.imgur.com/l9ZGtal.jpg" width="150" />](http://i.imgur.com/xLY3XZn.jpg) | By [Data Science Central](http://www.datasciencecentral.com/)
+[<img src="http://i.imgur.com/b9xYdZB.jpg" width="150" />](http://i.imgur.com/aoz1BJy.jpg) | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.
+[<img src="http://i.imgur.com/TWkB4X6.png" width="150" />](http://i.imgur.com/0TydZ4M.png) | Data Science Wars: R vs Python
+[<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png) | How to select statistical or machine learning techniques
+[<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png) | Choosing the Right Estimator
+[<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png) | The Data Science Industry: Who Does What
+[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png) | Data Science ~~Venn~~ Euler Diagram
+[<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard
+[<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/) | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/).
+
+
+## Data Sets
+
+* [Academic Torrents](http://academictorrents.com/)
+* [hadoopilluminated.com](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
+* [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
+* [United States Census Bureau](http://www.census.gov/)
+* [usgovxml.com](http://usgovxml.com/)
+* [enigma.com](http://enigma.com/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
+* [datahub.io](https://datahub.io/)
+* [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
+* [databib.org](http://databib.org/)
+* [datacite.org](https://www.datacite.org)
+* [quandl.com](https://www.quandl.com/) - Get the data you need in the form you want; instant download, API or direct to your app.
+* [figshare.com](https://figshare.com/)
+* [GeoLite Legacy Downloadable Databases](http://dev.maxmind.com/geoip/legacy/geolite/)
+* [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+* [Public Big Data Sets](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
+* [Houston Data Portal](http://data.ohouston.org/)
+* [Kaggle Data Sources](https://www.kaggle.com/wiki/DataSources)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [A Deep Catalog of Human Genetic Variation](http://www.internationalgenome.org/data)
+* [A community-curated database of well-known people, places, and things](https://developers.google.com/freebase/)
+* [Google Public Data](http://www.google.com/publicdata/directory)
+* [World Bank Data](http://data.worldbank.org/)
+* [NYC Taxi data](http://chriswhong.github.io/nyctaxi/)
+* [Open Data Philly](https://www.opendataphilly.org/) Connecting people with data for Philadelphia
+* [A list of useful sources](http://ahmetkurnaz.net/en/statistical-data-sources/) A blog post includes many data set databases
+* [grouplens.org](https://grouplens.org/datasets/) Sample movie (with ratings), book and wiki datasets
+* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
+* [research-quality data sets](http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) by [Hilary Mason](http://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
+* [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
+* [ClimateData.us](http://www.climatedata.us/) (related: [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
+* [r/datasets](https://www.reddit.com/r/datasets/)
+* [MapLight](http://maplight.org/data) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
+* [GHDx](http://ghdx.healthdata.org/) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
+* [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
+* [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
+* [Dept. of Politics @ New York University](http://www.nyu.edu/projects/politicsdatalab/datasupp_datasources.html)
+* [Open Data Sources](https://github.com/datasciencemasters/data)
+* [UNICEF Statistics and Monitoring](https://www.unicef.org/statistics/index_24287.html)
+* [UNICEF Data](https://data.unicef.org/)
+* [undata](http://data.un.org/)
+* [NASA SocioEconomic Data and Applications Center - SEDAC](http://sedac.ciesin.columbia.edu/)
+* [The GDELT Project](http://gdeltproject.org/)
+* [Sweden, Statistics](http://www.scb.se/en/)
+* [Github free data source list](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
+* [StackExchange Data Explorer](http://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
+* [San Fransisco Government Open Data](https://data.sfgov.org/)
+* [IBM Blog about open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
+* [Open data Index](http://index.okfn.org/)
+* [Liver Tumor Segmentation Challenge Dataset](http://www.lits-challenge.com/)
+* [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+* [GHTorrent](http://ghtorrent.org/)
+* [Microsoft Research Open Data](https://msropendata.com/)
+* [Open Government Data Platform India](https://data.gov.in/)
+* [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
+* [NAYN.CO Turkish News with categories](https://github.com/naynco/nayn.data)
+* [Covid-19](https://github.com/datasets/covid-19)
+* [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
+* [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
+
+
+
+
 ## Other Awesome Lists
 
- - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
- - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
+ - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+ - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
  - [lists](https://github.com/jnv/lists)
  - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
  - [awesome-python](https://github.com/vinta/awesome-python)
  - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
  - [awesome-r](https://github.com/qinwf/awesome-R)
- - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
+ - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets)
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
  - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas)
  - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
@@ -625,4 +639,4 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) 
  - [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/) 
  - [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
- - [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+ - [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme)
