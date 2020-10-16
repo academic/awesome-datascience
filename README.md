@@ -105,7 +105,7 @@ Preview | Description
 * [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 * [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
 * [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
-* [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
+* [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
 * [Big Data University by IBM](https://bigdatauniversity.com/)
 * [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 * [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
