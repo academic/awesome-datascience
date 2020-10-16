@@ -106,7 +106,7 @@ Preview | Description
 * [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
 * [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
 * [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
-* [Big Data University by IBM](https://bigdatauniversity.com/)
+* [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
 * [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 * [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
