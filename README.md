@@ -35,7 +35,7 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 First of all, Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts. 
 
-Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.continuum.io/downloads) to play with data and to create applications. 
+Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.anaconda.com) to play with data and to create applications. 
 
 ## Infographic
 
@@ -105,8 +105,8 @@ Preview | Description
 * [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 * [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
 * [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
-* [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
-* [Big Data University by IBM](https://bigdatauniversity.com/)
+* [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
+* [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
 * [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 * [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
