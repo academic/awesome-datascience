@@ -109,6 +109,7 @@ Our favorite programming language is *Python* nowadays for #DataScience. Python'
 * [365 Data Science Course](https://365datascience.com/)
 * [Coursera Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 * [Coursera GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+* [Codecademy's Data Science](https://www.codecademy.com/learn/paths/data-science)
 
 
 ## Bloggers
