@@ -1,5 +1,7 @@
 <img src="./assets/head.jpg">
 
+# AWESOME DATA SCIENCE
+
 **An open source Data Science repository to learn and apply towards solving real world problems.**
 
 
