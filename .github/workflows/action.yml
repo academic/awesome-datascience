@@ -2,6 +2,11 @@ name: Check Markdown links
 on:
   schedule:
     - cron: "* */24 * * *"
+  push:
+    branches: [ live ]
+  pull_request:
+    branches: [ live ]
+    
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
