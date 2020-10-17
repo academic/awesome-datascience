@@ -91,7 +91,6 @@ Our favorite programming language is *Python* nowadays for #DataScience. Python'
 * [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
 * [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
 * [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
-* [Big Data University by IBM](https://bigdatauniversity.com/)
 * [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
 * [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 * [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
@@ -541,7 +540,6 @@ Preview | Description
 * [enigma.com](http://enigma.com/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
 * [datahub.io](https://datahub.io/)
 * [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
-* [databib.org](http://databib.org/)
 * [datacite.org](https://www.datacite.org)
 * [quandl.com](https://www.quandl.com/) - Get the data you need in the form you want; instant download, API or direct to your app.
 * [figshare.com](https://figshare.com/)
@@ -577,7 +575,6 @@ Preview | Description
 * [San Fransisco Government Open Data](https://data.sfgov.org/)
 * [IBM Blog about open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
 * [Open data Index](http://index.okfn.org/)
-* [Liver Tumor Segmentation Challenge Dataset](http://www.lits-challenge.com/)
 * [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 * [GHTorrent](http://ghtorrent.org/)
 * [Microsoft Research Open Data](https://msropendata.com/)
