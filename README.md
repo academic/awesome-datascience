@@ -146,7 +146,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Meta Brown](http://www.metabrown.com/blog/) - Personal Blog
 - [Data Scientist](http://www.datascientists.net/) is building the data scientist culture.
 - [WhatSTheBigData](https://whatsthebigdata.com/) is some of, all of, or much more than the above and this blog explores its impact on information technology, the business world, government agencies, and our lives.
-- [Mic Farris](http://www.micfarris.com/) Focusing on science, datascience, business, technology, and channeling inner geekness!
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - Magnus Notitia
 - [New Data Scientist](http://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
 - [Harvard Data Science](http://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
@@ -449,7 +448,6 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [rcharts](http://rcharts.io/)
  * [Seaborn](https://seaborn.pydata.org/)
  * [techanjs](http://techanjs.org/)
- * [tenxer](http://tenxer.github.io/xcharts/)
  * [Timeline](http://timeline.knightlab.com/)
  * [variancecharts](http://variancecharts.com/index.html)
  * [vida](https://vida.io/)
