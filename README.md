@@ -53,14 +53,10 @@ Our favorite programming language is *Python* nowadays for #DataScience. Python'
 * [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)
 * [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)
 * [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
-* [What is data science](http://www.datascientists.net/what-is-data-science)
-* [What is a data scientist](http://www.becomingadatascientist.com/2014/02/14/what-is-a-data-scientist/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
 * [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)
 * [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)
-* [An Introduction to Data Science, PDF](https://ischool.syr.edu/media/documents/2012/3/DataScienceBook1_1.pdf).
 * [Data Science Methodology by John Rollins PhD](http://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science)
-* [A Day in the Life of a Data Scientist by Rutgers University](http://online.rutgers.edu/resources/articles/a-day-in-the-life-of-a-data-scientist/)
 
 ## COLLEGES
 
@@ -68,7 +64,6 @@ Our favorite programming language is *Python* nowadays for #DataScience. Python'
 * [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
 * [Data Science Degree @ UVA](https://dsi.virginia.edu/)
 * [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
-* [Master of Information @ Rutgers](http://online.rutgers.edu/master-library-info/)
 * [MS in Computer Information Systems @ Boston University](http://cisonline.bu.edu/)
 * [MS in Business Analytics @ ASU Online](http://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
 * [Data Science Engineer @ BTH](https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/)
@@ -125,7 +120,6 @@ Our favorite programming language is *Python* nowadays for #DataScience. Python'
 - [Hilary Mason](https://hilarymason.com/) - Personal Web Page
 - [Noah Iliinsky](http://complexdiagrams.com/) - Personal Blog
 - [Matt Harrison](http://hairysun.com/) - Personal Blog
-- [Data Science Renee](http://www.becomingadatascientist.com/) Documenting my path from "SQL Data Analyst pursuing an Engineering Master's Degree" to "Data Scientist"
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - AllThings Data Sciene
 - [Prash Chan](http://www.mdmgeek.com/) - Tech Blog on Master Data Management And Every Buzz Surrounding It
 - [Clare Corthell](http://datasciencemasters.org/) - The Open Source Data Science Masters
@@ -145,7 +139,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Revolution Analytics](http://blog.revolutionanalytics.com/) - Data Science Blog
 - [R Bloggers](https://www.r-bloggers.com/) - R Bloggers
 - [The Practical Quant](https://practicalquant.blogspot.com/) Big data
-- [Micheal Le Gal](http://www.mickaellegal.com/) a data enthusiast who gets hooked on solving intriguing problems and crafting beautiful stories and visualizations with data. Over the past 5 years, He haas applied statistics to solve problems in government, brain sciences, and most recently, retail.
 - [Datascope Analytics](https://datascopeanalytics.com/) data-driven consulting and design
 - [Yet Another Data Blog](http://yet-another-data-blog.blogspot.com.tr/) Yet Another Data Blog
 - [Spenczar](http://spenczar.com/) a data scientist at _Twitch_. I handle the whole data pipeline, from tracking to model-building to reporting.
@@ -166,7 +159,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data-Mania](http://www.data-mania.com/)
 - [Data-Magnum](http://data-magnum.com/)
 - [Map Reduce Blog](https://www.mapr.com/blog)
-- [FastML Blog](http://fastml.com/)
 - [P-value](http://www.p-value.info/) - Musings on data science, machine learning and stats.
 - [datascopeanalytics](https://datascopeanalytics.com/blog/)
 - [Digital transformation](http://tarrysingh.com/)
@@ -208,7 +200,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 ## Podcasts
 
 - [Adversarial Learning](http://adversariallearning.com/)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
 - [Data Skeptic](https://dataskeptic.com/)
 - [Data Stories](http://datastori.es/)
@@ -228,7 +219,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](http://www.thedatasciencehandbook.com/)
-- [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) - Early access
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
 - [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
 - [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
@@ -256,7 +246,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - Free Download 
 - [Global Optimization Algorithms: Theory and Application](http://www.it-weise.de/projects/book.pdf) - Free Download 
 - [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) - Free Download
-- [A Field Guide to Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf) - Free Download 
 
 ## Facebook Accounts
 
@@ -348,7 +337,6 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Wes McKinney](https://twitter.com/wesmckinn) - Pandas (Python Data Analysis library).
 - [WileyEd](https://twitter.com/WileyEd) - Senior Manager - @Seagate Big Data Analytics | @McKinsey Alum | #BigData + #Analytics Evangelist | #Hadoop, #Cloud, #Digital, & #R Enthusiast
 - [WNYC Data News Team](https://twitter.com/datanews) - The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work.
-@SkymindIO's open-source deep learning for the JVM. Integrates with Hadoop, Spark. Distributed GPU/CPUs | http://nd4j.org  | https://www.skymind.ai/
 
 ## Youtube Videos & Channels
 
@@ -393,8 +381,6 @@ We are more than 3,190 data scientists and data geeks in our community.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) - Coursera Course
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - Blog
  * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generating rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language.
- * [Sense Data Science Development Platform](https://sense.io/) A New Cloud Platform for Data Science and Big Data Analytics
-Collaborate on, scale, and deploy data analysis and advanced analytics projects radically faster. Use the most powerful tools — R, Python, JavaScript, Redshift, Hive, Impala, Hadoop, and more — supercharged and integrated in the cloud.
  * [Datadog](https://www.datadoghq.com/) Solutions, code, and devops for high-scale data science.
  * [Variance](http://variancecharts.com/) Build powerful data visualizations for the web without writing JavaScript
  * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
@@ -448,9 +434,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [dygraphs](http://dygraphs.com/)
  * [ECharts](http://echarts.baidu.com/index-en.html)
  * [exhibit](http://www.simile-widgets.org/exhibit/)
- * [Gatherplot](http://www.gatherplot.org/)
  * [gephi](https://gephi.org/)
- * [ggplot2](http://ggplot2.org/)
  * [Glue](http://www.glueviz.org/en/latest/)
  * [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
  * [highcarts](http://www.highcharts.com/)
@@ -479,7 +463,6 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 ## Journals, Publications and Magazines
 
  * [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
- * [ICGA](https://dblp.org/db/conf/icga/index) - International Conference on Genetic Algorithms (ICGA)
  * [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
  * [epjdatascience](http://epjdatascience.springeropen.com/)
  * [Journal of Data Science](http://www.jds-online.com/) - an international journal devoted to applications of statistical methods at large
@@ -569,8 +552,6 @@ Preview | Description
 * [GeoLite Legacy Downloadable Databases](http://dev.maxmind.com/geoip/legacy/geolite/)
 * [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 * [Public Big Data Sets](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
-* [Houston Data Portal](http://data.ohouston.org/)
-* [Kaggle Data Sources](https://www.kaggle.com/wiki/DataSources)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [A Deep Catalog of Human Genetic Variation](http://www.internationalgenome.org/data)
 * [A community-curated database of well-known people, places, and things](https://developers.google.com/freebase/)
@@ -578,7 +559,6 @@ Preview | Description
 * [World Bank Data](http://data.worldbank.org/)
 * [NYC Taxi data](http://chriswhong.github.io/nyctaxi/)
 * [Open Data Philly](https://www.opendataphilly.org/) Connecting people with data for Philadelphia
-* [A list of useful sources](http://ahmetkurnaz.net/en/statistical-data-sources/) A blog post includes many data set databases
 * [grouplens.org](https://grouplens.org/datasets/) Sample movie (with ratings), book and wiki datasets
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
 * [research-quality data sets](http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) by [Hilary Mason](http://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
@@ -589,7 +569,6 @@ Preview | Description
 * [GHDx](http://ghdx.healthdata.org/) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
 * [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 * [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-* [Dept. of Politics @ New York University](http://www.nyu.edu/projects/politicsdatalab/datasupp_datasources.html)
 * [Open Data Sources](https://github.com/datasciencemasters/data)
 * [UNICEF Statistics and Monitoring](https://www.unicef.org/statistics/index_24287.html)
 * [UNICEF Data](https://data.unicef.org/)
