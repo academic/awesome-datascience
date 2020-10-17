@@ -515,18 +515,18 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 
 Preview | Description
 ------------ | -------------
-[<img src="http://i.imgur.com/0OoLaa5.png" width="150" />](http://i.imgur.com/0OoLaa5.png) | [Key differences of a data scientist vs. data engineer](https://searchbusinessanalytics.techtarget.com/feature/Key-differences-of-a-data-scientist-vs-data-engineer)
+[<img src="https://i.imgur.com/0OoLaa5.png" width="150" />](https://i.imgur.com/0OoLaa5.png) | [Key differences of a data scientist vs. data engineer](https://searchbusinessanalytics.techtarget.com/feature/Key-differences-of-a-data-scientist-vs-data-engineer)
 [<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)
-[<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](http://i.imgur.com/FxsL3b8.png) | Mindmap on required skills ([img](http://i.imgur.com/FxsL3b8.png))
-[<img src="http://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png) | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
-[<img src="http://i.imgur.com/XBgKF2l.png" width="150" />](http://i.imgur.com/4ZBBvb0.png) | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)
-[<img src="http://i.imgur.com/l9ZGtal.jpg" width="150" />](http://i.imgur.com/xLY3XZn.jpg) | By [Data Science Central](http://www.datasciencecentral.com/)
-[<img src="http://i.imgur.com/b9xYdZB.jpg" width="150" />](http://i.imgur.com/aoz1BJy.jpg) | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.
-[<img src="http://i.imgur.com/TWkB4X6.png" width="150" />](http://i.imgur.com/0TydZ4M.png) | Data Science Wars: R vs Python
-[<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png) | How to select statistical or machine learning techniques
-[<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png) | Choosing the Right Estimator
-[<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png) | The Data Science Industry: Who Does What
-[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png) | Data Science ~~Venn~~ Euler Diagram
+[<img src="https://i.imgur.com/W2t2Roz.png" width="150" />](https://i.imgur.com/FxsL3b8.png) | Mindmap on required skills ([img](https://i.imgur.com/FxsL3b8.png))
+[<img src="https://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png) | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
+[<img src="https://i.imgur.com/XBgKF2l.png" width="150" />](https://i.imgur.com/4ZBBvb0.png) | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)
+[<img src="https://i.imgur.com/l9ZGtal.jpg" width="150" />](https://i.imgur.com/xLY3XZn.jpg) | By [Data Science Central](http://www.datasciencecentral.com/)
+[<img src="https://i.imgur.com/b9xYdZB.jpg" width="150" />](https://i.imgur.com/aoz1BJy.jpg) | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.
+[<img src="https://i.imgur.com/TWkB4X6.png" width="150" />](https://i.imgur.com/0TydZ4M.png) | Data Science Wars: R vs Python
+[<img src="https://i.imgur.com/gtTlW5I.png" width="150" />](https://i.imgur.com/HnRwlce.png) | How to select statistical or machine learning techniques
+[<img src="https://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png) | Choosing the Right Estimator
+[<img src="https://i.imgur.com/3JSyUq1.png" width="150" />](https://i.imgur.com/uEqMwZa.png) | The Data Science Industry: Who Does What
+[<img src="https://i.imgur.com/DQqFwwy.png" width="150" />](https://i.imgur.com/RsHqY84.png) | Data Science ~~Venn~~ Euler Diagram
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard
 [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/) | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/).
 
