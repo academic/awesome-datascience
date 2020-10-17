@@ -21,7 +21,7 @@ Data Science is one of the hottest topics on the Computer and Internet farmland 
 
 # Learn Data Science
 
-Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.continuum.io/downloads) to play with data and to create applications. 
+Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.anaconda.com) to play with data and to create applications. 
 
 * [Colleges](#colleges)
 * [MOOC's](#moocs)
@@ -97,8 +97,9 @@ Our favorite programming language is *Python* nowadays for #DataScience. Python'
 * [UBC Machine Learning - video](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 * [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
 * [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
-* [Data Science and Analytics in Context by Edx](https://www.edx.org/xseries/data-science-analytics-context)
+* [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
 * [Big Data University by IBM](https://bigdatauniversity.com/)
+* [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
 * [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 * [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
@@ -386,7 +387,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  * [Hortonworks Sandbox](http://hortonworks.com/products/sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
  * [R](http://www.r-project.org/) is a free software environment for statistical computing and graphics.
  * [RStudio](https://www.rstudio.com) IDE – powerful user interface for R. It’s free and open source, works onWindows, Mac, and Linux.
- * [Python - Pandas - Anaconda](https://www.continuum.io/downloads) Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing
+ * [Python - Pandas - Anaconda](https://www.anaconda.com) Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing
  * [Scikit-Learn](http://scikit-learn.org/stable/) Machine Learning in Python
  * [NumPy](http://www.numpy.org/) NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays.
  * [SciPy](https://www.scipy.org/) SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization.
