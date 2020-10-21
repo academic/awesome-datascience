@@ -395,7 +395,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Spenczar](http://spenczar.com/) a data scientist at _Twitch_. I handle the whole data pipeline, from tracking to model-building to reporting.
 - [KD Nuggets](http://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
 - [Meta Brown](http://www.metabrown.com/blog/) - Personal Blog
-- [Data Scientist](http://www.datascientists.net/) is building the data scientist culture.
+- [Data Scientist](https://www.datascientists.net/) is building the data scientist culture.
 - [WhatSTheBigData](https://whatsthebigdata.com/) is some of, all of, or much more than the above and this blog explores its impact on information technology, the business world, government agencies, and our lives.
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - Magnus Notitia
 - [New Data Scientist](http://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
