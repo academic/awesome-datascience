@@ -430,6 +430,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
  - [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
  - [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
+ - [Data Science for Beginners](https://www.youtube.com/watch?v=3Mm1U1CbzNw&list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
 
 ## Telegram Channels
 
