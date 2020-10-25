@@ -432,6 +432,64 @@ For more algorithms [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 - [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - Data Science with Esoteric programming languages
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - Blog for Evolutionary Algorithms
 
+
+## Newsletters
+
+- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+
+## Podcasts
+
+- [Adversarial Learning](http://adversariallearning.com/)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+- [Data Crunch](http://vaultanalytics.com/datacrunch/)
+- [Data Skeptic](https://dataskeptic.com/)
+- [Data Stories](http://datastori.es/)
+- [Learning Machines 101](http://www.learningmachines101.com/)
+- [Linear Digressions](http://lineardigressions.com/)
+- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
+- [Partially Derivative](http://partiallyderivative.com/)
+- [Superdatascience](https://www.superdatascience.com/podcast/)
+- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
+
+## Books
+
+- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- [Become a Leader in Data Science](https://www.manning.com/books/become-a-leader-in-data-science) - Early access
+- [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)
+- [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](http://www.thedatasciencehandbook.com/)
+- [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) - Early access
+- [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
+- [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
+- [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
+- [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
+- [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
+- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
+- [Python® for R Users: A Data Science Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126805)
+- [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) 
+- [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
+- [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) Early access
+- [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp) Early access
+- [Data Science Thinking: The Next Scientific, Technological and Economic Revolution](https://www.springer.com/gp/book/9783319950914)
+- [Applied Data Science: Lessons Learned for the Data-Driven Business](https://www.springer.com/gp/book/9783030118204)
+- [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Field-Cady/dp/1119092949)
+- [The Data Science Design Manual](http://www.data-manual.com/) Beginner Friendly
+- [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - Early access
+- [Mining Massive Datasets](http://www.mmds.org/) - free e-book comprehended by an online course
+- [Pandas in Action](https://www.manning.com/books/pandas-in-action) - Early access
+- [Genetic Algorithms and Genetic Programming](https://www.taylorfrancis.com/books/9780429141973)
+- [Genetic algorithms in search, optimization, and machine learning](http://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf) - Free  Download
+- [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/advances_in_evolutionary_algorithms) - Free Download
+- [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications) - Free Download
+- [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) - Free Download 
+- [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - Free Download 
+- [Global Optimization Algorithms: Theory and Application](http://www.it-weise.de/projects/book.pdf) - Free Download 
+- [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) - Free Download
+- [A Field Guide to Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf) - Free Download 
+
+
 ## Facebook Accounts
 
 - [Data](https://www.facebook.com/data)
@@ -546,6 +604,7 @@ For more algorithms [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 - [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
 - [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
 - [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
+
 
 ## Telegram Channels
 
