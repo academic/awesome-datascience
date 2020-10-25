@@ -549,6 +549,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [ICGA](https://dblp.org/db/conf/icga/index) - International Conference on Genetic Algorithms (ICGA)
  * [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
  * [epjdatascience](http://epjdatascience.springeropen.com/)
+ * [Harvard Data Science Review](https://hdsr.mitpress.mit.edu/) - An open access journal of the Harvard Data Science Initiative published by the MIT Press
  * [Journal of Data Science](http://www.jds-online.com/) - an international journal devoted to applications of statistical methods at large
  * [Big Data Research](https://www.journals.elsevier.com/big-data-research)
  * [Journal of Big Data](http://journalofbigdata.springeropen.com/)
