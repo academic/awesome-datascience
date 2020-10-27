@@ -298,6 +298,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) - Early access
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
 - [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
+- [R for Data Science](https://r4ds.had.co.nz/)
 - [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
 - [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
