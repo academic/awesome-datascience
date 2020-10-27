@@ -463,6 +463,7 @@ For more algorithms [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 - [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) - Early access
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
 - [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
+- [R for Data Science](https://r4ds.had.co.nz/)
 - [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
 - [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
@@ -538,7 +539,8 @@ For more algorithms [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 - [Emilio Ferrara](https://twitter.com/jabawack) - #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv
 - [Erin Bartolo](https://twitter.com/erinbartolo) - Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr.
 - [Greg Reda](https://twitter.com/gjreda) Working @ _GrubHub_ about data and pandas
-- [Gregory Piatetsky](https://twitter.com/kdnuggets) - KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
+- [Gregory Piatetsky](https://twitter.com/kdnuggets) -  KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
+- [Hadley Wickham](https://twitter.com/hadleywickham) -  Chief Scientist at RStudio, and an Adjunct Professor of Statistics at the University of Auckland, Stanford University, and Rice University.
 - [Hakan Kardas](https://twitter.com/hakan_kardes) - Data Scientist
 - [Hilary Mason](https://twitter.com/hmason) - Data Scientist in Residence at @accel.
 - [Jeff Hammerbacher](https://twitter.com/hackingdata) ReTweeting about data science
