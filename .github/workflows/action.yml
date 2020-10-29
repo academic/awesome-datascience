@@ -4,8 +4,6 @@ on:
     - cron: "* */24 * * *"
   push:
     branches: [ live ]
-  pull_request:
-    branches: [ live ]
     
 jobs:
   markdown-link-check:
