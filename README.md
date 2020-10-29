@@ -167,64 +167,67 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ## Toolboxes - Environment
 
-- [The Data Science Lifecycle Process](https://github.com/dslp/dslp)
-- [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template)
-- [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Representation learning on dynamic graphs.
-- [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A graph sampling library for NetworkX with a Scikit-Learn like API.
-- [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API.
-- [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a Docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
-- [neptune.ml](https://neptune.ml) -> Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility.
-- [steppy](https://github.com/neptune-ml/steppy) -> Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design.
-- [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) -> Curated collection of the neural networks, transformers and models that make your machine learning work faster and more effective.
-- [Datalab from Google](https://cloud.google.com/datalab/docs/) easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively.
-- [Hortonworks Sandbox](http://hortonworks.com/products/sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
-- [R](http://www.r-project.org/) is a free software environment for statistical computing and graphics.
-- [RStudio](https://www.rstudio.com) IDE – powerful user interface for R. It’s free and open source, works onWindows, Mac, and Linux.
-- [Python - Pandas - Anaconda](https://www.anaconda.com) Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing
-- [Scikit-Learn](http://scikit-learn.org/stable/) Machine Learning in Python
-- [NumPy](http://www.numpy.org/) NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays.
-- [SciPy](https://www.scipy.org/) SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization.
-- [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) - Coursera Course
-- [Data Science Toolbox](http://datasciencetoolbox.org/) - Blog
-- [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generating rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language.
-- [Datadog](https://www.datadoghq.com/) Solutions, code, and devops for high-scale data science.
-- [Variance](http://variancecharts.com/) Build powerful data visualizations for the web without writing JavaScript
-- [Kite Development Kit](http://kitesdk.org/docs/current/index.html) The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
-- [Domino Data Labs](http://www.dominodatalab.com) Run, scale, share, and deploy your models — without any infrastructure or setup.
-- [Apache Flink](http://flink.apache.org/) A platform for efficient, distributed, general-purpose data processing.
-- [Apache Hama](http://hama.apache.org/) Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce.
-- [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks.
-- [Octave](https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab)
-- [Apache Spark](https://spark.apache.org/) Lightning-fast cluster computing
-- [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.
-- [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
-- [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
-- [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
-- [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS
-- [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
-- [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework
-- [Datawrapper](https://www.datawrapper.de/) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper)
-- [Tensor Flow](https://www.tensorflow.org/) - TensorFlow is an Open Source Software Library for Machine Intelligence
-- [Natural Language Toolkit](http://www.nltk.org/)
-- [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit)
-- [Julia](http://julialang.org) – high-level, high-performance dynamic programming language for technical computing
-- [IJulia](https://github.com/JuliaLang/IJulia.jl) – a Julia-language backend combined with the Jupyter interactive environment
-- [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook that enables data-driven,
-  interactive data analytics and collaborative documents with SQL, Scala and more
-- [Featuretools](https://github.com/featuretools/featuretools/) - An open source framework for automated feature engineering written in python
-- [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend.
-- [Albumentations](https://github.com/albu/albumentations) - А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops.
-- [DVC](https://github.com/iterative/dvc) - An open-source data science version control system. It helps track, organize and make data science projects reproducible. In its very basic scenario it helps version control and share large data and model files.
-- [Lambdo](https://github.com/asavinov/lambdo) is a workflow engine which significantly simplifies data analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation.
-- [Feast](https://github.com/feast-dev/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
-- [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
-- [LightTag](https://lighttag.io) - Text Annotation Tool for teams
-- [Trains](https://github.com/allegroai/trains) - Auto-Magical Experiment Manager, Version Control & DevOps for AI
-- [Hopsworks](https://github.com/logicalclocks/hopsworks) - Open-source data-intensive machine learning platform with a feature store. Ingest and manage features for both online (MySQL Cluster) and offline (Apache Hive) access, train and serve models at scale.
-- [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
-- [Lightwood](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with an objective to build predictive models with one line of code.
-- [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) - An open-source Python package that extends the power of Pandas library to AWS connecting DataFrames and AWS data related services (Amazon Redshift, AWS Glue, Amazon Athena, Amazon EMR, etc).
-- [CML](https://github.com/iterative/cml) - An open source toolkit for using continuous integration in data science projects. Automatically train and test models in production-like environments with GitHub Actions & GitLab CI, and autogenerate visual reports on pull/merge requests.
+
+| ink | Description |
+| --- | --- |
+| [The Data Science Lifecycle Process](https://github.com/dslp/dslp) | .  |
+| [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template) | .  |
+| [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) | Representation learning on dynamic graphs.  |
+| [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) | A graph sampling library for NetworkX with a Scikit-Learn like API.  |
+| [Karate Club](https://github.com/benedekrozemberczki/karateclub) | An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API. |
+| [ML Workspace](https://github.com/ml-tooling/ml-workspace) | All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a Docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) | and dev tools (e.g., Jupyter, VS Code) |
+| [neptune.ml](https://neptune.ml) | Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility. |
+| [steppy](https://github.com/neptune-ml/steppy) | Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design. |
+| [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) | Curated collection of the neural networks, transformers and models that make your machine learning work faster and more effective. |
+| [Datalab from Google](https://cloud.google.com/datalab/docs/) | easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively. |
+| [Hortonworks Sandbox](http://hortonworks.com/products/sandbox/) | is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials. |
+| [R](http://www.r-project.org/) | is a free software environment for statistical computing and graphics. |
+| [RStudio](https://www.rstudio.com) | IDE – powerful user interface for R. It’s free and open source, works onWindows, Mac, and Linux. |
+| [Python - Pandas - Anaconda](https://www.anaconda.com) | Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing |
+| [Scikit-Learn](http://scikit-learn.org/stable/) | Machine Learning in Python |
+| [NumPy](http://www.numpy.org/) | NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays. |
+| [SciPy](https://www.scipy.org/) | SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization.
+| [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) | Coursera Course |
+| [Data Science Toolbox](http://datasciencetoolbox.org/) | Blog |
+| [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) | Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generating rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language. |
+| [Datadog](https://www.datadoghq.com/) | Solutions, code, and devops for high-scale data science. |
+| [Variance](http://variancecharts.com/) | Build powerful data visualizations for the web without writing JavaScript |
+| [Kite Development Kit](http://kitesdk.org/docs/current/index.html) | The Kite Software Development Kit (Apache License, Version 2.0) , or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem. |
+| [Domino Data Labs](http://www.dominodatalab.com) | Run, scale, share, and deploy your models — without any infrastructure or setup. |
+| [Apache Flink](http://flink.apache.org/) | A platform for efficient, distributed, general-purpose data processing. |
+| [Apache Hama](http://hama.apache.org/) | Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce. |
+| [Weka](http://www.cs.waikato.ac.nz/ml/weka/) | Weka is a collection of machine learning algorithms for data mining tasks. |
+| [Octave](https://www.gnu.org/software/octave/) | GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab) |
+| [Apache Spark](https://spark.apache.org/) | Lightning-fast cluster computing |
+| [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) | a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services. |
+| [Caffe](http://caffe.berkeleyvision.org/) | Deep Learning Framework |
+| [Torch](http://torch.ch/) | A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT |
+| [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) | .  |
+| [Skale](https://github.com/skale-me/skale-engine) | High performance distributed data processing in NodeJS |
+| [Aerosolve](http://airbnb.io/aerosolve/) | A machine learning package built for humans. |
+| [Intel framework](https://github.com/01org/idlf) | Intel® Deep Learning Framework |
+| [Datawrapper](https://www.datawrapper.de/) | An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper) |
+| [Tensor Flow](https://www.tensorflow.org/) | TensorFlow is an Open Source Software Library for Machine Intelligence |
+| [Natural Language Toolkit](http://www.nltk.org/) | . |
+| [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
+| [Julia](http://julialang.org) | high-level, high-performance dynamic programming language for technical computing |
+| [IJulia](https://github.com/JuliaLang/IJulia.jl) | a Julia-language backend combined with the Jupyter interactive environment |
+| [Apache Zeppelin](http://zeppelin.apache.org/) | Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more  |
+| [Featuretools](https://github.com/featuretools/featuretools/) | An open source framework for automated feature engineering written in python |
+| [Optimus](https://github.com/ironmussa/Optimus) | Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend.  |
+| [Albumentations](https://github.com/albu/albumentations) | А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops. |
+| [DVC](https://github.com/iterative/dvc) | An open-source data science version control system. It helps track, organize and make data science projects reproducible. In its very basic scenario it helps version control and share large data and model files. |
+| [Lambdo](https://github.com/asavinov/lambdo) | is a workflow engine which significantly simplifies data analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation. |
+| [Feast](https://github.com/feast-dev/feast) | A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving. |
+| [Polyaxon](https://github.com/polyaxon/polyaxon) | A platform for reproducible and scalable machine learning and deep learning. |
+| [LightTag](https://lighttag.io) | Text Annotation Tool for teams |
+| [Trains](https://github.com/allegroai/trains) | Auto-Magical Experiment Manager, Version Control & DevOps for AI |
+| [Hopsworks](https://github.com/logicalclocks/hopsworks) | Open-source data-intensive machine learning platform with a feature store. Ingest and manage features for both online (MySQL Cluster) | and offline (Apache Hive) access, train and serve models at scale. |
+| [MindsDB](https://github.com/mindsdb/mindsdb) | MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code. |
+| [Lightwood](https://github.com/mindsdb/lightwood) | A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with an objective to build predictive models with one line of code. |
+| [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) | An open-source Python package that extends the power of Pandas library to AWS connecting DataFrames and AWS data related services (Amazon Redshift, AWS Glue, Amazon Athena, Amazon EMR, etc). |
+| [CML](https://github.com/iterative/cml) | An open source toolkit for using continuous integration in data science projects. Automatically train and test models in production-like environments with GitHub Actions & GitLab CI, and autogenerate visual reports on pull/merge requests. |
+
 
 ## Visualization Tools - Environments
 
