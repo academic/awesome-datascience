@@ -10,7 +10,7 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 | Learn | Apply | Connect | Jobs |
 |     :---:      |     :---:      |     :---:      |     :---:      |
-| <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/book/v8/24px.svg" /></a>   | <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/play_circle_outline/v6/24px.svg" /></a>     | <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/groups/v1/24px.svg" /></a>    | <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/work/v6/24px.svg" /></a>    |
+| <a href="#learn-data-science"><img src="https://fonts.gstatic.com/s/i/materialicons/book/v8/24px.svg" /></a>   | <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/play_circle_outline/v6/24px.svg" /></a>     | <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/groups/v1/24px.svg" /></a>    | <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/work/v6/24px.svg" /></a>    |
 
 
 <br>
@@ -28,10 +28,9 @@ Data Science is one of the hottest topics on the Computer and Internet farmland 
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science) | _Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, machine learning and big data._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) | _Data scientists are big data wranglers, gathering and analyzing large sets of structured and unstructured data. A data scientist’s role combines computer science, statistics, and mathematics. They analyze, process, and model data then interpret the results to create actionable plans for companies and other organizations._ |
 | [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/) | _The story of how data scientists became sexy is mostly the story of the coupling of the mature discipline of statistics with a very young one--computer science.  The term “Data Science” has emerged only recently to specifically designate a new profession that is expected to make sense of the vast stores of big data. But making sense of data has a long history and has been discussed by scientists, statisticians, librarians, computer scientists and others for years. The following timeline traces the evolution of the term “Data Science” and its use, attempts to define it, and related terms._ |
-| [Data Science Methodology by John Rollins PhD](http://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science) | _Those who work in the domain of data science solve problems and answer questions through data analysis every day. They build models to predict outcomes or discover underlying patterns, all to gain insights leading to actions that will improve future outcomes. And the tools and technologies used in data analysis are evolving rapidly, enhancing data scientists’ abilities to reach their goal._ |
 
 
-# Learn Data Science
+## Learn Data Science
 
 Our favorite programming language is _Python_ nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.anaconda.com) to play with data and to create applications.
 
@@ -91,8 +90,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Temporal difference learning
 
 ### Data Mining Algorithms
-
-For more algorithms [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 
 - C4.5
 - k-Means
@@ -335,7 +332,6 @@ For more algorithms [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 - [Applied Data Science: Lessons Learned for the Data-Driven Business](https://www.springer.com/gp/book/9783030118204)
 - [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Field-Cady/dp/1119092949)
 - [The Data Science Design Manual](http://www.data-manual.com/) Beginner Friendly
-- [Exploring Data with R](https://www.manning.com/books/exploring-data-with-r) - Early access
 - [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - Early access
 - [Mining Massive Datasets](http://www.mmds.org/) - free e-book comprehended by an online course
 - [Pandas in Action](https://www.manning.com/books/pandas-in-action) - Early access
@@ -470,7 +466,6 @@ For more algorithms [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 - [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](http://www.thedatasciencehandbook.com/)
-- [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) - Early access
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
 - [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
 - [R for Data Science](https://r4ds.had.co.nz/)
@@ -478,7 +473,6 @@ For more algorithms [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
 - [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
 - [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
-- [Python® for R Users: A Data Science Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126805)
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) 
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
 - [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) Early access
@@ -498,7 +492,6 @@ For more algorithms [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)
 - [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - Free Download 
 - [Global Optimization Algorithms: Theory and Application](http://www.it-weise.de/projects/book.pdf) - Free Download 
 - [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) - Free Download
-- [A Field Guide to Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf) - Free Download 
 
 
 ## Facebook Accounts
