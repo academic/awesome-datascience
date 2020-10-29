@@ -10,7 +10,7 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 | Learn | Apply | Connect |
 |     :---:      |     :---:      |     :---:      |
-| <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/book/v8/24px.svg" /></a>   | <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/book/v8/24px.svg" /></a>     | <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/book/v8/24px.svg" /></a>    |
+| <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/book/v8/24px.svg" /></a>   | <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/play_circle_outline/v6/24px.svg" /></a>     | <a href="#whatisdatascience"><img src="https://fonts.gstatic.com/s/i/materialicons/groups/v1/24px.svg" /></a>    |
 
 
 <br>
