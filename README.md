@@ -1,4 +1,4 @@
-<img src="./assets/head.jpg">
+<div align="center"><img src="./assets/head.jpg"></div>
 
 # AWESOME DATA SCIENCE
 
@@ -228,6 +228,84 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) | An open-source Python package that extends the power of Pandas library to AWS connecting DataFrames and AWS data related services (Amazon Redshift, AWS Glue, Amazon Athena, Amazon EMR, etc). |
 | [CML](https://github.com/iterative/cml) | An open source toolkit for using continuous integration in data science projects. Automatically train and test models in production-like environments with GitHub Actions & GitLab CI, and autogenerate visual reports on pull/merge requests. |
 
+## Machine Learning in General Purpose
+
+* [scikit-learn](http://scikit-learn.org/)
+* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
+* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
+* [scikit-feature](https://github.com/jundongl/scikit-feature)
+* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate)
+* [seqlearn](https://github.com/larsmans/seqlearn)
+* [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes)
+* [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+* [sklearn-deap](https://github.com/rsteca/sklearn-deap)
+* [sigopt_sklearn](https://github.com/sigopt/sigopt_sklearn)
+* [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation)
+* [scikit-image](https://github.com/scikit-image/scikit-image)
+* [scikit-opt](https://github.com/guofei9987/scikit-opt)
+* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs)
+* [pystruct](https://github.com/pystruct/pystruct)
+* [Shogun](http://www.shogun-toolbox.org/)
+* [xLearn](https://github.com/aksnzhy/xlearn)
+* [cuML](https://github.com/rapidsai/cuml)
+* [causalml](https://github.com/uber/causalml)
+* [mlpack](https://github.com/mlpack/mlpack)
+* [MLxtend](https://github.com/rasbt/mlxtend)
+* [modAL](https://github.com/cosmic-cortex/modAL)
+* [Sparkit-learn](https://github.com/lensacom/sparkit-learn)
+* [hyperlearn](https://github.com/danielhanchen/hyperlearn)
+* [dlib](https://github.com/davisking/dlib)
+* [RuleFit](https://github.com/christophM/rulefit)
+* [pyGAM](https://github.com/dswah/pyGAM)
+
+
+## Deep Learning
+
+### pytorch
+* [PyTorch](https://github.com/pytorch/pytorch)
+* [torchvision](https://github.com/pytorch/vision)
+* [torchtext](https://github.com/pytorch/text)
+* [torchaudio](https://github.com/pytorch/audio)
+* [ignite](https://github.com/pytorch/ignite)
+* [PyTorchNet](https://github.com/pytorch/tnt)
+* [PyToune](https://github.com/GRAAL-Research/pytoune)
+* [skorch](https://github.com/dnouri/skorch)
+* [PyVarInf](https://github.com/ctallec/pyvarinf)
+* [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
+* [GPyTorch](https://github.com/cornellius-gp/gpytorch)
+* [pyro](https://github.com/uber/pyro)
+* [Catalyst](https://github.com/catalyst-team/catalyst)
+### tensorflow
+* [TensorFlow](https://github.com/tensorflow/tensorflow)
+* [TensorLayer](https://github.com/zsdonghao/tensorlayer)
+* [TFLearn](https://github.com/tflearn/tflearn)
+* [Sonnet](https://github.com/deepmind/sonnet)
+* [tensorpack](https://github.com/ppwwyyxx/tensorpack)
+* [TRFL](https://github.com/deepmind/trfl)
+* [Polyaxon](https://github.com/polyaxon/polyaxon)
+* [NeuPy](https://github.com/itdxer/neupy)
+* [tfdeploy](https://github.com/riga/tfdeploy)
+* [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+* [TensorFlow Fold](https://github.com/tensorflow/fold)
+* [tensorlm](https://github.com/batzner/tensorlm)
+* [TensorLight](https://github.com/bsautermeister/tensorlight)
+* [Mesh TensorFlow](https://github.com/tensorflow/mesh)
+* [Ludwig](https://github.com/uber/ludwig)
+* [TF-Agents](https://github.com/tensorflow/agents)
+* [TensorForce](https://github.com/reinforceio/tensorforce)
+
+### keras
+
+* [Keras](https://keras.io)
+* [keras-contrib](https://github.com/keras-team/keras-contrib)
+* [Hyperas](https://github.com/maxpumperla/hyperas)
+* [Elephas](https://github.com/maxpumperla/elephas)
+* [Hera](https://github.com/keplr-io/hera)
+* [Spektral](https://github.com/danielegrattarola/spektral)
+* [qkeras](https://github.com/google/qkeras)
+* [keras-rl](https://github.com/keras-rl/keras-rl)
+* [Talos](https://github.com/autonomio/talos)
+
 
 ## Visualization Tools - Environments
 
@@ -267,6 +345,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Redash](https://redash.io/)
 - [C3](https://c3js.org/) - D3-based reusable chart library
 - [TensorWatch](https://github.com/microsoft/tensorwatch) - Debugging and visualization for data science and machine learning
+
 
 ## Journals, Publications and Magazines
 
@@ -593,13 +672,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 
-# Fun
-
-- [Infographic](#infographic)
-- [Data Sets](#data-sets)
-- [Comics](#comics)
-
-## What is Data Science?
 
 ## Youtube Videos & Channels
 
@@ -638,6 +710,14 @@ Some data mining competition platforms
 - [The Data Science Game](http://www.datasciencegame.com/)
 - [InnoCentive](https://www.innocentive.com/)
 - [TuneedIT](http://tunedit.org/challenges)
+
+
+# Fun
+
+- [Infographic](#infographic)
+- [Data Sets](#data-sets)
+- [Comics](#comics)
+
 
 ## Infographic
 
