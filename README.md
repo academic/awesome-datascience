@@ -168,7 +168,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ## Toolboxes - Environment
 
 
-| ink | Description |
+| Link | Description |
 | --- | --- |
 | [The Data Science Lifecycle Process](https://github.com/dslp/dslp) | .  |
 | [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template) | .  |
@@ -524,70 +524,74 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ## Twitter Accounts
 
-- [Big Data Combine](https://twitter.com/BigDataCombine) - Rapid-fire, live tryouts for data scientists seeking to monetize their models as trading strategies
-- [Big Data Mania](https://twitter.com/BigDataGal) - Data Viz Wiz | Data Journalist | Growth Hacker | Author of Data Science for Dummies (2015)
-- [Big Data Science](https://twitter.com/analyticbridge) - Big Data, Data Science, Predictive Modeling, Business Analytics, Hadoop, Decision and Operations Research.
-- [Charlie Greenbacker](https://twitter.com/greenbacker) - Director of Data Science at @ExploreAltamira
-- [Chris Said](https://twitter.com/Chris_Said) - Data scientist at Twitter
-- [Clare Corthell](https://twitter.com/clarecorthell) - Dev, Design, Data Science @mattermark #hackerei
-- [DADI Charles-Abner](https://twitter.com/DadiCharles) - #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast
-- [Data Science Central](https://twitter.com/DataScienceCtrl) - Data Science Central is the industry's single resource for Big Data practitioners.
-- [Data Science London](https://twitter.com/ds_ldn) Data Science. Big Data. Data Hacks. Data Junkies. Data Startups. Open Data
-- [Data Science Renee](https://twitter.com/BecomingDataSci) - Documenting my path from SQL Data Analyst pursuing an Engineering Master's Degree to Data Scientist
-- [Data Science Report](https://twitter.com/TedOBrien93) - Mission is to help guide & advance careers in Data Science & Analytics
-- [Data Science Tips](https://twitter.com/datasciencetips) - Tips and Tricks for Data Scientists around the world! #datascience #bigdata
-- [Data Vizzard](https://twitter.com/DataVisualizati) - DataViz, Security, Military
-- [DataScienceX](https://twitter.com/DataScienceX)
-- [deeplearning4j](https://twitter.com/deeplearning4j) -
-- [DJ Patil](https://twitter.com/dpatil) - White House Data Chief, VP @ RelateIQ.
-- [Domino Data Lab](https://twitter.com/DominoDataLab)
-- [Drew Conway](https://twitter.com/drewconway) - Data nerd, hacker, student of conflict.
-- [Emilio Ferrara](https://twitter.com/jabawack) - #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv
-- [Erin Bartolo](https://twitter.com/erinbartolo) - Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr.
-- [Greg Reda](https://twitter.com/gjreda) Working @ _GrubHub_ about data and pandas
-- [Gregory Piatetsky](https://twitter.com/kdnuggets) -  KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
-- [Hadley Wickham](https://twitter.com/hadleywickham) -  Chief Scientist at RStudio, and an Adjunct Professor of Statistics at the University of Auckland, Stanford University, and Rice University.
-- [Hakan Kardas](https://twitter.com/hakan_kardes) - Data Scientist
-- [Hilary Mason](https://twitter.com/hmason) - Data Scientist in Residence at @accel.
-- [Jeff Hammerbacher](https://twitter.com/hackingdata) ReTweeting about data science
-- [John Myles White](https://twitter.com/johnmyleswhite) Scientist at Facebook and Julia developer. Author of Machine Learning for Hackers and Bandit Algorithms for Website Optimization. Tweets reflect my views only.
-- [Juan Miguel Lavista](https://twitter.com/BDataScientist) - Principal Data Scientist @ Microsoft Data Science Team
-- [Julia Evans](https://twitter.com/b0rk) - Hacker - Pandas - Data Analyze
-- [Kenneth Cukier](https://twitter.com/kncukier) - The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ).
-- [Kevin Davenport](https://twitter.com/KevinLDavenport) - Organizer of https://meetup.com/San-Diego-R-Users-Group/
-- [Kevin Markham](https://twitter.com/justmarkham) - Data science instructor, and founder of [Data School](http://www.dataschool.io/)
-- [Kim Rees](https://twitter.com/krees) - Interactive data visualization and tools. Data flaneur.
-- [Kirk Borne](https://twitter.com/KirkDBorne) - DataScientist, PhD Astrophysicist, Top #BigData Influencer.
-- [Linda Regber](https://twitter.com/LindaRegber) - Data story teller, visualizations.
-- [Luis Rei](https://twitter.com/lmrei) - PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science.
-- [Mark Stevenson](https://twitter.com/Agent_Analytics) - Data Analytics Recruitment Specialist at Salt (@SaltJobs) | Analytics - Insight - Big Data - Datascience
-- [Matt Harrison](https://twitter.com/__mharrison__) - Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, ult|goalt-imate, organic gardening.
-- [Matthew Russell](https://twitter.com/ptwobrussell) - Mining the Social Web.
-- [Mert Nuhoğlu](https://twitter.com/mertnuhoglu) Data Scientist at BizQualify, Developer
-- [Monica Rogati](https://twitter.com/mrogati) - Data @ Jawbone. Turned data into stories & products at LinkedIn. Text mining, applied machine learning, recommender systems. Ex-gamer, ex-machine coder; namer.
-- [Noah Iliinsky](https://twitter.com/noahi) - Visualization & interaction designer. Practical cyclist. Author of vis books: http://www.oreilly.com/pub/au/4419
-- [Paul Miller](https://twitter.com/PaulMiller) - Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst.
-- [Peter Skomoroch](https://twitter.com/peteskomoroch) - Creating intelligent systems to automate tasks & improve decisions. Entrepreneur, ex Principal Data Scientist @LinkedIn. Machine Learning, ProductRei, Networks
-- [Prash Chan](https://twitter.com/MDMGeek) - Solution Architect @ IBM, Master Data Management, Data Quality & Data Governance Blogger. Data Science, Hadoop, Big Data & Cloud.
-- [Quora Data Science](https://twitter.com/q_datascience) Quora's data science topic
-- [R-Bloggers](https://twitter.com/Rbloggers) - Tweet blog posts from the R blogosphere, data science conferences and (!) open jobs for data scientists.
-- [Rand Hindi](https://twitter.com/randhindi)
-- [Randy Olson](https://twitter.com/randal_olson) - Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate.
-- [Recep Erol](https://twitter.com/EROLRecep) - Data Science geek @ UALR
-- [Ryan Orban](https://twitter.com/ryanorban) - Data scientist, genetic origamist, hardware aficionado
-- [Sean J. Taylor](https://twitter.com/seanjtaylor) - Social Scientist. Hacker. Facebook Data Science Team. Keywords: Experiments, Causal Inference, Statistics, Machine Learning, Economics.
-- [Silvia K. Spiva](https://twitter.com/silviakspiva) - #DataScience at Cisco
-- [Harsh B. Gupta](https://twitter.com/harshbg) - Data Scientist at BBVA Compass
-- [Spencer Nelson](https://twitter.com/spenczar_n) - Data nerd
-- [Talha Oz](https://twitter.com/tozCSS) - Enjoys ABM, SNA, DM, ML, NLP, HI, Python, Java. Top percentile kaggler/data scientist
-- [Tasos Skarlatidis](https://twitter.com/anskarl) - Complex Event Processing, Big Data, Artificial Intelligence and Machine Learning. Passionate about programming and open-source.
-- [Terry Timko](https://twitter.com/Terry_Timko) - InfoGov; Bigdata; Data as a Service; Data Science; Open, Social & Business Data Convergence
-- [Tony Baer](https://twitter.com/TonyBaer) - IT analyst with Ovum covering Big Data & data management with some systems engineering thrown in.
-- [Tony Ojeda](https://twitter.com/tonyojeda3) - Data Scientist | Author | Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC
-- [Vamshi Ambati](https://twitter.com/vambati) - Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (Blog: https://allthingsds.wordpress.com )
-- [Wes McKinney](https://twitter.com/wesmckinn) - Pandas (Python Data Analysis library).
-- [WileyEd](https://twitter.com/WileyEd) - Senior Manager - @Seagate Big Data Analytics | @McKinsey Alum | #BigData + #Analytics Evangelist | #Hadoop, #Cloud, #Digital, & #R Enthusiast
-- [WNYC Data News Team](https://twitter.com/datanews) - The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work.
+| Twitter | Description |
+| --- | --- |
+| [Big Data Combine](https://twitter.com/BigDataCombine) | Rapid-fire, live tryouts for data scientists seeking to monetize their models as trading strategies |
+| [Big Data Mania](https://twitter.com/BigDataGal) | Data Viz Wiz , Data Journalist , Growth Hacker , Author of Data Science for Dummies (2015) |
+| [Big Data Science](https://twitter.com/analyticbridge) | Big Data, Data Science, Predictive Modeling, Business Analytics, Hadoop, Decision and Operations Research. |
+| [Charlie Greenbacker](https://twitter.com/greenbacker) | Director of Data Science at @ExploreAltamira |
+| [Chris Said](https://twitter.com/Chris_Said) | Data scientist at Twitter |
+| [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
+| [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
+| [Data Science Central](https://twitter.com/DataScienceCtrl) | Data Science Central is the industry's single resource for Big Data practitioners. |
+| [Data Science London](https://twitter.com/ds_ldn)  | Data Science. Big Data. Data Hacks. Data Junkies. Data Startups. Open Data |
+| [Data Science Renee](https://twitter.com/BecomingDataSci) | Documenting my path from SQL Data Analyst pursuing an Engineering Master's Degree to Data Scientist |
+| [Data Science Report](https://twitter.com/TedOBrien93) | Mission is to help guide & advance careers in Data Science & Analytics |
+| [Data Science Tips](https://twitter.com/datasciencetips) | Tips and Tricks for Data Scientists around the world! #datascience #bigdata |
+| [Data Vizzard](https://twitter.com/DataVisualizati) | DataViz, Security, Military |
+| [DataScienceX](https://twitter.com/DataScienceX) |  |
+| [deeplearning4j](https://twitter.com/deeplearning4j) | |
+| [DJ Patil](https://twitter.com/dpatil) | White House Data Chief, VP @ RelateIQ. |
+| [Domino Data Lab](https://twitter.com/DominoDataLab) | |
+| [Drew Conway](https://twitter.com/drewconway) | Data nerd, hacker, student of conflict. |
+| [Emilio Ferrara](https://twitter.com/jabawack) | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
+| [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
+| [Greg Reda](https://twitter.com/gjreda)  | Working @ _GrubHub_ about data and pandas |
+| [Gregory Piatetsky](https://twitter.com/kdnuggets) |  KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher. |
+| [Hadley Wickham](https://twitter.com/hadleywickham) |  Chief Scientist at RStudio, and an Adjunct Professor of Statistics at the University of Auckland, Stanford University, and Rice University. |
+| [Hakan Kardas](https://twitter.com/hakan_kardes) | Data Scientist |
+| [Hilary Mason](https://twitter.com/hmason) | Data Scientist in Residence at @accel. |
+| [Jeff Hammerbacher](https://twitter.com/hackingdata)  | ReTweeting about data science |
+| [John Myles White](https://twitter.com/johnmyleswhite)  | Scientist at Facebook and Julia developer. Author of Machine Learning for Hackers and Bandit Algorithms for Website Optimization. Tweets reflect my views only. |
+| [Juan Miguel Lavista](https://twitter.com/BDataScientist) | Principal Data Scientist @ Microsoft Data Science Team |
+| [Julia Evans](https://twitter.com/b0rk) | Hacker - Pandas - Data Analyze |
+| [Kenneth Cukier](https://twitter.com/kncukier) | The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ). |
+| [Kevin Davenport](https://twitter.com/KevinLDavenport) | Organizer of https://meetup.com/San-Diego-R-Users-Group/ |
+| [Kevin Markham](https://twitter.com/justmarkham) | Data science instructor, and founder of [Data School](http://www.dataschool.io/) |
+| [Kim Rees](https://twitter.com/krees) | Interactive data visualization and tools. Data flaneur. |
+| [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
+| [Linda Regber](https://twitter.com/LindaRegber) | Data story teller, visualizations. |
+| [Luis Rei](https://twitter.com/lmrei) | PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science. |
+| [Mark Stevenson](https://twitter.com/Agent_Analytics) | Data Analytics Recruitment Specialist at Salt (@SaltJobs) | Analytics - Insight - Big Data - Datascience |
+| [Matt Harrison](https://twitter.com/__mharrison__) | Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, ult|goalt-imate, organic gardening. |
+| [Matthew Russell](https://twitter.com/ptwobrussell) | Mining the Social Web. |
+| [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)  | Data Scientist at BizQualify, Developer |
+| [Monica Rogati](https://twitter.com/mrogati) | Data @ Jawbone. Turned data into stories & products at LinkedIn. Text mining, applied machine learning, recommender systems. Ex-gamer, ex-machine coder; namer. |
+| [Noah Iliinsky](https://twitter.com/noahi) | Visualization & interaction designer. Practical cyclist. Author of vis books: http://www.oreilly.com/pub/au/4419 |
+| [Paul Miller](https://twitter.com/PaulMiller) | Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst. |
+| [Peter Skomoroch](https://twitter.com/peteskomoroch) | Creating intelligent systems to automate tasks & improve decisions. Entrepreneur, ex Principal Data Scientist @LinkedIn. Machine Learning, ProductRei, Networks |
+| [Prash Chan](https://twitter.com/MDMGeek) | Solution Architect @ IBM, Master Data Management, Data Quality & Data Governance Blogger. Data Science, Hadoop, Big Data & Cloud. |
+| [Quora Data Science](https://twitter.com/q_datascience)  | Quora's data science topic |
+| [R-Bloggers](https://twitter.com/Rbloggers) | Tweet blog posts from the R blogosphere, data science conferences and (!) open jobs for data scientists. |
+| [Rand Hindi](https://twitter.com/randhindi) |  |
+| [Randy Olson](https://twitter.com/randal_olson) | Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate. |
+| [Recep Erol](https://twitter.com/EROLRecep) | Data Science geek @ UALR |
+| [Ryan Orban](https://twitter.com/ryanorban) | Data scientist, genetic origamist, hardware aficionado |
+| [Sean J. Taylor](https://twitter.com/seanjtaylor) | Social Scientist. Hacker. Facebook Data Science Team. Keywords: Experiments, Causal Inference, Statistics, Machine Learning, Economics. |
+| [Silvia K. Spiva](https://twitter.com/silviakspiva) | #DataScience at Cisco |
+| [Harsh B. Gupta](https://twitter.com/harshbg) | Data Scientist at BBVA Compass |
+| [Spencer Nelson](https://twitter.com/spenczar_n) | Data nerd |
+| [Talha Oz](https://twitter.com/tozCSS) | Enjoys ABM, SNA, DM, ML, NLP, HI, Python, Java. Top percentile kaggler/data scientist |
+| [Tasos Skarlatidis](https://twitter.com/anskarl) | Complex Event Processing, Big Data, Artificial Intelligence and Machine Learning. Passionate about programming and open-source. |
+| [Terry Timko](https://twitter.com/Terry_Timko) | InfoGov; Bigdata; Data as a Service; Data Science; Open, Social & Business Data Convergence |
+| [Tony Baer](https://twitter.com/TonyBaer) | IT analyst with Ovum covering Big Data & data management with some systems engineering thrown in. |
+| [Tony Ojeda](https://twitter.com/tonyojeda3) | Data Scientist | Author | Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC |
+| [Vamshi Ambati](https://twitter.com/vambati) | Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (Blog: https://allthingsds.wordpress.com ) |
+| [Wes McKinney](https://twitter.com/wesmckinn) | Pandas (Python Data Analysis library). |
+| [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
+| [WNYC Data News Team](https://twitter.com/datanews) | The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work. |
+
+
 
 # Fun
 
