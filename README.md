@@ -454,7 +454,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  * [Datalab from Google](https://cloud.google.com/datalab/docs/) easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively.
  * [Hortonworks Sandbox](http://hortonworks.com/products/sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
  * [R](http://www.r-project.org/) is a free software environment for statistical computing and graphics.
- * [RStudio](https://www.rstudio.com) IDE – powerful user interface for R. It’s free and open source, works onWindows, Mac, and Linux.
+ * [RStudio](https://www.rstudio.com) IDE – powerful user interface for R. It’s free and open source, works on Windows, Mac, and Linux.
  * [Python - Pandas - Anaconda](https://www.continuum.io/downloads) Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing
  * [Scikit-Learn](http://scikit-learn.org/stable/) Machine Learning in Python
  * [NumPy](http://www.numpy.org/) NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays.
