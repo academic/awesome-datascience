@@ -147,6 +147,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Coursera Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 - [Coursera GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
 - [Codecademy's Data Science](https://www.codecademy.com/learn/paths/data-science)
+- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - Linear Algebra course by Gilbert Strang
+- [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 
 ## Tutorials
 
@@ -163,7 +165,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
-* [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+- [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
 
 ## Toolboxes - Environment
 
@@ -182,7 +185,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Datalab from Google](https://cloud.google.com/datalab/docs/) | easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively. |
 | [Hortonworks Sandbox](http://hortonworks.com/products/sandbox/) | is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials. |
 | [R](http://www.r-project.org/) | is a free software environment for statistical computing and graphics. |
-| [RStudio](https://www.rstudio.com) | IDE – powerful user interface for R. It’s free and open source, works onWindows, Mac, and Linux. |
+| [RStudio](https://www.rstudio.com) | IDE – powerful user interface for R. It’s free and open source, works on Windows, Mac, and Linux. |
 | [Python - Pandas - Anaconda](https://www.anaconda.com) | Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing |
 | [Scikit-Learn](http://scikit-learn.org/stable/) | Machine Learning in Python |
 | [NumPy](http://www.numpy.org/) | NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays. |
@@ -312,6 +315,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [addepar](http://opensource.addepar.com/ember-charts/#/overview)
 - [amcharts](https://www.amcharts.com/)
 - [anychart](http://www.anychart.com/)
+- [bokeh](https://bokeh.org/)
 - [slemma](https://slemma.com/)
 - [cartodb](http://cartodb.github.io/odyssey.js/)
 - [Cube](http://square.github.io/cube/)
@@ -322,6 +326,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [ECharts](http://echarts.baidu.com/index-en.html)
 - [exhibit](http://www.simile-widgets.org/exhibit/)
 - [gephi](https://gephi.org/)
+- [ggplot2](https://ggplot2.tidyverse.org/
 - [Glue](http://www.glueviz.org/en/latest/)
 - [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
 - [highcarts](http://www.highcharts.com/)
@@ -425,6 +430,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - Free Download
 - [Global Optimization Algorithms: Theory and Application](http://www.it-weise.de/projects/book.pdf) - Free Download
 - [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) - Free Download
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) - Convex Optimization book by Stephen Boyd - Free Download
 
 # Socialize
 
