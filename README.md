@@ -508,6 +508,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [addepar](http://opensource.addepar.com/ember-charts/#/overview)
  * [amcharts](https://www.amcharts.com/)
  * [anychart](http://www.anychart.com/)
+ * [bokeh](https://bokeh.org/)
  * [slemma](https://slemma.com/)
  * [cartodb](http://cartodb.github.io/odyssey.js/)
  * [Cube](http://square.github.io/cube/)
