@@ -519,7 +519,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  * [exhibit](http://www.simile-widgets.org/exhibit/)
  * [Gatherplot](http://www.gatherplot.org/)
  * [gephi](https://gephi.org/)
- * [ggplot2](http://ggplot2.org/)
+ * [ggplot2](https://ggplot2.tidyverse.org/)
  * [Glue](http://www.glueviz.org/en/latest/)
  * [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
  * [highcarts](http://www.highcharts.com/)
