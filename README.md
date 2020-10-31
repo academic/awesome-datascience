@@ -117,6 +117,8 @@ Preview | Description
 * [365 Data Science Course](https://365datascience.com/)
 * [Coursera Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 * [Coursera GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+* [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - Linear Algebra course by Gilbert Strang
+* [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 
 ## Data Sets
 
