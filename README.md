@@ -319,7 +319,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [ECharts](http://echarts.baidu.com/index-en.html)
 - [exhibit](http://www.simile-widgets.org/exhibit/)
 - [gephi](https://gephi.org/)
-- [ggplot2](https://ggplot2.tidyverse.org/
+- [ggplot2](https://ggplot2.tidyverse.org/)
 - [Glue](http://www.glueviz.org/en/latest/)
 - [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
 - [highcarts](http://www.highcharts.com/)
@@ -327,7 +327,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [jqplot](http://www.jqplot.com/)
 - [Matplotlib](http://matplotlib.org/)
 - [nvd3](http://nvd3.org/)
-- [Opendata-tools](http://opendata-tools.org/en/visualization/) - list of open source data visualization tools
+- [Opendata-tools](http://opendata-tools.org/en/visualization/)
 - [Openrefine](http://openrefine.org/)
 - [plot.ly](https://plot.ly/)
 - [raw](http://rawgraphs.io)
@@ -339,10 +339,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [vida](https://vida.io/)
 - [Wrangler](http://vis.stanford.edu/wrangler/)
 - [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [NetworkX](https://networkx.github.io/) - High-productivity software for complex networks
+- [NetworkX](https://networkx.github.io/)
 - [Redash](https://redash.io/)
-- [C3](https://c3js.org/) - D3-based reusable chart library
-- [TensorWatch](https://github.com/microsoft/tensorwatch) - Debugging and visualization for data science and machine learning
+- [C3](https://c3js.org/)
+- [TensorWatch](https://github.com/microsoft/tensorwatch)
 
 
 ## Journals, Publications and Magazines
