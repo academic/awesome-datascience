@@ -647,8 +647,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
 | [Linda Regber](https://twitter.com/LindaRegber) | Data story teller, visualizations. |
 | [Luis Rei](https://twitter.com/lmrei) | PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science. |
-| [Mark Stevenson](https://twitter.com/Agent_Analytics) | Data Analytics Recruitment Specialist at Salt (@SaltJobs) | Analytics - Insight - Big Data - Datascience |
-| [Matt Harrison](https://twitter.com/__mharrison__) | Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, ult|goalt-imate, organic gardening. |
+| [Mark Stevenson](https://twitter.com/Agent_Analytics) | Data Analytics Recruitment Specialist at Salt (@SaltJobs)  Analytics - Insight - Big Data - Datascience |
+| [Matt Harrison](https://twitter.com/__mharrison__) | Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, organic gardening. |
 | [Matthew Russell](https://twitter.com/ptwobrussell) | Mining the Social Web. |
 | [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)  | Data Scientist at BizQualify, Developer |
 | [Monica Rogati](https://twitter.com/mrogati) | Data @ Jawbone. Turned data into stories & products at LinkedIn. Text mining, applied machine learning, recommender systems. Ex-gamer, ex-machine coder; namer. |
@@ -670,7 +670,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Tasos Skarlatidis](https://twitter.com/anskarl) | Complex Event Processing, Big Data, Artificial Intelligence and Machine Learning. Passionate about programming and open-source. |
 | [Terry Timko](https://twitter.com/Terry_Timko) | InfoGov; Bigdata; Data as a Service; Data Science; Open, Social & Business Data Convergence |
 | [Tony Baer](https://twitter.com/TonyBaer) | IT analyst with Ovum covering Big Data & data management with some systems engineering thrown in. |
-| [Tony Ojeda](https://twitter.com/tonyojeda3) | Data Scientist | Author | Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC |
+| [Tony Ojeda](https://twitter.com/tonyojeda3) | Data Scientist , Author , Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC |
 | [Vamshi Ambati](https://twitter.com/vambati) | Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (Blog: https://allthingsds.wordpress.com ) |
 | [Wes McKinney](https://twitter.com/wesmckinn) | Pandas (Python Data Analysis library). |
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
