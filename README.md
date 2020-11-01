@@ -508,6 +508,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [Dask](https://dask.org/) - An open-source framework to painlessly transition your Python analytics code to distributed computing systems (Big Data)
 * (Statsmodels)[https://www.statsmodels.org/stable/index.html] - A Python-based inferential statistics, hypothesis testing and regression framework
 * (NLTK - The Natural Language Toolkit )[https://www.nltk.org/] - An introductory yet powerful toolkit for natural language processing and classification
+* (Gensim)[https://radimrehurek.com/gensim/] - An open-source library for topic modeling of natural language text
 
 ## Visualization Tools - Environments
  
