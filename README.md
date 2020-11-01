@@ -509,6 +509,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * (Statsmodels)[https://www.statsmodels.org/stable/index.html] - A Python-based inferential statistics, hypothesis testing and regression framework
 * (NLTK - The Natural Language Toolkit )[https://www.nltk.org/] - An introductory yet powerful toolkit for natural language processing and classification
 * (Gensim)[https://radimrehurek.com/gensim/] - An open-source library for topic modeling of natural language text
+* (spaCy)[https://spacy.io/] - A performant natural language processing toolkit
 
 ## Visualization Tools - Environments
  
