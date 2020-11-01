@@ -504,7 +504,8 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 * [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code.
 * [Lightwood](https://github.com/mindsdb/lightwood) -  A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with an objective to build predictive models with one line of code.
 * [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) - An open-source Python package that extends the power of Pandas library to AWS connecting DataFrames and AWS data related services (Amazon Redshift, AWS Glue, Amazon Athena, Amazon EMR, etc).
-* [CML](https://github.com/iterative/cml) - An open source toolkit for using continuous integration in data science projects. Automatically train and test models in production-like environments with GitHub Actions & GitLab CI, and autogenerate visual reports on pull/merge requests. 
+* [CML](https://github.com/iterative/cml) - An open source toolkit for using continuous integration in data science projects. Automatically train and test models in production-like environments with GitHub Actions & GitLab CI, and autogenerate visual reports on pull/merge requests.
+* [Dask](https://dask.org/) - An open-source framework to painlessly transition your Python analytics code to distributed computing systems (Big Data) 
 
 ## Visualization Tools - Environments
  
