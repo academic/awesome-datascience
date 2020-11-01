@@ -226,6 +226,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Dask](https://dask.org/) | An open source Python library to painlessly transition your analytics code to distributed computing systems (Big Data) |
 | [Statsmodels](https://www.statsmodels.org/stable/index.html) | A Python-based inferential statistics, hypothesis testing and regression framework |
 | [Gensim](https://radimrehurek.com/gensim/) | An open-source library for topic modeling of natural language text |
+| [spaCy](https://spacy.io/) | A performant natural language processing toolkit |
 
 
 ## Machine Learning in General Purpose
