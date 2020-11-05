@@ -572,7 +572,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Thinking: The Next Scientific, Technological and Economic Revolution](https://www.springer.com/gp/book/9783319950914)
 - [Applied Data Science: Lessons Learned for the Data-Driven Business](https://www.springer.com/gp/book/9783030118204)
 - [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Field-Cady/dp/1119092949)
-- [The Data Science Design Manual](http://www.data-manual.com/) Beginner Friendly
 - [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - Early access
 - [Mining Massive Datasets](http://www.mmds.org/) - free e-book comprehended by an online course
 - [Pandas in Action](https://www.manning.com/books/pandas-in-action) - Early access
