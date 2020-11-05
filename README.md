@@ -39,6 +39,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Tutorials](#tutorials)
 
 ## Algorithms
+[top](#awesome-data-science)
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
@@ -96,6 +97,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - CART
 
 ## COLLEGES
+[top](#awesome-data-science)
 
 - [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 - [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
@@ -112,6 +114,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Master of Data Science @ Illinois Institute of Technology](https://science.iit.edu/programs/graduate/master-data-science)
 
 ## MOOC's
+[top](#awesome-data-science)
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
 - [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
@@ -144,6 +147,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 
 ## Tutorials
+[top](#awesome-data-science)
 
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
@@ -162,7 +166,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
 
 ## Toolboxes - Environment
-
+[top](#awesome-data-science)
 
 | Link | Description |
 | --- | --- |
@@ -351,6 +355,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Journals, Publications and Magazines
+[top](#awesome-data-science)
 
 - [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
 - [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
@@ -366,6 +371,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
 
 ## Presentations
+[top](#awesome-data-science)
 
 - [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 - [Introduction to Data Science](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
@@ -382,6 +388,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 
 ## Podcasts
+[top](#awesome-data-science)
 
 - [Adversarial Learning](http://adversariallearning.com/)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
@@ -396,6 +403,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
 
 ## Books
+[top](#awesome-data-science)
 
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Become a Leader in Data Science](https://www.manning.com/books/become-a-leader-in-data-science) - Early access
@@ -678,6 +686,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Youtube Videos & Channels
+[top](#awesome-data-science)
 
 - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
 - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
