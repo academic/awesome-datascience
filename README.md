@@ -299,6 +299,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [The Data Science Design Manual](http://www.data-manual.com/) Beginner Friendly
 - [Exploring Data with R](https://www.manning.com/books/exploring-data-with-r) - Early access
 - [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - Early access
+- [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science) - Early access
 
 ## Facebook Accounts
 
