@@ -583,6 +583,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - Free Download 
 - [Global Optimization Algorithms: Theory and Application](http://www.it-weise.de/projects/book.pdf) - Free Download 
 - [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) - Free Download
+- [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science) - Early access
 
 
 ## Facebook Accounts
