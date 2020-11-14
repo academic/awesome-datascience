@@ -149,6 +149,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ## Tutorials
 [top](#awesome-data-science)
 
+- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 - [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
