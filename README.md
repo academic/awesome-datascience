@@ -234,6 +234,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Gensim](https://radimrehurek.com/gensim/) | An open-source library for topic modeling of natural language text |
 | [spaCy](https://spacy.io/) | A performant natural language processing toolkit |
 | [Grid Studio](https://github.com/ricklamers/gridstudio) | Grid studio is a web-based spreadsheet application with full integration of the Python programming language. |
+|[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|
 
 
 ## Machine Learning in General Purpose
