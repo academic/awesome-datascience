@@ -158,6 +158,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
 - [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/data-science)
 - [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
+- [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
 
 ### Free Courses
 
@@ -536,7 +537,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Chris Albon's Website](https://chrisalbon.com/) - Data Science and AI notes
 - [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - Data Science with Esoteric programming languages
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - Blog for Evolutionary Algorithms
-
+- [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
 
 ## Newsletters
 
