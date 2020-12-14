@@ -205,6 +205,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Octave](https://www.gnu.org/software/octave/) | GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab) |
 | [Apache Spark](https://spark.apache.org/) | Lightning-fast cluster computing |
 | [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) | a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services. |
+| [Data Mechanics](https://www.datamechanics.co) | A data science and engineering platform making Apache Spark more developer-friendly and cost-effective. |
 | [Caffe](http://caffe.berkeleyvision.org/) | Deep Learning Framework |
 | [Torch](http://torch.ch/) | A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT |
 | [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) | .  |
