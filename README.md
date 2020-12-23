@@ -390,10 +390,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 - [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 - [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
+- [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
 
-## Newsletters
-
-- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 
 ## Podcasts
 [top](#awesome-data-science)
@@ -409,6 +407,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 - [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+- [DataTalks.Club](https://anchor.fm/datatalksclub)
+
 
 ## Books
 [top](#awesome-data-science)
@@ -421,7 +422,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](http://www.thedatasciencehandbook.com/)
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
-- [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
 - [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
 - [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
@@ -446,17 +446,24 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) - Free Download
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) - Convex Optimization book by Stephen Boyd - Free Download
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) - Early access
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
+- [Machine Learning Bookcamp](https://mlbookcamp.com/) - Early access
+
 
 # Socialize
+[top](#awesome-data-science)
 
 - [Bloggers](#bloggers)
 - [Facebook Accounts](#facebook-accounts)
-- [Twitter Accounts ](#twitter-accounts)
+- [Twitter Accounts](#twitter-accounts)
 - [Newsletters](#newsletters)
-- [Telegram Channels ](#telegram-channels)
+- [Telegram Channels](#telegram-channels)
+- [Slack Communities](#slack-communities)
 - [Data Science Competitions](#competitions)
 
 ## Bloggers
+[top](#awesome-data-science)
 
 - [Wes McKinney](http://wesmckinney.com/archives.html) - Wes McKinney Archives.
 - [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
@@ -541,62 +548,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - Blog for Evolutionary Algorithms
 - [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
 
-## Newsletters
-
-- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
-
-## Podcasts
-
-- [Adversarial Learning](http://adversariallearning.com/)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
-- [Data Crunch](http://vaultanalytics.com/datacrunch/)
-- [Data Skeptic](https://dataskeptic.com/)
-- [Data Stories](http://datastori.es/)
-- [Learning Machines 101](http://www.learningmachines101.com/)
-- [Linear Digressions](http://lineardigressions.com/)
-- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
-- [Partially Derivative](http://partiallyderivative.com/)
-- [Superdatascience](https://www.superdatascience.com/podcast/)
-- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
-
-## Books
-
-- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
-- [Become a Leader in Data Science](https://www.manning.com/books/become-a-leader-in-data-science) - Early access
-- [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)
-- [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](http://www.thedatasciencehandbook.com/)
-- [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
-- [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
-- [R for Data Science](https://r4ds.had.co.nz/)
-- [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
-- [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
-- [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - free eBook sampler
-- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - free eBook sampler
-- [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) 
-- [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
-- [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) Early access
-- [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp) Early access
-- [Data Science Thinking: The Next Scientific, Technological and Economic Revolution](https://www.springer.com/gp/book/9783319950914)
-- [Applied Data Science: Lessons Learned for the Data-Driven Business](https://www.springer.com/gp/book/9783030118204)
-- [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Field-Cady/dp/1119092949)
-- [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - Early access
-- [Mining Massive Datasets](http://www.mmds.org/) - free e-book comprehended by an online course
-- [Pandas in Action](https://www.manning.com/books/pandas-in-action) - Early access
-- [Genetic Algorithms and Genetic Programming](https://www.taylorfrancis.com/books/9780429141973)
-- [Genetic algorithms in search, optimization, and machine learning](http://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf) - Free  Download
-- [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/advances_in_evolutionary_algorithms) - Free Download
-- [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications) - Free Download
-- [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) - Free Download 
-- [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - Free Download 
-- [Global Optimization Algorithms: Theory and Application](http://www.it-weise.de/projects/book.pdf) - Free Download 
-- [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) - Free Download
-- [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science) - Early access
 
 
 ## Facebook Accounts
+[top](#awesome-data-science)
 
 - [Data](https://www.facebook.com/data)
 - [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
@@ -621,7 +576,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
 - [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
+
 ## Twitter Accounts
+[top](#awesome-data-science)
 
 | Twitter | Description |
 | --- | --- |
@@ -689,8 +646,14 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Wes McKinney](https://twitter.com/wesmckinn) | Pandas (Python Data Analysis library). |
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
 | [WNYC Data News Team](https://twitter.com/datanews) | The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work. |
+| [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
 
 
+## Newsletters
+[top](#awesome-data-science)
+
+- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+- [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 
 
 ## Youtube Videos & Channels
@@ -709,13 +672,22 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
 - [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
 - [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
+- [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
 
 
 ## Telegram Channels
+[top](#awesome-data-science)
 
 - [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
 - [Loss function porn](https://t.me/loss_function_porn) — Beautiful posts on DS/ML theme with video or graphic vizualization.
 - [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
+
+
+## Slack Communities 
+[top](#awesome-data-science)
+
+- [DataTalks.Club](https://datatalks.club)
+
 
 # Github Groups
 - [Berkeley Institute for Data Science](https://github.com/BIDS)
@@ -813,6 +785,7 @@ Some data mining competition platforms
 - [Covid-19](https://github.com/datasets/covid-19)
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
+- [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
 
 ## Awesome Data Science
 
@@ -846,6 +819,7 @@ Some data mining competition platforms
 - [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 - [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme)
+- [Data Science Interviews Questions](https://github.com/alexeygrigorev/data-science-interviews)
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
