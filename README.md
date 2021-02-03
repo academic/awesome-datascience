@@ -240,6 +240,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Grid Studio](https://github.com/ricklamers/gridstudio) | Grid studio is a web-based spreadsheet application with full integration of the Python programming language. |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|
 | [Shapley](https://github.com/benedekrozemberczki/shapley) | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.  |
+| [DAGsHub](https://dagshub.com) | A platform built on open source tools for data, model and pipeline management.  |
 
 
 ## Machine Learning in General Purpose
