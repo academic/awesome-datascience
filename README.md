@@ -777,6 +777,7 @@ Some data mining competition platforms
 - [StackExchange Data Explorer](http://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
 - [San Fransisco Government Open Data](https://data.sfgov.org/)
 - [IBM Blog about open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
+- [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
 - [Open data Index](http://index.okfn.org/)
 - [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 - [GHTorrent](http://ghtorrent.org/)
