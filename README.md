@@ -550,6 +550,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - Data Science with Esoteric programming languages
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - Blog for Evolutionary Algorithms
 - [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
+- [nbshare](https://www.nbshare.io/notebooks/data-science/) - Data Science notebooks
 
 
 
