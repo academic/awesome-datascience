@@ -400,8 +400,12 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - [Adversarial Learning](http://adversariallearning.com/)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
+- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+- [Data Science at Home](https://datascienceathome.com/)
+- [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer-Podcast/bg-p/mixer)
 - [Data Skeptic](https://dataskeptic.com/)
 - [Data Stories](http://datastori.es/)
+- [Datacast](https://jameskle.com/writes/category/Datacast)
 - [Learning Machines 101](http://www.learningmachines101.com/)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
@@ -688,7 +692,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
 
 
-## Slack Communities 
+## Slack Communities
 [top](#awesome-data-science)
 
 - [DataTalks.Club](https://datatalks.club)
