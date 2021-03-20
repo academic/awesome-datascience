@@ -290,6 +290,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [GPyTorch](https://github.com/cornellius-gp/gpytorch)
 * [pyro](https://github.com/uber/pyro)
 * [Catalyst](https://github.com/catalyst-team/catalyst)
+* [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
 ### tensorflow
 * [TensorFlow](https://github.com/tensorflow/tensorflow)
 * [TensorLayer](https://github.com/zsdonghao/tensorlayer)
@@ -555,6 +556,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - Blog for Evolutionary Algorithms
 - [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
 - [nbshare](https://www.nbshare.io/notebooks/data-science/) - Data Science notebooks
+- [Deep and Shallow](https://deep-and-shallow.com/) - All things Deep and Shallow in Data Science
 
 
 
