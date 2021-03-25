@@ -160,6 +160,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/data-science)
 - [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 - [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
+- [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 
 ### Free Courses
 
@@ -168,6 +169,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 - [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
+
 
 ## Toolboxes - Environment
 [top](#awesome-data-science)
@@ -714,6 +716,7 @@ Some data mining competition platforms
 - [The Data Science Game](http://www.datasciencegame.com/)
 - [InnoCentive](https://www.innocentive.com/)
 - [TuneedIT](http://tunedit.org/challenges)
+- [Microprediction](https://www.microprediction.com/python-1)
 
 
 # Fun
