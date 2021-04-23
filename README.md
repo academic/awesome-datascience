@@ -402,6 +402,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 [top](#awesome-data-science)
 
 - [Adversarial Learning](http://adversariallearning.com/)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Data Science at Home](https://datascienceathome.com/)
@@ -409,15 +411,14 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Skeptic](https://dataskeptic.com/)
 - [Data Stories](http://datastori.es/)
 - [Datacast](https://jameskle.com/writes/category/Datacast)
+- [DataTalks.Club](https://anchor.fm/datatalksclub)
 - [Learning Machines 101](http://www.learningmachines101.com/)
 - [Linear Digressions](http://lineardigressions.com/)
-- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
+- [Not So Standard Deviations](https://nssdeviations.com/)
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
+- [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
-- [DataTalks.Club](https://anchor.fm/datatalksclub)
 
 
 ## Books
