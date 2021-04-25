@@ -25,7 +25,7 @@ Data Science is one of the hottest topics on the Computer and Internet farmland 
 
 ## Learn Data Science
 
-Our favorite programming language is _Python_ nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.anaconda.com) to play with data and to create applications.
+Our favorite programming language is _Python_ nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionalities for collecting and analyzing data. We use [Anaconda](https://www.anaconda.com) to play with data and to create applications.
 
 - [Algorithms](#algorithms)
 - [Colleges](#colleges)
