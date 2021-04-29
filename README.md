@@ -758,6 +758,7 @@ Some data mining competition platforms
 - [datahub.io](https://datahub.io/)
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 - [datacite.org](https://www.datacite.org)
+- [The official portal for European data](https://data.europa.eu/en)
 - [quandl.com](https://www.quandl.com/) - Get the data you need in the form you want; instant download, API or direct to your app.
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](http://dev.maxmind.com/geoip/legacy/geolite/)
