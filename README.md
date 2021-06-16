@@ -330,6 +330,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ## Visualization Tools - Environments
 
+- [altair](https://altair-viz.github.io/)
 - [addepar](http://opensource.addepar.com/ember-charts/#/overview)
 - [amcharts](https://www.amcharts.com/)
 - [anychart](http://www.anychart.com/)
