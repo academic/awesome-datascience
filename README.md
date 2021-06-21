@@ -467,6 +467,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
 - [Machine Learning Bookcamp](https://mlbookcamp.com/) - Early access
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
 
 
 # Socialize
