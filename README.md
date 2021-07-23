@@ -847,7 +847,7 @@ Some data mining competition platforms
 - [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme)
 - [Data Science Interviews Questions](https://github.com/alexeygrigorev/data-science-interviews)
-
+- [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YL0RV0E5XZ"></script>
