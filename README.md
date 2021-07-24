@@ -433,6 +433,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 [top](#awesome-data-science)
 
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 - [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)
 - [Become a Leader in Data Science](https://www.manning.com/books/become-a-leader-in-data-science) - Early access
 - [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)
