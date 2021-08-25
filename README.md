@@ -471,6 +471,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Machine Learning Bookcamp](https://mlbookcamp.com/) - Early access
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
+- [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
 
 
 # Socialize
