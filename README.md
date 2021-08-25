@@ -249,6 +249,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Shapley](https://github.com/benedekrozemberczki/shapley) | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.  |
 | [DAGsHub](https://dagshub.com) | A platform built on open source tools for data, model and pipeline management.  |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible, with real-time collaboration and running in the cloud. |
+| [Valohai](https://valohai.com) | An MLOps platform that handles machine orchestration, automatic reproducibility and deployment. |
 
 ## Machine Learning in General Purpose
 
@@ -471,7 +472,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Machine Learning Bookcamp](https://mlbookcamp.com/) - Early access
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
+- [Practical MLOps: How to Get Ready for Production Models](https://valohai.com/mlops-ebook/)
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
+
 
 
 # Socialize
@@ -700,6 +703,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
 - [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
 - [Mildlyoverfitted - Tutorials on intermediate ML/DL topics](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
+- [mlops.community - Interviews of industry experts about production ML](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
 
 
 ## Telegram Channels
