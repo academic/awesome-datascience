@@ -594,7 +594,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [nbshare](https://www.nbshare.io/notebooks/data-science/) - Data Science notebooks
 - [Deep and Shallow](https://deep-and-shallow.com/) - All things Deep and Shallow in Data Science
 - [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
-
+- [Chip Huyen's Blog](https://huyenchip.com/blog/)
 
 
 ## Facebook Accounts
