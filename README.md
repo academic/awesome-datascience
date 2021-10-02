@@ -631,9 +631,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | Twitter | Description |
 | --- | --- |
 | [Big Data Combine](https://twitter.com/BigDataCombine) | Rapid-fire, live tryouts for data scientists seeking to monetize their models as trading strategies |
-| [Big Data Mania](https://twitter.com/BigDataGal) | Data Viz Wiz , Data Journalist , Growth Hacker , Author of Data Science for Dummies (2015) |
+| Big Data Mania | Data Viz Wiz , Data Journalist , Growth Hacker , Author of Data Science for Dummies (2015) |
 | [Big Data Science](https://twitter.com/analyticbridge) | Big Data, Data Science, Predictive Modeling, Business Analytics, Hadoop, Decision and Operations Research. |
-| [Charlie Greenbacker](https://twitter.com/greenbacker) | Director of Data Science at @ExploreAltamira |
+| Charlie Greenbacker | Director of Data Science at @ExploreAltamira |
 | [Chris Said](https://twitter.com/Chris_Said) | Data scientist at Twitter |
 | [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
 | [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
@@ -644,11 +644,11 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Data Science Tips](https://twitter.com/datasciencetips) | Tips and Tricks for Data Scientists around the world! #datascience #bigdata |
 | [Data Vizzard](https://twitter.com/DataVisualizati) | DataViz, Security, Military |
 | [DataScienceX](https://twitter.com/DataScienceX) |  |
-| [deeplearning4j](https://twitter.com/deeplearning4j) | |
+| deeplearning4j | |
 | [DJ Patil](https://twitter.com/dpatil) | White House Data Chief, VP @ RelateIQ. |
 | [Domino Data Lab](https://twitter.com/DominoDataLab) | |
 | [Drew Conway](https://twitter.com/drewconway) | Data nerd, hacker, student of conflict. |
-| [Emilio Ferrara](https://twitter.com/jabawack) | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
+| Emilio Ferrara | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)  | Working @ _GrubHub_ about data and pandas |
 | [Gregory Piatetsky](https://twitter.com/kdnuggets) |  KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher. |
@@ -660,13 +660,13 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Juan Miguel Lavista](https://twitter.com/BDataScientist) | Principal Data Scientist @ Microsoft Data Science Team |
 | [Julia Evans](https://twitter.com/b0rk) | Hacker - Pandas - Data Analyze |
 | [Kenneth Cukier](https://twitter.com/kncukier) | The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ). |
-| [Kevin Davenport](https://twitter.com/KevinLDavenport) | Organizer of https://meetup.com/San-Diego-R-Users-Group/ |
+| Kevin Davenport | Organizer of https://meetup.com/San-Diego-R-Users-Group/ |
 | [Kevin Markham](https://twitter.com/justmarkham) | Data science instructor, and founder of [Data School](http://www.dataschool.io/) |
 | [Kim Rees](https://twitter.com/krees) | Interactive data visualization and tools. Data flaneur. |
 | [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
-| [Linda Regber](https://twitter.com/LindaRegber) | Data story teller, visualizations. |
+| Linda Regber | Data story teller, visualizations. |
 | [Luis Rei](https://twitter.com/lmrei) | PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science. |
-| [Mark Stevenson](https://twitter.com/Agent_Analytics) | Data Analytics Recruitment Specialist at Salt (@SaltJobs)  Analytics - Insight - Big Data - Datascience |
+| Mark Stevenson | Data Analytics Recruitment Specialist at Salt (@SaltJobs)  Analytics - Insight - Big Data - Datascience |
 | [Matt Harrison](https://twitter.com/__mharrison__) | Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, organic gardening. |
 | [Matthew Russell](https://twitter.com/ptwobrussell) | Mining the Social Web. |
 | [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)  | Data Scientist at BizQualify, Developer |
