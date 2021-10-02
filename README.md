@@ -102,7 +102,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - PageRank
 - AdaBoost
 - kNN
-- Naive Bayeshttps://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf
+- Naive Bayes
 - CART
 
 ### Deep Learning architectures
