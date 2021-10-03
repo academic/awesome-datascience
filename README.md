@@ -238,7 +238,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Intel framework](https://github.com/01org/idlf) | Intel® Deep Learning Framework |
 | [Datawrapper](https://www.datawrapper.de/) | An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/) | TensorFlow is an Open Source Software Library for Machine Intelligence |
-| [Natural Language Toolkit](http://www.nltk.org/) | . |
+| [Natural Language Toolkit](http://www.nltk.org/) | An introductory yet powerful toolkit for natural language processing and classification |
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
 | [Julia](http://julialang.org) | high-level, high-performance dynamic programming language for technical computing |
 | [IJulia](https://github.com/JuliaLang/IJulia.jl) | a Julia-language backend combined with the Jupyter interactive environment |
