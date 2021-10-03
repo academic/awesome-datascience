@@ -268,6 +268,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [DAGsHub](https://dagshub.com) | A platform built on open source tools for data, model and pipeline management.  |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible, with real-time collaboration and running in the cloud. |
 | [Valohai](https://valohai.com) | An MLOps platform that handles machine orchestration, automatic reproducibility and deployment. |
+| [PyMC3](https://docs.pymc.io/) | A Python Library for Probabalistic Programming (Bayesian Inference and Machine Learning) |
+| [PyStan](https://pypi.org/project/pystan/) | Python interface to Stan (Bayesian inference and modeling) |
 
 ## Machine Learning in General Purpose
 
