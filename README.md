@@ -695,6 +695,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
 | [WNYC Data News Team](https://twitter.com/datanews) | The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work. |
 | [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
+| [Jessica Costa](https://twitter.com/JessicaCostaDev) | Master student, Machine Learning GDE and Data Analyst. Brazillian woman that loves nature and technology |
+| [Fillipe Dornelas](https://twitter.com/fdornelasx) | Machine Learning Engineer @GoogleDevExpert on ML, @GoogleStartups Mentor |
 
 
 ## Newsletters
