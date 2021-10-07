@@ -169,6 +169,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 - [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
 - [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
+- [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera Plaform.
+
 
 ## Tutorials
 [top](#awesome-data-science)
