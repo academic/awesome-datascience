@@ -65,17 +65,26 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - AdaBoost
 
 ### Unsupervised Learning
-
 - Clustering
   - Hierchical clustering
   - k-means
   - Fuzzy clustering
   - Mixture models
+- Dimension Reduction
+  - Principal Component Analysis (PCA)
+  - t-SNE
 - Neural Networks
 - Self-organizing map
 - Adaptive resonance theory
 
 ### Semi-Supervised Learning
+
+- S3VM
+- Clustering 
+- Generative models
+- Low-density separation
+- Laplacian regularization
+- Heuristic approaches
 
 ### Reinforcement Learning
 
@@ -95,6 +104,15 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - kNN
 - Naive Bayes
 - CART
+
+### Deep Learning architectures
+
+- Multilayer Perceptron
+- Convolutional Neural Network (CNN)
+- Recurrent Neural Network (RNN)
+- Boltzmann Machines
+- Autoencoder
+- Generative Adversarial Network (GAN)
 
 ## COLLEGES
 [top](#awesome-data-science)
@@ -150,6 +168,11 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - Linear Algebra course by Gilbert Strang
 - [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 - [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
+- [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
+- [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
+- [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera Plaform.
+
 
 ## Tutorials
 [top](#awesome-data-science)
@@ -186,7 +209,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) | A graph sampling library for NetworkX with a Scikit-Learn like API.  |
 | [Karate Club](https://github.com/benedekrozemberczki/karateclub) | An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API. |
 | [ML Workspace](https://github.com/ml-tooling/ml-workspace) | All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a Docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code) |
-| [neptune.ml](https://neptune.ml) | Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility. |
+| [Neptune.ai](https://neptune.ai) | Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility. |
 | [steppy](https://github.com/neptune-ml/steppy) | Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design. |
 | [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) | Curated collection of the neural networks, transformers and models that make your machine learning work faster and more effective. |
 | [Datalab from Google](https://cloud.google.com/datalab/docs/) | easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively. |
@@ -220,7 +243,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Intel framework](https://github.com/01org/idlf) | Intel® Deep Learning Framework |
 | [Datawrapper](https://www.datawrapper.de/) | An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/) | TensorFlow is an Open Source Software Library for Machine Intelligence |
-| [Natural Language Toolkit](http://www.nltk.org/) | . |
+| [Natural Language Toolkit](http://www.nltk.org/) | An introductory yet powerful toolkit for natural language processing and classification |
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
 | [Julia](http://julialang.org) | high-level, high-performance dynamic programming language for technical computing |
 | [IJulia](https://github.com/JuliaLang/IJulia.jl) | a Julia-language backend combined with the Jupyter interactive environment |
@@ -249,6 +272,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Shapley](https://github.com/benedekrozemberczki/shapley) | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.  |
 | [DAGsHub](https://dagshub.com) | A platform built on open source tools for data, model and pipeline management.  |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible, with real-time collaboration and running in the cloud. |
+| [Valohai](https://valohai.com) | An MLOps platform that handles machine orchestration, automatic reproducibility and deployment. |
+| [PyMC3](https://docs.pymc.io/) | A Python Library for Probabalistic Programming (Bayesian Inference and Machine Learning) |
+| [PyStan](https://pypi.org/project/pystan/) | Python interface to Stan (Bayesian inference and modeling) |
 
 ## Machine Learning in General Purpose
 
@@ -432,6 +458,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ## Books
 [top](#awesome-data-science)
 
+- [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 - [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)
@@ -471,8 +498,15 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Machine Learning Bookcamp](https://mlbookcamp.com/) - Early access
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
+- [Practical MLOps: How to Get Ready for Production Models](https://valohai.com/mlops-ebook/)
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
 - [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - Early access
+- [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
+- [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
+- [Machine Learning - CIn UFPE](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
+- [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
+- [Deep Learning](https://www.deeplearningbook.org/)
+
 
 
 # Socialize
@@ -574,7 +608,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [nbshare](https://www.nbshare.io/notebooks/data-science/) - Data Science notebooks
 - [Deep and Shallow](https://deep-and-shallow.com/) - All things Deep and Shallow in Data Science
 - [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
-
+- [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 
 
 ## Facebook Accounts
@@ -610,9 +644,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | Twitter | Description |
 | --- | --- |
 | [Big Data Combine](https://twitter.com/BigDataCombine) | Rapid-fire, live tryouts for data scientists seeking to monetize their models as trading strategies |
-| [Big Data Mania](https://twitter.com/BigDataGal) | Data Viz Wiz , Data Journalist , Growth Hacker , Author of Data Science for Dummies (2015) |
+| Big Data Mania | Data Viz Wiz , Data Journalist , Growth Hacker , Author of Data Science for Dummies (2015) |
 | [Big Data Science](https://twitter.com/analyticbridge) | Big Data, Data Science, Predictive Modeling, Business Analytics, Hadoop, Decision and Operations Research. |
-| [Charlie Greenbacker](https://twitter.com/greenbacker) | Director of Data Science at @ExploreAltamira |
+| Charlie Greenbacker | Director of Data Science at @ExploreAltamira |
 | [Chris Said](https://twitter.com/Chris_Said) | Data scientist at Twitter |
 | [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
 | [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
@@ -623,11 +657,11 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Data Science Tips](https://twitter.com/datasciencetips) | Tips and Tricks for Data Scientists around the world! #datascience #bigdata |
 | [Data Vizzard](https://twitter.com/DataVisualizati) | DataViz, Security, Military |
 | [DataScienceX](https://twitter.com/DataScienceX) |  |
-| [deeplearning4j](https://twitter.com/deeplearning4j) | |
+| deeplearning4j | |
 | [DJ Patil](https://twitter.com/dpatil) | White House Data Chief, VP @ RelateIQ. |
 | [Domino Data Lab](https://twitter.com/DominoDataLab) | |
 | [Drew Conway](https://twitter.com/drewconway) | Data nerd, hacker, student of conflict. |
-| [Emilio Ferrara](https://twitter.com/jabawack) | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
+| Emilio Ferrara | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)  | Working @ _GrubHub_ about data and pandas |
 | [Gregory Piatetsky](https://twitter.com/kdnuggets) |  KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher. |
@@ -639,13 +673,13 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Juan Miguel Lavista](https://twitter.com/BDataScientist) | Principal Data Scientist @ Microsoft Data Science Team |
 | [Julia Evans](https://twitter.com/b0rk) | Hacker - Pandas - Data Analyze |
 | [Kenneth Cukier](https://twitter.com/kncukier) | The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ). |
-| [Kevin Davenport](https://twitter.com/KevinLDavenport) | Organizer of https://meetup.com/San-Diego-R-Users-Group/ |
+| Kevin Davenport | Organizer of https://meetup.com/San-Diego-R-Users-Group/ |
 | [Kevin Markham](https://twitter.com/justmarkham) | Data science instructor, and founder of [Data School](http://www.dataschool.io/) |
 | [Kim Rees](https://twitter.com/krees) | Interactive data visualization and tools. Data flaneur. |
 | [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
-| [Linda Regber](https://twitter.com/LindaRegber) | Data story teller, visualizations. |
+| Linda Regber | Data story teller, visualizations. |
 | [Luis Rei](https://twitter.com/lmrei) | PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science. |
-| [Mark Stevenson](https://twitter.com/Agent_Analytics) | Data Analytics Recruitment Specialist at Salt (@SaltJobs)  Analytics - Insight - Big Data - Datascience |
+| Mark Stevenson | Data Analytics Recruitment Specialist at Salt (@SaltJobs)  Analytics - Insight - Big Data - Datascience |
 | [Matt Harrison](https://twitter.com/__mharrison__) | Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, organic gardening. |
 | [Matthew Russell](https://twitter.com/ptwobrussell) | Mining the Social Web. |
 | [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)  | Data Scientist at BizQualify, Developer |
@@ -701,6 +735,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
 - [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
 - [Mildlyoverfitted - Tutorials on intermediate ML/DL topics](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
+- [mlops.community - Interviews of industry experts about production ML](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
+- [ML Street Talk - Unabashedly technical and non-commercial, so you will hear no annoying pitches.](https://www.youtube.com/c/machinelearningstreettalk)
+- [Neural networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 
 ## Telegram Channels
@@ -817,6 +854,12 @@ Some data mining competition platforms
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
+
+## Comics
+
+- [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
+- [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
+
 
 ## Awesome Data Science
 
