@@ -504,6 +504,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
 - [Machine Learning - CIn UFPE](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
 - [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
+- [Deep Learning](https://www.deeplearningbook.org/)
 
 
 # Socialize
@@ -851,6 +852,12 @@ Some data mining competition platforms
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
+
+## Comics
+
+- [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
+- [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
+
 
 ## Awesome Data Science
 
