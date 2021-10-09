@@ -113,6 +113,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Boltzmann Machines
 - Autoencoder
 - Generative Adversarial Network (GAN)
+- Self-Organized Maps
 
 ## COLLEGES
 [top](#awesome-data-science)
