@@ -508,6 +508,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Machine Learning - CIn UFPE](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
 - [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
 - [Deep Learning](https://www.deeplearningbook.org/)
+- [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
+- [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
 
 
 
