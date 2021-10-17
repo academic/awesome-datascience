@@ -512,6 +512,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 - [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+- [Deep Learning Cookbook](https://www.oreilly.com/library/view/deep-learning-cookbook/9781491995839/)
 
 
 
