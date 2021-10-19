@@ -395,6 +395,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Timeline](http://timeline.knightlab.com/)
 - [variancecharts](http://variancecharts.com/index.html)
 - [vida](https://vida.io/)
+- [vizzu](https://github.com/vizzuhq/vizzu-lib)
 - [Wrangler](http://vis.stanford.edu/wrangler/)
 - [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [NetworkX](https://networkx.github.io/)
