@@ -389,7 +389,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Openrefine](http://openrefine.org/)
 - [plot.ly](https://plot.ly/)
 - [raw](http://rawgraphs.io)
-- [rcharts](http://rcharts.io/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [techanjs](http://techanjs.org/)
 - [Timeline](http://timeline.knightlab.com/)
@@ -631,7 +630,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - [Data](https://www.facebook.com/data)
 - [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
-- [Data Science 101](https://www.facebook.com/DataScience101)
 - [Data Science Day](https://www.facebook.com/DataScienceDay/)
 - [Data Science Academy](https://www.facebook.com/nycdatascience)
 - [Facebook Data Science Page](https://www.facebook.com/pages/Data-science/431299473579193?ref=br_rs)
@@ -805,7 +803,7 @@ Some data mining competition platforms
 | [<img src="https://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)                                                                                              | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).                                                                                                                                            |
 | [<img src="https://i.imgur.com/XBgKF2l.png" width="150" />](https://i.imgur.com/4ZBBvb0.png)                                                                                                                                                | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)                                                                                                                                      |
 | [<img src="https://i.imgur.com/l9ZGtal.jpg" width="150" />](https://i.imgur.com/xLY3XZn.jpg)                                                                                                                                                | By [Data Science Central](http://www.datasciencecentral.com/)                                                                                                                                                                                                |
-| [<img src="https://i.imgur.com/b9xYdZB.jpg" width="150" />](https://i.imgur.com/aoz1BJy.jpg)                                                                                                                                                | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.                                                                                                                        |
+
 | [<img src="https://i.imgur.com/TWkB4X6.png" width="150" />](https://i.imgur.com/0TydZ4M.png)                                                                                                                                                | Data Science Wars: R vs Python                                                                                                                                                                                                                               |
 | [<img src="https://i.imgur.com/gtTlW5I.png" width="150" />](https://i.imgur.com/HnRwlce.png)                                                                                                                                                | How to select statistical or machine learning techniques                                                                                                                                                                                                     |
 | [<img src="https://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png)                                                                                                           | Choosing the Right Estimator                                                                                                                                                                                                                                 |
@@ -844,12 +842,11 @@ Some data mining competition platforms
 - [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
 - [ClimateData.us](http://www.climatedata.us/) (related: [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
 - [r/datasets](https://www.reddit.com/r/datasets/)
-- [MapLight](http://maplight.org/data) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
+- [MapLight](https://www.maplight.org/data-series) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
 - [GHDx](http://ghdx.healthdata.org/) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
 - [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 - [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
 - [Open Data Sources](https://github.com/datasciencemasters/data)
-- [UNICEF Statistics and Monitoring](https://www.unicef.org/statistics/index_24287.html)
 - [UNICEF Data](https://data.unicef.org/)
 - [undata](http://data.un.org/)
 - [NASA SocioEconomic Data and Applications Center - SEDAC](http://sedac.ciesin.columbia.edu/)
