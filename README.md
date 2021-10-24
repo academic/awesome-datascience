@@ -455,6 +455,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Learning Machines 101](http://www.learningmachines101.com/)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Not So Standard Deviations](https://nssdeviations.com/)
+- [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [The Data Engineering Show](https://www.dataengineeringshow.com/)
