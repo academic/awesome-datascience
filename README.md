@@ -623,6 +623,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Deep and Shallow](https://deep-and-shallow.com/) - All things Deep and Shallow in Data Science
 - [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
+- [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
 
 
 ## Facebook Accounts
