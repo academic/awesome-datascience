@@ -268,6 +268,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Amazon Rekognition](https://aws.amazon.com/rekognition) | AWS Rekognition is a service that lets developers working with Amazon Web Services add image analysis to their applications. Catalog assets, automate workflows, and extract meaning from your media and applications.|
 | [Amazon Textract](https://aws.amazon.com/textract) | Automatically extract printed text, handwriting, and data from any document. |
 | [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision) | Spot product defects using computer vision to automate quality inspection.Identify missing product components, vehicle and structure damage, and irregularities for comprehensive quality control.|
+| [Amazon CodeGuru](https://aws.amazon.com/codeguru) | Automate code reviews and optimize application performance with ML-powered recommendations.|
 | [CML](https://github.com/iterative/cml) | An open source toolkit for using continuous integration in data science projects. Automatically train and test models in production-like environments with GitHub Actions & GitLab CI, and autogenerate visual reports on pull/merge requests. |
 | [Dask](https://dask.org/) | An open source Python library to painlessly transition your analytics code to distributed computing systems (Big Data) |
 | [Statsmodels](https://www.statsmodels.org/stable/index.html) | A Python-based inferential statistics, hypothesis testing and regression framework |
