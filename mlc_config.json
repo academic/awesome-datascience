@@ -2,7 +2,7 @@
   
   "ignorePatterns": [
     {
-      "pattern": "^https://datacamp.com"
+      "pattern": "^https://www.datacamp.com*"
     }
   ],
   "timeout": "20s",
