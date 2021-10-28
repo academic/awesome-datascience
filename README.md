@@ -456,6 +456,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [DataTalks.Club](https://anchor.fm/datatalksclub)
 - [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
 - [Learning Machines 101](http://www.learningmachines101.com/)
+- [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Not So Standard Deviations](https://nssdeviations.com/)
 - [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
