@@ -270,7 +270,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Data Skeptic](https://dataskeptic.com/)
 - [Data Stories](http://datastori.es/)
 - [Learning Machines 101](http://www.learningmachines101.com/)
-- [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM) (podcast)
+- [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
 - [Partially Derivative](http://partiallyderivative.com/)
