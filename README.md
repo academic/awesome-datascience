@@ -15,7 +15,7 @@ Data Science is one of the hottest topics on the Computer and Internet farmland 
 
 | Link | Preview |
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science) | _Data scientists combine entrepreneurship with patience, the willingness to build data products incrementally, the ability to explore, and the ability to iterate over a solution. They are inherently interdiscplinary. They can tackle all aspects of a problem, from initial data collection and data conditioning to drawing conclusions. They can think outside the box to come up with new ways to view the problem, or to work with very broadly defined problems: “here’s a lot of data, what can you make from it?”_ |
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science) | _Data scientists combine entrepreneurship with patience, the willingness to build data products incrementally, the ability to explore, and the ability to iterate over a solution. They are inherently interdisciplinary. They can tackle all aspects of a problem, from initial data collection and data conditioning to drawing conclusions. They can think outside the box to come up with new ways to view the problem, or to work with very broadly defined problems: “here’s a lot of data, what can you make from it?”_ |
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science) | Data Science is a combination of a number of aspects of Data such as Technology, Algorithm development, and data interference to study the data, analyse it, and find innovative solutions to difficult problems. Basically Data Science is all about Analysing data and driving for business growth by finding creative ways. |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) | _Data scientists today are akin to Wall Street “quants” of the 1980s and 1990s. In those days people with backgrounds in physics and math streamed to investment banks and hedge funds, where they could devise entirely new algorithms and data strategies. Then a variety of universities developed master’s programs in financial engineering, which churned out a second generation of talent that was more accessible to mainstream firms. The pattern was repeated later in the 1990s with search engineers, whose rarefied skills soon came to be taught in computer science programs._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science) | _Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, machine learning and big data._ |
@@ -76,6 +76,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Neural Networks
 - Self-organizing map
 - Adaptive resonance theory
+- Hidden Markov Models (HMM)
 
 ### Semi-Supervised Learning
 
@@ -113,6 +114,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Boltzmann Machines
 - Autoencoder
 - Generative Adversarial Network (GAN)
+- Self-Organized Maps
 
 ## COLLEGES
 [top](#awesome-data-science)
@@ -188,6 +190,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 - [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
 - [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
+- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/) 
 
 ### Free Courses
 
@@ -262,6 +265,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [MindsDB](https://github.com/mindsdb/mindsdb) | MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code. |
 | [Lightwood](https://github.com/mindsdb/lightwood) | A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with an objective to build predictive models with one line of code. |
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) | An open-source Python package that extends the power of Pandas library to AWS connecting DataFrames and AWS data related services (Amazon Redshift, AWS Glue, Amazon Athena, Amazon EMR, etc). |
+| [Amazon Rekognition](https://aws.amazon.com/rekognition) | AWS Rekognition is a service that lets developers working with Amazon Web Services add image analysis to their applications. Catalog assets, automate workflows, and extract meaning from your media and applications.|
+| [Amazon Textract](https://aws.amazon.com/textract) | Automatically extract printed text, handwriting, and data from any document. |
+| [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision) | Spot product defects using computer vision to automate quality inspection.Identify missing product components, vehicle and structure damage, and irregularities for comprehensive quality control.|
+| [Amazon CodeGuru](https://aws.amazon.com/codeguru) | Automate code reviews and optimize application performance with ML-powered recommendations.|
 | [CML](https://github.com/iterative/cml) | An open source toolkit for using continuous integration in data science projects. Automatically train and test models in production-like environments with GitHub Actions & GitLab CI, and autogenerate visual reports on pull/merge requests. |
 | [Dask](https://dask.org/) | An open source Python library to painlessly transition your analytics code to distributed computing systems (Big Data) |
 | [Statsmodels](https://www.statsmodels.org/stable/index.html) | A Python-based inferential statistics, hypothesis testing and regression framework |
@@ -275,6 +282,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Valohai](https://valohai.com) | An MLOps platform that handles machine orchestration, automatic reproducibility and deployment. |
 | [PyMC3](https://docs.pymc.io/) | A Python Library for Probabalistic Programming (Bayesian Inference and Machine Learning) |
 | [PyStan](https://pypi.org/project/pystan/) | Python interface to Stan (Bayesian inference and modeling) |
+| [hmmlearn](https://pypi.org/project/hmmlearn/) | Unsupervised learning and inference of Hidden Markov Models |
 
 ## Machine Learning in General Purpose
 
@@ -385,12 +393,12 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Openrefine](http://openrefine.org/)
 - [plot.ly](https://plot.ly/)
 - [raw](http://rawgraphs.io)
-- [rcharts](http://rcharts.io/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [techanjs](http://techanjs.org/)
 - [Timeline](http://timeline.knightlab.com/)
 - [variancecharts](http://variancecharts.com/index.html)
 - [vida](https://vida.io/)
+- [vizzu](https://github.com/vizzuhq/vizzu-lib)
 - [Wrangler](http://vis.stanford.edu/wrangler/)
 - [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [NetworkX](https://networkx.github.io/)
@@ -434,6 +442,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 [top](#awesome-data-science)
 
 - [Adversarial Learning](http://adversariallearning.com/)
+- [AI Today](https://www.cognilytica.com/aitoday/)
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
@@ -447,12 +456,16 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [DataTalks.Club](https://anchor.fm/datatalksclub)
 - [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
 - [Learning Machines 101](http://www.learningmachines101.com/)
+- [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Not So Standard Deviations](https://nssdeviations.com/)
+- [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
+- [The Data Engineering Show](https://www.dataengineeringshow.com/)
 - [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 
 
 ## Books
@@ -507,6 +520,14 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms) - Early access
+- [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
+- [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+- [Deep Learning Cookbook](https://www.oreilly.com/library/view/deep-learning-cookbook/9781491995839/)
+- [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
+- [Artificial Intelligence: Foundations of Computational Agents, 2nd Edition](http://artint.info/index.html) - Free HTML version
+- [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Free Download
+
 
 
 
@@ -610,6 +631,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Deep and Shallow](https://deep-and-shallow.com/) - All things Deep and Shallow in Data Science
 - [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
+- [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
 
 
 ## Facebook Accounts
@@ -617,7 +639,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - [Data](https://www.facebook.com/data)
 - [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
-- [Data Science 101](https://www.facebook.com/DataScience101)
 - [Data Science Day](https://www.facebook.com/DataScienceDay/)
 - [Data Science Academy](https://www.facebook.com/nycdatascience)
 - [Facebook Data Science Page](https://www.facebook.com/pages/Data-science/431299473579193?ref=br_rs)
@@ -716,6 +737,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
+- [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 
 
 ## Youtube Videos & Channels
@@ -739,6 +761,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [mlops.community - Interviews of industry experts about production ML](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
 - [ML Street Talk - Unabashedly technical and non-commercial, so you will hear no annoying pitches.](https://www.youtube.com/c/machinelearningstreettalk)
 - [Neural networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Neural networks from scratch by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 
 
 ## Telegram Channels
@@ -789,7 +812,7 @@ Some data mining competition platforms
 | [<img src="https://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)                                                                                              | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).                                                                                                                                            |
 | [<img src="https://i.imgur.com/XBgKF2l.png" width="150" />](https://i.imgur.com/4ZBBvb0.png)                                                                                                                                                | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)                                                                                                                                      |
 | [<img src="https://i.imgur.com/l9ZGtal.jpg" width="150" />](https://i.imgur.com/xLY3XZn.jpg)                                                                                                                                                | By [Data Science Central](http://www.datasciencecentral.com/)                                                                                                                                                                                                |
-| [<img src="https://i.imgur.com/b9xYdZB.jpg" width="150" />](https://i.imgur.com/aoz1BJy.jpg)                                                                                                                                                | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.                                                                                                                        |
+
 | [<img src="https://i.imgur.com/TWkB4X6.png" width="150" />](https://i.imgur.com/0TydZ4M.png)                                                                                                                                                | Data Science Wars: R vs Python                                                                                                                                                                                                                               |
 | [<img src="https://i.imgur.com/gtTlW5I.png" width="150" />](https://i.imgur.com/HnRwlce.png)                                                                                                                                                | How to select statistical or machine learning techniques                                                                                                                                                                                                     |
 | [<img src="https://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png)                                                                                                           | Choosing the Right Estimator                                                                                                                                                                                                                                 |
@@ -828,12 +851,11 @@ Some data mining competition platforms
 - [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
 - [ClimateData.us](http://www.climatedata.us/) (related: [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
 - [r/datasets](https://www.reddit.com/r/datasets/)
-- [MapLight](http://maplight.org/data) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
+- [MapLight](https://www.maplight.org/data-series) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
 - [GHDx](http://ghdx.healthdata.org/) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
 - [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 - [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
 - [Open Data Sources](https://github.com/datasciencemasters/data)
-- [UNICEF Statistics and Monitoring](https://www.unicef.org/statistics/index_24287.html)
 - [UNICEF Data](https://data.unicef.org/)
 - [undata](http://data.un.org/)
 - [NASA SocioEconomic Data and Applications Center - SEDAC](http://sedac.ciesin.columbia.edu/)
