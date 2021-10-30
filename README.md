@@ -527,6 +527,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
 - [Artificial Intelligence: Foundations of Computational Agents, 2nd Edition](http://artint.info/index.html) - Free HTML version
 - [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Free Download
+- [Effective Computation in Physics](http://lilith.fisica.ufmg.br/~dickman/transfers/comp/textos/Effective%20Computation%20in%20Physics%20(Python).pdf)
 
 
 
