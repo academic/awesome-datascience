@@ -133,6 +133,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
 - [Master of Data Science @ Illinois Institute of Technology](https://science.iit.edu/programs/graduate/master-data-science)
 - [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online) 
+- [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
 
 ## Intensive Programs
 - [S2DS](https://s2ds.org/)
