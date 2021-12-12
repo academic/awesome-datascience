@@ -443,8 +443,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ## Podcasts
 [top](#awesome-data-science)
 
-- [Adversarial Learning](http://adversariallearning.com/)
+- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 - [AI Today](https://www.cognilytica.com/aitoday/)
+- [Adversarial Learning](http://adversariallearning.com/)
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
@@ -465,10 +466,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [The Data Engineering Show](https://www.dataengineeringshow.com/)
+- [The Radical AI Podcast](https://www.radicalai.org/)
 - [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
-
 
 ## Books
 [top](#awesome-data-science)
