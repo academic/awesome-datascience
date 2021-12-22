@@ -388,6 +388,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
 - [highcarts](http://www.highcharts.com/)
 - [import.io](https://www.import.io/)
+- [ipychart](https://nicohlr.gitlab.io/ipychart/)
 - [jqplot](http://www.jqplot.com/)
 - [Matplotlib](http://matplotlib.org/)
 - [nvd3](http://nvd3.org/)
