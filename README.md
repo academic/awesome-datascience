@@ -394,6 +394,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [jqplot](http://www.jqplot.com/)
 - [Matplotlib](http://matplotlib.org/)
 - [nvd3](http://nvd3.org/)
+- [Netron](https://github.com/lutzroeder/netron)
 - [Opendata-tools](http://opendata-tools.org/en/visualization/)
 - [Openrefine](http://openrefine.org/)
 - [plot.ly](https://plot.ly/)
