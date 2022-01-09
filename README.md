@@ -317,6 +317,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [dlib](https://github.com/davisking/dlib)
 * [RuleFit](https://github.com/christophM/rulefit)
 * [pyGAM](https://github.com/dswah/pyGAM)
+* [Deepchecks](https://github.com/deepchecks/deepchecks)
 
 
 ## Deep Learning
