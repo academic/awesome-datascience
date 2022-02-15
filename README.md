@@ -332,7 +332,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [PyToune](https://github.com/GRAAL-Research/poutyne)
 * [skorch](https://github.com/skorch-dev/skorch)
 * [PyVarInf](https://github.com/ctallec/pyvarinf)
-* [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
+* [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
 * [GPyTorch](https://github.com/cornellius-gp/gpytorch)
 * [pyro](https://github.com/uber/pyro)
 * [Catalyst](https://github.com/catalyst-team/catalyst)
