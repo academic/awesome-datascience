@@ -342,7 +342,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [TensorLayer](https://github.com/tensorlayer/TensorLayer)
 * [TFLearn](https://github.com/tflearn/tflearn)
 * [Sonnet](https://github.com/deepmind/sonnet)
-* [tensorpack](https://github.com/ppwwyyxx/tensorpack)
+* [tensorpack](https://github.com/tensorpack/tensorpack)
 * [TRFL](https://github.com/deepmind/trfl)
 * [Polyaxon](https://github.com/polyaxon/polyaxon)
 * [NeuPy](https://github.com/itdxer/neupy)
