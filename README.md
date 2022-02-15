@@ -151,7 +151,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
 - [Oxford Deep Learning](https://www.cs.ox.ac.uk/projects/DeepLearn/)
 - [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
-- [Oxford Machine Learning](https://www.cs.ox.ac.uk/activities/machinelearning/)
+- [Oxford Machine Learning](https://www.cs.ox.ac.uk/research/ai_ml/index.html)
 - [UBC Machine Learning - video](https://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 - [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
 - [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
