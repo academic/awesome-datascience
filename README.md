@@ -299,7 +299,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes)
 * [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 * [sklearn-deap](https://github.com/rsteca/sklearn-deap)
-* [sigopt_sklearn](https://github.com/sigopt/sigopt_sklearn)
+* [sigopt_sklearn](https://github.com/sigopt/sigopt-sklearn)
 * [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation)
 * [scikit-image](https://github.com/scikit-image/scikit-image)
 * [scikit-opt](https://github.com/guofei9987/scikit-opt)
