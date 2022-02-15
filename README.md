@@ -247,7 +247,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) | .  |
 | [Skale](https://github.com/skale-me/skale) | High performance distributed data processing in NodeJS |
 | [Aerosolve](https://airbnb.io/aerosolve/) | A machine learning package built for humans. |
-| [Intel framework](https://github.com/01org/idlf) | Intel® Deep Learning Framework |
+| [Intel framework](https://github.com/intel/idlf) | Intel® Deep Learning Framework |
 | [Datawrapper](https://www.datawrapper.de/) | An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/) | TensorFlow is an Open Source Software Library for Machine Intelligence |
 | [Natural Language Toolkit](https://www.nltk.org/) | An introductory yet powerful toolkit for natural language processing and classification |
