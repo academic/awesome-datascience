@@ -387,7 +387,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [exhibit](https://www.simile-widgets.org/exhibit/)
 - [gephi](https://gephi.org/)
 - [ggplot2](https://ggplot2.tidyverse.org/)
-- [Glue](https://www.glueviz.org/en/latest/)
+- [Glue](http://docs.glueviz.org/en/latest/index.html)
 - [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
 - [highcarts](https://www.highcharts.com/)
 - [import.io](https://www.import.io/)
