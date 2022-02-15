@@ -162,7 +162,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 - [COMP3222/COMP6246 - Machine Learning Technologies](https://tdgunes.com/COMP6246-2019Fall/)
 - [CS 231 - Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
-- [Coursera Tensorflow in practice](https://www.coursera.org/specializations/tensorflow-in-practice?)
+- [Coursera Tensorflow in practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 - [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - [365 Data Science Course](https://365datascience.com/)
 - [Coursera Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
