@@ -311,7 +311,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [causalml](https://github.com/uber/causalml)
 * [mlpack](https://github.com/mlpack/mlpack)
 * [MLxtend](https://github.com/rasbt/mlxtend)
-* [modAL](https://github.com/cosmic-cortex/modAL)
+* [modAL](https://github.com/modAL-python/modAL)
 * [Sparkit-learn](https://github.com/lensacom/sparkit-learn)
 * [hyperlearn](https://github.com/danielhanchen/hyperlearn)
 * [dlib](https://github.com/davisking/dlib)
