@@ -136,7 +136,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
 
 ## Intensive Programs
-- [S2DS](https://s2ds.org/)
+- [S2DS](https://www.s2ds.org/)
 
 ## MOOC's
 [top](#awesome-data-science)
