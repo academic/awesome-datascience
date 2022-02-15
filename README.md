@@ -334,7 +334,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [PyVarInf](https://github.com/ctallec/pyvarinf)
 * [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
 * [GPyTorch](https://github.com/cornellius-gp/gpytorch)
-* [pyro](https://github.com/uber/pyro)
+* [pyro](https://github.com/pyro-ppl/pyro)
 * [Catalyst](https://github.com/catalyst-team/catalyst)
 * [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
 ### tensorflow
