@@ -484,7 +484,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)
 - [Become a Leader in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - Early access
 - [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)
-- [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
+- [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-with-python-and-dask)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](https://www.thedatasciencehandbook.com/)
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
