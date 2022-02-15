@@ -575,7 +575,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Quora Data Science](https://www.quora.com/topic/Data-Science) - Data Science Questions and Answers from experts
 - [Siah](https://openresearch.wordpress.com/) a PhD student at Berkeley
 - [Data Science Report](https://datasciencereport.com/) MDS, Inc. Helps Build Careers in Data Science, Advanced Analytics, Big Data Architecture, and High Performance Software Engineering
-- [Louis Dorard](https://www.louisdorard.com/blog/) a technology guy with a penchant for the web and for data, big and small
+- [Louis Dorard](https://www.ownml.co/blog/) a technology guy with a penchant for the web and for data, big and small
 - [Machine Learning Mastery](https://machinelearningmastery.com/) about helping professional programmers to confidently apply machine learning algorithms to address complex problems.
 - [Daniel Forsyth](https://www.danielforsyth.me/) - Personal Blog
 - [Data Science Weekly](https://www.datascienceweekly.org/) - Weekly News Blog
