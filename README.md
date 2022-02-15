@@ -157,7 +157,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
 - [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
 - [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
-- [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+- [Udacity - Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 - [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion)
 - [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 - [COMP3222/COMP6246 - Machine Learning Technologies](https://tdgunes.com/COMP6246-2019Fall/)
