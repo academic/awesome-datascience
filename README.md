@@ -121,7 +121,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 - [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
-- [Data Science Degree @ UVA](https://dsi.virginia.edu/)
+- [Data Science Degree @ UVA](https://datascience.virginia.edu/)
 - [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
 - [MS in Computer Information Systems @ Boston University](https://cisonline.bu.edu/)
 - [MS in Business Analytics @ ASU Online](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
