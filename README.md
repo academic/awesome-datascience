@@ -225,7 +225,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Python - Pandas - Anaconda](https://www.anaconda.com) | Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing |
 | [Pandas GUI](https://github.com/adrotog/PandasGUI) | Pandas GUI |
 | [Scikit-Learn](https://scikit-learn.org/stable/) | Machine Learning in Python |
-| [NumPy](https://www.numpy.org/) | NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays. |
+| [NumPy](https://numpy.org/) | NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays. |
 | [Vaex](https://vaex.io/) | Vaex is a Python library that allows you to visualize large datasets and calculate statistics at high speeds. |
 | [SciPy](https://www.scipy.org/) | SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization.
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) | Coursera Course |
