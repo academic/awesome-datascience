@@ -219,7 +219,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [steppy](https://github.com/minerva-ml/steppy) | Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design. |
 | [steppy-toolkit](https://github.com/minerva-ml/steppy-toolkit) | Curated collection of the neural networks, transformers and models that make your machine learning work faster and more effective. |
 | [Datalab from Google](https://cloud.google.com/datalab/docs/) | easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively. |
-| [Hortonworks Sandbox](https://hortonworks.com/products/sandbox/) | is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials. |
+| [Hortonworks Sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html) | is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials. |
 | [R](https://www.r-project.org/) | is a free software environment for statistical computing and graphics. |
 | [RStudio](https://www.rstudio.com) | IDE – powerful user interface for R. It’s free and open source, works on Windows, Mac, and Linux. |
 | [Python - Pandas - Anaconda](https://www.anaconda.com) | Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing |
