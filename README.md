@@ -572,7 +572,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   We are the largest data science community in Europe.
   We are more than 3,190 data scientists and data geeks in our community.
 - [Datawrangling](https://datawrangling.com/) by Peter Skomoroch. MACHINE LEARNING, DATA MINING, AND MORE
-- [Quora Data Science](https://www.quora.com/Data-Science) - Data Science Questions and Answers from experts
+- [Quora Data Science](https://www.quora.com/topic/Data-Science) - Data Science Questions and Answers from experts
 - [Siah](https://openresearch.wordpress.com/) a PhD student at Berkeley
 - [Data Science Report](https://datasciencereport.com/) MDS, Inc. Helps Build Careers in Data Science, Advanced Analytics, Big Data Architecture, and High Performance Software Engineering
 - [Louis Dorard](https://www.louisdorard.com/blog/) a technology guy with a penchant for the web and for data, big and small
