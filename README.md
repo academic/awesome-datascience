@@ -339,7 +339,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
 ### tensorflow
 * [TensorFlow](https://github.com/tensorflow/tensorflow)
-* [TensorLayer](https://github.com/zsdonghao/tensorlayer)
+* [TensorLayer](https://github.com/tensorlayer/TensorLayer)
 * [TFLearn](https://github.com/tflearn/tflearn)
 * [Sonnet](https://github.com/deepmind/sonnet)
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack)
