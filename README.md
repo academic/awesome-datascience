@@ -427,7 +427,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
 - [datatau.com/news](https://www.datatau.com/news) - Like Hacker News, but for data
 - [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
-- [Medium Data Science Topic](https://medium.com/topic/data-science) - Data Science related publications on medium
+- [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
 
 ## Presentations
