@@ -120,7 +120,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 [top](#awesome-data-science)
 
 - [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
-- [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
+- [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
 - [Data Science Degree @ UVA](https://dsi.virginia.edu/)
 - [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
 - [MS in Computer Information Systems @ Boston University](https://cisonline.bu.edu/)
