@@ -352,7 +352,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [tensorlm](https://github.com/batzner/tensorlm)
 * [TensorLight](https://github.com/bsautermeister/tensorlight)
 * [Mesh TensorFlow](https://github.com/tensorflow/mesh)
-* [Ludwig](https://github.com/uber/ludwig)
+* [Ludwig](https://github.com/ludwig-ai/ludwig)
 * [TF-Agents](https://github.com/tensorflow/agents)
 * [TensorForce](https://github.com/reinforceio/tensorforce)
 
