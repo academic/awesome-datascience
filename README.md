@@ -453,7 +453,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Adversarial Learning](https://adversariallearning.com/)
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
-- [Data Crunch](https://vaultanalytics.com/datacrunch/)
+- [Data Crunch](https://datacrunchcorp.com/data-crunch-podcast/)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Data Science at Home](https://datascienceathome.com/)
 - [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer-Podcast/bg-p/mixer)
