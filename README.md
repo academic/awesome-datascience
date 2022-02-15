@@ -408,7 +408,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [vizzu](https://github.com/vizzuhq/vizzu-lib)
 - [Wrangler](https://vis.stanford.edu/wrangler/)
 - [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [NetworkX](https://networkx.github.io/)
+- [NetworkX](https://networkx.org/)
 - [Redash](https://redash.io/)
 - [C3](https://c3js.org/)
 - [TensorWatch](https://github.com/microsoft/tensorwatch)
