@@ -187,7 +187,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 - [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 - [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
-- [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/data-science)
+- [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
 - [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 - [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
 - [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
