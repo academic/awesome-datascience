@@ -227,7 +227,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Scikit-Learn](https://scikit-learn.org/stable/) | Machine Learning in Python |
 | [NumPy](https://numpy.org/) | NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays. |
 | [Vaex](https://vaex.io/) | Vaex is a Python library that allows you to visualize large datasets and calculate statistics at high speeds. |
-| [SciPy](https://www.scipy.org/) | SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization.
+| [SciPy](https://scipy.org/) | SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization.
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) | Coursera Course |
 | [Data Science Toolbox](https://datasciencetoolbox.org/) | Blog |
 | [Wolfram Data Science Platform](https://www.wolfram.com/data-science-platform/) | Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generating rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language. |
