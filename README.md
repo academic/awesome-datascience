@@ -128,7 +128,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Engineer @ BTH](https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/)
 - [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
 - [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html)
-- [Master of Data Science @ Melbourne University](https://science-courses.unimelb.edu.au/study/degrees/master-of-data-science/overview#overview)
+- [Master of Data Science @ Melbourne University](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/#overview)
 - [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
 - [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
 - [Master of Data Science @ Illinois Institute of Technology](https://science.iit.edu/programs/graduate/master-data-science)
