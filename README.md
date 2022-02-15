@@ -456,7 +456,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Crunch](https://datacrunchcorp.com/data-crunch-podcast/)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Data Science at Home](https://datascienceathome.com/)
-- [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer-Podcast/bg-p/mixer)
+- [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
 - [Data Skeptic](https://dataskeptic.com/)
 - [Data Stories](https://datastori.es/)
 - [Datacast](https://jameskle.com/writes/category/Datacast)
