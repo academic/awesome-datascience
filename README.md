@@ -420,7 +420,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [ICML](https://icml.cc/2015/) - International Conference on Machine Learning
 - [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
 - [epjdatascience](https://epjdatascience.springeropen.com/)
-- [Journal of Data Science](https://www.jds-online.com/) - an international journal devoted to applications of statistical methods at large
+- [Journal of Data Science](https://jds-online.org/journal/JDS) - an international journal devoted to applications of statistical methods at large
 - [Big Data Research](https://www.journals.elsevier.com/big-data-research)
 - [Journal of Big Data](https://journalofbigdata.springeropen.com/)
 - [Big Data & Society](https://journals.sagepub.com/home/bds)
