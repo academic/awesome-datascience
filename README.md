@@ -589,7 +589,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Meta Brown](https://www.metabrown.com/blog/) - Personal Blog
 - [Data Scientist](https://datascientists.net/) is building the data scientist culture.
 - [WhatSTheBigData](https://whatsthebigdata.com/) is some of, all of, or much more than the above and this blog explores its impact on information technology, the business world, government agencies, and our lives.
-- [Tevfik Kosar](https://magnus-notitia.blogspot.com.tr/) - Magnus Notitia
+- [Tevfik Kosar](https://magnus-notitia.blogspot.com/) - Magnus Notitia
 - [New Data Scientist](https://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
 - [Harvard Data Science](https://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
 - [Data Science 101](https://101.datascience.community/) - Learning To Be A Data Scientist
