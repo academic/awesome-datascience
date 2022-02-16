@@ -647,7 +647,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - [Data](https://www.facebook.com/data)
 - [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
-- [Data Science Day](https://www.facebook.com/DataScienceDay/)
+- [Data Science Day](https://www.facebook.com/datascienceday/)
 - [Data Science Academy](https://www.facebook.com/nycdatascience)
 - [Facebook Data Science Page](https://www.facebook.com/pages/Data-science/431299473579193?ref=br_rs)
 - [Data Science London](https://www.facebook.com/pages/Data-Science-London/226174337471513)
