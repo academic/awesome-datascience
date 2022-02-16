@@ -887,7 +887,7 @@ Some data mining competition platforms
 - [GHTorrent](https://ghtorrent.org/)
 - [Microsoft Research Open Data](https://msropendata.com/)
 - [Open Government Data Platform India](https://data.gov.in/)
-- [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
+- [Google Dataset Search (beta)](https://datasetsearch.research.google.com/)
 - [NAYN.CO Turkish News with categories](https://github.com/naynco/nayn.data)
 - [Covid-19](https://github.com/datasets/covid-19)
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
