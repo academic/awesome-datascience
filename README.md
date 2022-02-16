@@ -629,7 +629,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Occam's Razor](https://www.kaushik.net/avinash/) - Focused on Web Analytics.
 - [Data School](https://www.dataschool.io/) - Data science tutorials for beginners!
 - [Colah's Blog](https://colah.github.io) - Blog for understanding Neural Networks!
-- [Sebastian's Blog](https://sebastianruder.com/#open) - Blog for NLP and transfer learning!
+- [Sebastian's Blog](https://ruder.io/#open) - Blog for NLP and transfer learning!
 - [Distill](https://distill.pub) - Dedicated to clear explanations of machine learning!
 - [Chris Albon's Website](https://chrisalbon.com/) - Data Science and AI notes
 - [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - Data Science with Esoteric programming languages
