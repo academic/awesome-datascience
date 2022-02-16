@@ -879,7 +879,7 @@ Some data mining competition platforms
 - [Sweden, Statistics](https://www.scb.se/en/)
 - [Github free data source list](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
 - [StackExchange Data Explorer](https://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
-- [San Fransisco Government Open Data](https://data.sfgov.org/)
+- [San Fransisco Government Open Data](https://datasf.org/opendata/)
 - [IBM Blog about open data](https://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
 - [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
 - [Open data Index](https://index.okfn.org/)
