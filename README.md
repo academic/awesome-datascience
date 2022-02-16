@@ -847,7 +847,7 @@ Some data mining competition platforms
 - [enigma.com](https://enigma.com/) - Navigate the world of public data - Quickly search and analyze billions of public records published by governments, companies and organizations.
 - [datahub.io](https://datahub.io/)
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
-- [datacite.org](https://www.datacite.org)
+- [datacite.org](https://datacite.org/)
 - [The official portal for European data](https://data.europa.eu/en)
 - [quandl.com](https://www.quandl.com/) - Get the data you need in the form you want; instant download, API or direct to your app.
 - [figshare.com](https://figshare.com/)
