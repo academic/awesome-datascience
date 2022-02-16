@@ -619,7 +619,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Dataclysm](https://theblog.okcupid.com/)
 - [FlowingData](https://flowingdata.com/) - Visualization and Statistics
 - [Calculated Risk](https://www.calculatedriskblog.com/)
-- [O'reilly Learning Blog](https://www.oreilly.com/learning)
+- [O'reilly Learning Blog](https://www.oreilly.com/content/topics/oreilly-learning/)
 - [Dominodatalab](https://blog.dominodatalab.com/)
 - [i am trask](https://iamtrask.github.io/) - A Machine Learning Craftsmanship Blog
 - [Vademecum of Practical Data Science](https://datasciencevademecum.wordpress.com/) - Handbook and recipes for data-driven solutions of real-world problems
