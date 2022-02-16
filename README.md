@@ -875,7 +875,7 @@ Some data mining competition platforms
 - [UNICEF Data](https://data.unicef.org/)
 - [undata](https://data.un.org/)
 - [NASA SocioEconomic Data and Applications Center - SEDAC](https://sedac.ciesin.columbia.edu/)
-- [The GDELT Project](https://gdeltproject.org/)
+- [The GDELT Project](https://www.gdeltproject.org/)
 - [Sweden, Statistics](https://www.scb.se/en/)
 - [Github free data source list](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
 - [StackExchange Data Explorer](https://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
