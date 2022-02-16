@@ -918,7 +918,7 @@ Some data mining competition platforms
 - [awesome-r](https://github.com/qinwf/awesome-R)
 - [awesome-datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
-- [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas)
+- [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-ai-usecases)
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
 - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
