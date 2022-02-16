@@ -851,7 +851,7 @@ Some data mining competition platforms
 - [The official portal for European data](https://data.europa.eu/en)
 - [quandl.com](https://www.quandl.com/) - Get the data you need in the form you want; instant download, API or direct to your app.
 - [figshare.com](https://figshare.com/)
-- [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip/legacy/geolite/)
+- [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Public Big Data Sets](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
