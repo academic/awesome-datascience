@@ -702,7 +702,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [John Myles White](https://twitter.com/johnmyleswhite)  | Scientist at Facebook and Julia developer. Author of Machine Learning for Hackers and Bandit Algorithms for Website Optimization. Tweets reflect my views only. |
 | [Juan Miguel Lavista](https://twitter.com/BDataScientist) | Principal Data Scientist @ Microsoft Data Science Team |
 | [Julia Evans](https://twitter.com/b0rk) | Hacker - Pandas - Data Analyze |
-| [Kenneth Cukier](https://twitter.com/kncukier) | The Economist's Data Editor and co-author of Big Data (https://big-data-book.com ). |
+| [Kenneth Cukier](https://twitter.com/kncukier) | The Economist's Data Editor and co-author of Big Data (http://www.big-data-book.com/). |
 | Kevin Davenport | Organizer of https://meetup.com/San-Diego-R-Users-Group/ |
 | [Kevin Markham](https://twitter.com/justmarkham) | Data science instructor, and founder of [Data School](https://www.dataschool.io/) |
 | [Kim Rees](https://twitter.com/krees) | Interactive data visualization and tools. Data flaneur. |
