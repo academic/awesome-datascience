@@ -912,7 +912,7 @@ Some data mining competition platforms
 - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [lists](https://github.com/jnv/lists)
-- [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
+- [awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz)
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [awesome-r](https://github.com/qinwf/awesome-R)
