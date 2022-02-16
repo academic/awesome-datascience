@@ -609,7 +609,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Emilio Ferrara's web page](https://www.emilio.ferrara.name/)
 - [DataNews](https://datanews.tumblr.com/)
 - [Reddit TextMining](https://www.reddit.com/r/textdatamining/)
-- [Periscopic](https://www.periscopic.com/#/news)
+- [Periscopic](https://periscopic.com/#!/news)
 - [Hilary Parker](https://hilaryparker.com/)
 - [Data Stories](https://datastori.es/)
 - [Data Science Lab](https://datasciencelab.wordpress.com/)
