@@ -528,6 +528,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Artificial Intelligence: Foundations of Computational Agents, 2nd Edition](http://artint.info/index.html) - Free HTML version
 - [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Free Download
 - [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) - Early access
+- [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early access
 
 
 
