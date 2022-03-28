@@ -430,6 +430,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
 - [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
+- [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
 ## Presentations
 [top](#awesome-data-science)
