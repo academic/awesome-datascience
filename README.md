@@ -81,7 +81,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ### Semi-Supervised Learning
 
 - S3VM
-- Clustering 
+- Clustering
 - Generative models
 - Low-density separation
 - Laplacian regularization
@@ -132,7 +132,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
 - [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
 - [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
-- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online) 
+- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
 - [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
 
 ## Intensive Programs
@@ -191,7 +191,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 - [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
 - [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
-- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/) 
+- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
 
 ### Free Courses
 
@@ -288,7 +288,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [PyStan](https://pypi.org/project/pystan/) | Python interface to Stan (Bayesian inference and modeling) |
 | [hmmlearn](https://pypi.org/project/hmmlearn/) | Unsupervised learning and inference of Hidden Markov Models |
 | [Chaos Genius](https://github.com/chaos-genius/chaos_genius/) | ML powered analytics engine for outlier/anomaly detection and root cause analysis |
-| [Nimblebox](https://nimblebox.ai/) | A full-stack MLOps platform designed to help data scientists and machine learning practitioners around the world discover, create, and launch multi-cloud apps from their web browser.
+| [Nimblebox](https://nimblebox.ai/) | A full-stack MLOps platform designed to help data scientists and machine learning practitioners around the world discover, create, and launch multi-cloud apps from their web browser. |
+| [Towhee](https://github.com/towhee-io/towhee) | A Python library that helps you encode your unstructured data into embeddings. |
+
 ## Machine Learning in General Purpose
 
 * [scikit-learn](https://scikit-learn.org/)
