@@ -383,7 +383,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Cube](https://square.github.io/cube/)
 - [d3plus](https://d3plus.org/)
 - [Data-Driven Documents(D3js)](https://d3js.org/)
-- [datahero](https://datahero.com/)
 - [dygraphs](https://dygraphs.com/)
 - [ECharts](https://echarts.baidu.com/index-en.html)
 - [exhibit](https://www.simile-widgets.org/exhibit/)
@@ -393,12 +392,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
 - [highcarts](https://www.highcharts.com/)
 - [import.io](https://www.import.io/)
-- [ipychart](https://nicohlr.gitlab.io/ipychart/)
 - [jqplot](https://www.jqplot.com/)
 - [Matplotlib](https://matplotlib.org/)
 - [nvd3](https://nvd3.org/)
 - [Netron](https://github.com/lutzroeder/netron)
-- [Opendata-tools](https://opendata-tools.org/en/visualization/)
 - [Openrefine](https://openrefine.org/)
 - [plot.ly](https://plot.ly/)
 - [raw](https://rawgraphs.io)
@@ -408,7 +405,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [variancecharts](https://variancecharts.com/index.html)
 - [vida](https://vida.io/)
 - [vizzu](https://github.com/vizzuhq/vizzu-lib)
-- [Wrangler](https://vis.stanford.edu/wrangler/)
+- [Wrangler](http://vis.stanford.edu/wrangler/)
 - [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [NetworkX](https://networkx.org/)
 - [Redash](https://redash.io/)
@@ -507,7 +504,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Mining Massive Datasets](https://www.mmds.org/) - free e-book comprehended by an online course
 - [Pandas in Action](https://www.manning.com/books/pandas-in-action) - Early access
 - [Genetic Algorithms and Genetic Programming](https://www.taylorfrancis.com/books/9780429141973)
-- [Genetic algorithms in search, optimization, and machine learning](https://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf) - Free Download
 - [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/advances_in_evolutionary_algorithms) - Free Download
 - [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications) - Free Download
 - [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) - Free Download
