@@ -541,7 +541,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) - Early access
 - [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early access
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early access
-
+- [Dive into Deep Learning](https://d2l.ai/)
 
 
 
