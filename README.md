@@ -482,7 +482,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 - [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)
-- [Become a Leader in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - Early access
+- [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - Early access
 - [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)
 - [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-with-python-and-dask)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -536,6 +536,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) - Early access
 - [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early access
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early access
+- [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
 - [Dive into Deep Learning](https://d2l.ai/)
 
 
