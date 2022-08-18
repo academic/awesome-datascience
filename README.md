@@ -553,7 +553,14 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
 - [Dive into Deep Learning](https://d2l.ai/)
 
+# Book Deals (Affiliated) 🛍
 
+- [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=ebook_sale_8_8_22)
+
+- [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ness_causal_7_26_22&a_aid=mikrobusiness&a_bid=43a2198b
+)
+- [Managing ML Projects](https://www.manning.com/books/managing-machine-learning-projects?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_thompson_managing_6_14_22)
+- [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ruizdevilla_causal_6_6_22)
 
 # Socialize
 [top](#awesome-data-science)
