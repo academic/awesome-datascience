@@ -538,6 +538,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early access
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
 - [Dive into Deep Learning](https://d2l.ai/)
+- [Data for All](https://www.manning.com/books/data-for-all)
 
 
 
