@@ -664,7 +664,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 - [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
-
+- [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
 
 ## Facebook Accounts
 [top](#awesome-data-science)
@@ -803,6 +803,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
 - [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+- [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
 
 
 ## Telegram Channels
