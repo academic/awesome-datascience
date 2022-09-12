@@ -49,7 +49,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Tutorials](#tutorials)
 
 ## Algorithms
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
@@ -127,7 +127,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Self-Organized Maps
 
 ## COLLEGES
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 - [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
@@ -148,7 +148,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [S2DS](https://www.s2ds.org/)
 
 ## MOOC's
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
 - [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
@@ -187,7 +187,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Tutorials
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with ipyton.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
@@ -214,7 +214,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Toolboxes - Environment
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 | Link | Description |
 | --- | --- |
@@ -308,6 +308,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Machine Learning in General Purpose
+**[`^        back to top        ^`](#awesome-data-science)**
 
 * [scikit-learn](https://scikit-learn.org/)
 * [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
@@ -389,6 +390,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Visualization Tools - Environments
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [altair](https://altair-viz.github.io/)
 - [addepar](https://opensource.addepar.com/ember-charts/#/overview)
@@ -431,7 +433,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Journals, Publications and Magazines
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [ICML](https://icml.cc/2015/) - International Conference on Machine Learning
 - [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
@@ -448,7 +450,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
 ## Presentations
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 - [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
@@ -463,7 +465,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Podcasts
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 - [AI Today](https://www.cognilytica.com/aitoday/)
@@ -493,7 +495,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 
 ## Books
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
@@ -567,7 +569,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data for All](https://www.manning.com/books/data-for-all?utm_source=mikrobusiness&utm_medium=affiliate)
 
 # Socialize
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Bloggers](#bloggers)
 - [Facebook Accounts](#facebook-accounts)
@@ -578,7 +580,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Science Competitions](#competitions)
 
 ## Bloggers
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Wes McKinney](https://wesmckinney.com/archives.html) - Wes McKinney Archives.
 - [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
@@ -667,7 +669,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Facebook Accounts
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Data](https://www.facebook.com/data)
 - [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
@@ -693,7 +695,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Twitter Accounts
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 | Twitter | Description |
 | --- | --- |
@@ -765,7 +767,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Newsletters
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
@@ -773,7 +775,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Youtube Videos & Channels
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
 - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -806,7 +808,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Telegram Channels
-[top](#awesome-data-science)
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
 - [Loss function porn](https://t.me/loss_function_porn) — Beautiful posts on DS/ML theme with video or graphic vizualization.
@@ -842,6 +844,7 @@ Some data mining competition platforms
 
 
 ## Infographic
+**[`^        back to top        ^`](#awesome-data-science)**
 
 | Preview                                                                                                                                                                                                                                     | Description                                                                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -860,6 +863,7 @@ Some data mining competition platforms
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                 | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
 ## Data Sets
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Academic Torrents](https://academictorrents.com/)
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
@@ -916,6 +920,7 @@ Some data mining competition platforms
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
 
 ## Comics
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 - [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
