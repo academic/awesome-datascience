@@ -498,6 +498,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [The Radical AI Podcast](https://www.radicalai.org/)
 - [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [How AI Built This](https://how-ai-built-this.captivate.fm/)
 
 ## Books
 **[`^        back to top        ^`](#awesome-data-science)**
