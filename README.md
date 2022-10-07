@@ -563,6 +563,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early access
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
 - [Dive into Deep Learning](https://d2l.ai/)
+- [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
 
 # Book Deals (Affiliated) 🛍
 
