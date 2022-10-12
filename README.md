@@ -504,6 +504,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ## Books
 **[`^        back to top        ^`](#awesome-data-science)**
 
+- [Data Science From Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python-dp-1492041130/dp/1492041130/ref=dp_ob_title_bk)
 - [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
