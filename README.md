@@ -187,6 +187,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
 - [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera platform.
 - [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
+- [Data Scientist with Python]((https://app.datacamp.com/learn/career-tracks/data-scientist-with-python))
 
 
 ## Tutorials
