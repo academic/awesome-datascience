@@ -63,9 +63,8 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Infographics](#infographics)
   - [Datasets](#datasets)
   - [Comics](#comics)
-- [Awesome Data Science](#awesome-data-science)
-- [Hobby](#hobby)
-- [Other Lists](#other-lists)
+- [Other Awesome Lists](#other-lists)
+  - [Hobby](#hobby)
 
 ## What is Data Science?
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -998,10 +997,7 @@ Some data mining competition platforms
 - [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 - [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 
-## Hobby
-- [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
-
-## Other Lists
+## Other Awesome Lists
 
 - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -1030,6 +1026,9 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+
+### Hobby
+- [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YL0RV0E5XZ"></script>
