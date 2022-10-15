@@ -141,7 +141,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 ## Training Resources
 **[`^        back to top        ^`](#awesome-data-science)**
 
-How do you learn data science? By doing data science, of course! Okay, okay - that might not be particularly helpful when you're first starting out. In this section, we've listed some learning resources, in a rough order from least to greatest commitment - [Tutorials](#tutorials), [Massively Open Online Courses (MOOCs)](#moocs), [Intensive Programs](#intensive-programs), and [colleges](#colleges).
+How do you learn data science? By doing data science, of course! Okay, okay - that might not be particularly helpful when you're first starting out. In this section, we've listed some learning resources, in a rough order from least to greatest commitment - [Tutorials](#tutorials), [Massively Open Online Courses (MOOCs)](#moocs), [Intensive Programs](#intensive-programs), and [Colleges](#colleges).
 
 
 ### Tutorials
@@ -373,7 +373,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 
 ## Deep Learning
 
-### pytorch
+### PyTorch
 * [PyTorch](https://github.com/pytorch/pytorch)
 * [torchvision](https://github.com/pytorch/vision)
 * [torchtext](https://github.com/pytorch/text)
@@ -388,7 +388,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 * [pyro](https://github.com/pyro-ppl/pyro)
 * [Catalyst](https://github.com/catalyst-team/catalyst)
 * [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
-### tensorflow
+### TensorFlow
 * [TensorFlow](https://github.com/tensorflow/tensorflow)
 * [TensorLayer](https://github.com/tensorlayer/TensorLayer)
 * [TFLearn](https://github.com/tflearn/tflearn)
@@ -407,7 +407,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 * [TF-Agents](https://github.com/tensorflow/agents)
 * [TensorForce](https://github.com/tensorforce/tensorforce)
 
-### keras
+### Keras
 
 * [Keras](https://keras.io)
 * [keras-contrib](https://github.com/keras-team/keras-contrib)
