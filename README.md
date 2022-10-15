@@ -57,7 +57,13 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Slack Communities](#slack-communities)
   - [GitHub Groups](#github-groups)
   - [Data Science Competitions](#data-science-competitions)
-
+- [Fun](#fun)
+  - [Infographics](#infographics)
+  - [Datasets](#datasets)
+  - [Comics](#comics)
+- [Awesome Data Science](#awesome-data-science)
+- [Hobby](#hobby)
+- [Other Lists](#other-lists)
 
 ## What is Data Science?
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -764,7 +770,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
 - [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
 
-
 ## Socialize
 **[`^        back to top        ^`](#awesome-data-science)**
 *
@@ -902,15 +907,14 @@ Some data mining competition platforms
 - [InnoCentive](https://www.innocentive.com/)
 - [Microprediction](https://www.microprediction.com/python-1)
 
-
 ## Fun
 
-- [Infographic](#infographic)
-- [Data Sets](#data-sets)
+- [Infographic](#infographics)
+- [Datasets](#datasets)
 - [Comics](#comics)
 
 
-### Infographic
+### Infographics
 **[`^        back to top        ^`](#awesome-data-science)**
 
 | Preview                                                                                                                                                                                                                                     | Description                                                                                                                                                                                                                                                  |
@@ -929,7 +933,7 @@ Some data mining competition platforms
 | [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard                                                                                             |
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                 | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
-### Data Sets
+### Datasets
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Academic Torrents](https://academictorrents.com/)
@@ -991,7 +995,6 @@ Some data mining competition platforms
 
 - [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 - [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
-
 
 ## Awesome Data Science
 
