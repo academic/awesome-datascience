@@ -2,6 +2,8 @@
 
 # AWESOME DATA SCIENCE
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+
 **An open source Data Science repository to learn and apply towards solving real world problems.**
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
@@ -16,7 +18,56 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 <br>
 
+## Table of Contents
+
+- [What is Data Science?](#what-is-data-science)
+- [Where do I Start?](#where-do-i-start)
+- [Training Resources](#training-resources)
+  - [Tutorials](#tutorials)
+  - [Free Courses](#free-courses)
+  - [Massively Open Online Courses](#moocs)
+  - [Intensive Programs](#intensive-programs)
+  - [Colleges](#colleges)
+- [The Data Science Toolbox](#the-data-science-toolbox)
+  - [Algorithms](#algorithms)
+    - [Supervised Learning](#supervised-learning)
+    - [Unsupervised Learning](#unsupervised-learning)
+    - [Semi-Supervised Learning](#semi-supervised-learning)
+    - [Reinforcement Learning](#reinforcement-learning)
+    - [Data  Mining Algorithms](#data-mining-algorithms)
+    - [Deep Learning Architectures](#deep-learning-architectures)
+  - [General Machine Learning Packages](#general-machine-learning-packages)
+  - [Deep Learning Packages](#deep-learning-packages)
+    - [PyTorch Ecosystem](#pytorch-ecosystem)
+    - [TensorFlow Ecosystem](#tensorflow-ecosystem)
+    - [Keras Ecosystem](#keras-ecosystem)
+  - [Visualization Tools](#visualization-tools)
+  - [Miscellaneous Tools](#miscellaneous-tools)
+- [Literature and Media](#literature-and-media)
+  - [Books](#books)
+    - [Book Deals (Affiliated)](#book-deals-affiliated-)
+  - [Journals, Publications, and Magazines](#journals-publications-and-magazines)
+  - [Newsletters](#newsletters)
+  - [Bloggers](#bloggers)
+  - [Presentations](#presentations)
+  - [Podcasts](#podcasts)]
+  - [YouTube Videos & Channels](#youtube-videos--channels)
+- [Socialize](#socialize)
+  - [Facebook Accounts](#facebook-accounts)
+  - [Twitter Accounts](#twitter-accounts)
+  - [Telegram Channels](#telegram-channels)
+  - [Slack Communities](#slack-communities)
+  - [GitHub Groups](#github-groups)
+  - [Data Science Competitions](#data-science-competitions)
+- [Fun](#fun)
+  - [Infographics](#infographics)
+  - [Datasets](#datasets)
+  - [Comics](#comics)
+- [Other Awesome Lists](#other-awesome-lists)
+  - [Hobby](#hobby)
+
 ## What is Data Science?
+**[`^        back to top        ^`](#awesome-data-science)**
 
 Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts.
 
@@ -31,126 +82,55 @@ Data Science is one of the hottest topics on the Computer and Internet farmland 
 | [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/) | _The story of how data scientists became sexy is mostly the story of the coupling of the mature discipline of statistics with a very young one--computer science.  The term “Data Science” has emerged only recently to specifically designate a new profession that is expected to make sense of the vast stores of big data. But making sense of data has a long history and has been discussed by scientists, statisticians, librarians, computer scientists and others for years. The following timeline traces the evolution of the term “Data Science” and its use, attempts to define it, and related terms._ |
 |[Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/)|Data scientists concentrate on making sense of data through exploratory analysis, statistics, and models. Software developers apply a separate set of knowledge with different tools. Although their focus may seem unrelated, data science teams can benefit from adopting software development best practices. Version control, automated testing, and other dev skills help create reproducible, production-ready code and tools.|
 
-
-## Learn Data Science
-
-Our favorite programming language is _Python_ nowadays for #DataScience. Python's - [Pandas](https://pandas.pydata.org/) library has full functionalities for collecting and analyzing data. We use [Anaconda](https://www.anaconda.com) to play with data and to create applications.
-
-- [Algorithms](#algorithms)
-- [Colleges](#colleges)
-- [MOOC's](#moocs)
-- [Podcasts](#podcasts)
-- [Books](#books)
-- [Book Deals](#book-deals-affiliated-🛍)
-- [YouTube Videos & Channels](#youtube-videos--channels)
-- [Toolboxes - Environment](#toolboxes---environment)
-- [Journals, Publications and Magazines](#journals-publications-and-magazines)
-- [Presentations](#presentations)
-- [Tutorials](#tutorials)
-
-## Algorithms
+## Where do I Start?
 **[`^        back to top        ^`](#awesome-data-science)**
 
-These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
+While not strictly necessary, having a programming language is a crucial skill to be effective as a data scientist. Currently, the most popular language is _Python_, closely followed by _R_. Python is a general-purpose scripting language which sees applications in a wide variety of fields. R is a domain-specific language for statistics, which contains a lot of common statistics tools out of the box.
 
-### Supervised Learning
+Python is by far the most popular language in science, due in no small part to the ease at which it can be used and the vibrant ecosystem of user-generated packages. To install packages, there are two main methods: Pip (invoked as `pip install`), the package manager that comes bundled with Python, and [Anaconda](https://www.anaconda.com) (invoked as `conda install`), a powerful package manager that can install packages for Python, R, and can download executables like Git. 
 
-- Regression
-- [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-- Ordinary Least Squares
-- Logistic Regression
-- Stepwise Regression
-- Multivariate Adaptive Regression Splines
-- Locally Estimated Scatterplot Smoothing
-- Classification
-  - k-nearest neighbor
-  - Support Vector Machines
-  - Decision Trees
-  - ID3 algorithm
-  - C4.5 algorithm
-- Ensemble Learning
-- Boosting
-- Bagging
-- Random Forest
-- AdaBoost
+Unlike R, Python was not built from the ground up with data science in mind, but there are plenty of third party libraries to make up for this. A much more exhaustive list of packages can be found later in this document, but these four packages are a good set of choices to start your data science journey with: [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a general-purpose data science package which implements the most popular algorithms - it also includes rich documentation, tutorials, and examples of the models it implements. Even if you prefer to write your own implementations, Scikit-Learn is a valuable reference to the nuts-and-bolts behind many of the common algorithms you'll find. With [Pandas](https://pandas.pydata.org/), one can collect and analyze their data into a convenient table format. [Numpy](https://numpy.org/) provides very fast tooling for mathematical operations, with a focus on vectors and matrices. [Seaborn](https://seaborn.pydata.org/), itself based on the [Matplotlib](https://matplotlib.org/) package, is a quick way to generate beautiful visualizations of your data, with many good defaults available out of the box, as well as a gallery showing how to produce many common visualizations of your data.
 
-### Unsupervised Learning
-- Clustering
-  - Hierchical clustering
-  - k-means
-  - Fuzzy clustering
-  - Mixture models
-- Dimension Reduction
-  - Principal Component Analysis (PCA)
-  - t-SNE
-- Neural Networks
-- Self-organizing map
-- Adaptive resonance theory
-- Hidden Markov Models (HMM)
+ When embarking on your journey to becoming a data scientist, the choice of language isn't particularly important, and both Python and R have their pros and cons. Pick a language you like, and check out one of the [Free courses](#free-courses) we've listed below!
 
-### Semi-Supervised Learning
-
-- S3VM
-- Clustering
-- Generative models
-- Low-density separation
-- Laplacian regularization
-- Heuristic approaches
-
-### Reinforcement Learning
-
-- Q Learning
-- SARSA (State-Action-Reward-State-Action) algorithm
-- Temporal difference learning
-
-### Data Mining Algorithms
-
-- C4.5
-- k-Means
-- SVM
-- Apriori
-- EM
-- PageRank
-- AdaBoost
-- kNN
-- Naive Bayes
-- CART
-
-### Deep Learning architectures
-
-- Multilayer Perceptron
-- Convolutional Neural Network (CNN)
-- Recurrent Neural Network (RNN)
-- Boltzmann Machines
-- Autoencoder
-- Generative Adversarial Network (GAN)
-- Self-Organized Maps
-- Transformer
-- Conditional Random Field (CRF)
-
-## COLLEGES
+## Training Resources
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
-- [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
-- [Data Science Degree @ UVA](https://datascience.virginia.edu/)
-- [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
-- [MS in Computer Information Systems @ Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)
-- [MS in Business Analytics @ ASU Online](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
-- [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
-- [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html)
-- [Master of Data Science @ Melbourne University](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/#overview)
-- [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
-- [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
-- [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
-- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
-- [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
-- [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
+How do you learn data science? By doing data science, of course! Okay, okay - that might not be particularly helpful when you're first starting out. In this section, we've listed some learning resources, in a rough order from least to greatest commitment - [Tutorials](#tutorials), [Massively Open Online Courses (MOOCs)](#moocs), [Intensive Programs](#intensive-programs), and [Colleges](#colleges).
 
-## Intensive Programs
-- [S2DS](https://www.s2ds.org/)
 
-## MOOC's
+### Tutorials
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with ipyton.
+- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+- [Data science your way](https://github.com/jadianes/data-science-your-way)
+- [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
+- [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
+- [How To Label Data](https://www.lighttag.io/how-to-label-data/)
+- [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
+- [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
+- [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
+- [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
+- [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
+- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
+- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
+- [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
+
+
+### Free Courses
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
+- [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+- [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+- [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
+- [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
+- [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
+
+
+### MOOC's
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
@@ -191,36 +171,240 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
 
 
-## Tutorials
+### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with ipyton.
-- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
-- [Data science your way](https://github.com/jadianes/data-science-your-way)
-- [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
-- [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
-- [How To Label Data](https://www.lighttag.io/how-to-label-data/)
-- [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
-- [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
-- [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
-- [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
-- [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
-- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
-- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
-- [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
-
-### Free Courses
-
-- [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
-- [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
-- [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
-- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
-- [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
-- [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
-- [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
+- [S2DS](https://www.s2ds.org/)
 
 
-## Toolboxes - Environment
+### Colleges
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
+- [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
+- [Data Science Degree @ UVA](https://datascience.virginia.edu/)
+- [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
+- [MS in Computer Information Systems @ Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)
+- [MS in Business Analytics @ ASU Online](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
+- [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
+- [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html)
+- [Master of Data Science @ Melbourne University](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/#overview)
+- [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
+- [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
+- [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
+- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
+- [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
+- [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
+
+## The Data Science Toolbox
+**[`^        back to top        ^`](#awesome-data-science)**
+
+This section is a collection of packages, tools, algorithms, and other useful items in the data science world.
+
+### Algorithms
+**[`^        back to top        ^`](#awesome-data-science)**
+
+These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
+
+#### Supervised Learning
+
+- Regression
+- [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
+- Ordinary Least Squares
+- Logistic Regression
+- Stepwise Regression
+- Multivariate Adaptive Regression Splines
+- Locally Estimated Scatterplot Smoothing
+- Classification
+  - k-nearest neighbor
+  - Support Vector Machines
+  - Decision Trees
+  - ID3 algorithm
+  - C4.5 algorithm
+- Ensemble Learning
+- Boosting
+- Bagging
+- Random Forest
+- AdaBoost
+
+#### Unsupervised Learning
+- Clustering
+  - Hierchical clustering
+  - k-means
+  - Fuzzy clustering
+  - Mixture models
+- Dimension Reduction
+  - Principal Component Analysis (PCA)
+  - t-SNE
+- Neural Networks
+- Self-organizing map
+- Adaptive resonance theory
+- Hidden Markov Models (HMM)
+
+#### Semi-Supervised Learning
+
+- S3VM
+- Clustering
+- Generative models
+- Low-density separation
+- Laplacian regularization
+- Heuristic approaches
+
+#### Reinforcement Learning
+
+- Q Learning
+- SARSA (State-Action-Reward-State-Action) algorithm
+- Temporal difference learning
+
+#### Data Mining Algorithms
+
+- C4.5
+- k-Means
+- SVM
+- Apriori
+- EM
+- PageRank
+- AdaBoost
+- kNN
+- Naive Bayes
+- CART
+
+#### Deep Learning architectures
+
+- Multilayer Perceptron
+- Convolutional Neural Network (CNN)
+- Recurrent Neural Network (RNN)
+- Boltzmann Machines
+- Autoencoder
+- Generative Adversarial Network (GAN)
+- Self-Organized Maps
+- Transformer
+- Conditional Random Field (CRF)
+
+### General Machine Learning Packages
+**[`^        back to top        ^`](#awesome-data-science)**
+
+* [scikit-learn](https://scikit-learn.org/)
+* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
+* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
+* [scikit-feature](https://github.com/jundongl/scikit-feature)
+* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate)
+* [seqlearn](https://github.com/larsmans/seqlearn)
+* [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes)
+* [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+* [sklearn-deap](https://github.com/rsteca/sklearn-deap)
+* [sigopt_sklearn](https://github.com/sigopt/sigopt-sklearn)
+* [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation)
+* [scikit-image](https://github.com/scikit-image/scikit-image)
+* [scikit-opt](https://github.com/guofei9987/scikit-opt)
+* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs)
+* [pystruct](https://github.com/pystruct/pystruct)
+* [Shogun](https://www.shogun-toolbox.org/)
+* [xLearn](https://github.com/aksnzhy/xlearn)
+* [cuML](https://github.com/rapidsai/cuml)
+* [causalml](https://github.com/uber/causalml)
+* [mlpack](https://github.com/mlpack/mlpack)
+* [MLxtend](https://github.com/rasbt/mlxtend)
+* [modAL](https://github.com/modAL-python/modAL)
+* [Sparkit-learn](https://github.com/lensacom/sparkit-learn)
+* [hyperlearn](https://github.com/danielhanchen/hyperlearn)
+* [dlib](https://github.com/davisking/dlib)
+* [RuleFit](https://github.com/christophM/rulefit)
+* [pyGAM](https://github.com/dswah/pyGAM)
+* [Deepchecks](https://github.com/deepchecks/deepchecks)
+
+### Deep Learning Packages
+
+#### PyTorch Ecosystem
+* [PyTorch](https://github.com/pytorch/pytorch)
+* [torchvision](https://github.com/pytorch/vision)
+* [torchtext](https://github.com/pytorch/text)
+* [torchaudio](https://github.com/pytorch/audio)
+* [ignite](https://github.com/pytorch/ignite)
+* [PyTorchNet](https://github.com/pytorch/tnt)
+* [PyToune](https://github.com/GRAAL-Research/poutyne)
+* [skorch](https://github.com/skorch-dev/skorch)
+* [PyVarInf](https://github.com/ctallec/pyvarinf)
+* [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
+* [GPyTorch](https://github.com/cornellius-gp/gpytorch)
+* [pyro](https://github.com/pyro-ppl/pyro)
+* [Catalyst](https://github.com/catalyst-team/catalyst)
+* [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
+
+#### TensorFlow Ecosystem
+* [TensorFlow](https://github.com/tensorflow/tensorflow)
+* [TensorLayer](https://github.com/tensorlayer/TensorLayer)
+* [TFLearn](https://github.com/tflearn/tflearn)
+* [Sonnet](https://github.com/deepmind/sonnet)
+* [tensorpack](https://github.com/tensorpack/tensorpack)
+* [TRFL](https://github.com/deepmind/trfl)
+* [Polyaxon](https://github.com/polyaxon/polyaxon)
+* [NeuPy](https://github.com/itdxer/neupy)
+* [tfdeploy](https://github.com/riga/tfdeploy)
+* [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+* [TensorFlow Fold](https://github.com/tensorflow/fold)
+* [tensorlm](https://github.com/batzner/tensorlm)
+* [TensorLight](https://github.com/bsautermeister/tensorlight)
+* [Mesh TensorFlow](https://github.com/tensorflow/mesh)
+* [Ludwig](https://github.com/ludwig-ai/ludwig)
+* [TF-Agents](https://github.com/tensorflow/agents)
+* [TensorForce](https://github.com/tensorforce/tensorforce)
+
+#### Keras Ecosystem
+
+* [Keras](https://keras.io)
+* [keras-contrib](https://github.com/keras-team/keras-contrib)
+* [Hyperas](https://github.com/maxpumperla/hyperas)
+* [Elephas](https://github.com/maxpumperla/elephas)
+* [Hera](https://github.com/keplr-io/hera)
+* [Spektral](https://github.com/danielegrattarola/spektral)
+* [qkeras](https://github.com/google/qkeras)
+* [keras-rl](https://github.com/keras-rl/keras-rl)
+* [Talos](https://github.com/autonomio/talos)
+
+#### Visualization Tools
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [altair](https://altair-viz.github.io/)
+- [addepar](https://opensource.addepar.com/ember-charts/#/overview)
+- [amcharts](https://www.amcharts.com/)
+- [anychart](https://www.anychart.com/)
+- [bokeh](https://bokeh.org/)
+- [slemma](https://slemma.com/)
+- [cartodb](https://cartodb.github.io/odyssey.js/)
+- [Cube](https://square.github.io/cube/)
+- [d3plus](https://d3plus.org/)
+- [Data-Driven Documents(D3js)](https://d3js.org/)
+- [dygraphs](https://dygraphs.com/)
+- [ECharts](https://echarts.baidu.com/index-en.html)
+- [exhibit](https://www.simile-widgets.org/exhibit/)
+- [gephi](https://gephi.org/)
+- [ggplot2](https://ggplot2.tidyverse.org/)
+- [Glue](http://docs.glueviz.org/en/latest/index.html)
+- [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
+- [highcarts](https://www.highcharts.com/)
+- [import.io](https://www.import.io/)
+- [jqplot](https://www.jqplot.com/)
+- [Matplotlib](https://matplotlib.org/)
+- [nvd3](https://nvd3.org/)
+- [Netron](https://github.com/lutzroeder/netron)
+- [Openrefine](https://openrefine.org/)
+- [plot.ly](https://plot.ly/)
+- [raw](https://rawgraphs.io)
+- [Seaborn](https://seaborn.pydata.org/)
+- [techanjs](https://techanjs.org/)
+- [Timeline](https://timeline.knightlab.com/)
+- [variancecharts](https://variancecharts.com/index.html)
+- [vida](https://vida.io/)
+- [vizzu](https://github.com/vizzuhq/vizzu-lib)
+- [Wrangler](http://vis.stanford.edu/wrangler/)
+- [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [NetworkX](https://networkx.org/)
+- [Redash](https://redash.io/)
+- [C3](https://c3js.org/)
+- [TensorWatch](https://github.com/microsoft/tensorwatch)
+
+### Miscellaneous Tools
 **[`^        back to top        ^`](#awesome-data-science)**
 
 | Link | Description |
@@ -246,7 +430,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Scikit-Learn](https://scikit-learn.org/stable/) | Machine Learning in Python |
 | [NumPy](https://numpy.org/) | NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays. |
 | [Vaex](https://vaex.io/) | Vaex is a Python library that allows you to visualize large datasets and calculate statistics at high speeds. |
-| [SciPy](https://scipy.org/) | SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization.
+| [SciPy](https://scipy.org/) | SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization. |
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) | Coursera Course |
 | [Data Science Toolbox](https://datasciencetoolbox.org/) | Blog |
 | [Wolfram Data Science Platform](https://www.wolfram.com/data-science-platform/) | Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generating rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language. |
@@ -315,196 +499,12 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science) | A search engine 🔎 tool to discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources |
 | [MLEM](https://github.com/iterative/mlem) | 🐶 Version and deploy your ML models following GitOps principles |
 
-
-## Machine Learning in General Purpose
+## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
 
-* [scikit-learn](https://scikit-learn.org/)
-* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
-* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
-* [scikit-feature](https://github.com/jundongl/scikit-feature)
-* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate)
-* [seqlearn](https://github.com/larsmans/seqlearn)
-* [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes)
-* [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-* [sklearn-deap](https://github.com/rsteca/sklearn-deap)
-* [sigopt_sklearn](https://github.com/sigopt/sigopt-sklearn)
-* [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation)
-* [scikit-image](https://github.com/scikit-image/scikit-image)
-* [scikit-opt](https://github.com/guofei9987/scikit-opt)
-* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs)
-* [pystruct](https://github.com/pystruct/pystruct)
-* [Shogun](https://www.shogun-toolbox.org/)
-* [xLearn](https://github.com/aksnzhy/xlearn)
-* [cuML](https://github.com/rapidsai/cuml)
-* [causalml](https://github.com/uber/causalml)
-* [mlpack](https://github.com/mlpack/mlpack)
-* [MLxtend](https://github.com/rasbt/mlxtend)
-* [modAL](https://github.com/modAL-python/modAL)
-* [Sparkit-learn](https://github.com/lensacom/sparkit-learn)
-* [hyperlearn](https://github.com/danielhanchen/hyperlearn)
-* [dlib](https://github.com/davisking/dlib)
-* [RuleFit](https://github.com/christophM/rulefit)
-* [pyGAM](https://github.com/dswah/pyGAM)
-* [Deepchecks](https://github.com/deepchecks/deepchecks)
+This section includes some additional reading material, channels to watch, and talks to listen to.
 
-
-## Deep Learning
-
-### pytorch
-* [PyTorch](https://github.com/pytorch/pytorch)
-* [torchvision](https://github.com/pytorch/vision)
-* [torchtext](https://github.com/pytorch/text)
-* [torchaudio](https://github.com/pytorch/audio)
-* [ignite](https://github.com/pytorch/ignite)
-* [PyTorchNet](https://github.com/pytorch/tnt)
-* [PyToune](https://github.com/GRAAL-Research/poutyne)
-* [skorch](https://github.com/skorch-dev/skorch)
-* [PyVarInf](https://github.com/ctallec/pyvarinf)
-* [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
-* [GPyTorch](https://github.com/cornellius-gp/gpytorch)
-* [pyro](https://github.com/pyro-ppl/pyro)
-* [Catalyst](https://github.com/catalyst-team/catalyst)
-* [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
-### tensorflow
-* [TensorFlow](https://github.com/tensorflow/tensorflow)
-* [TensorLayer](https://github.com/tensorlayer/TensorLayer)
-* [TFLearn](https://github.com/tflearn/tflearn)
-* [Sonnet](https://github.com/deepmind/sonnet)
-* [tensorpack](https://github.com/tensorpack/tensorpack)
-* [TRFL](https://github.com/deepmind/trfl)
-* [Polyaxon](https://github.com/polyaxon/polyaxon)
-* [NeuPy](https://github.com/itdxer/neupy)
-* [tfdeploy](https://github.com/riga/tfdeploy)
-* [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
-* [TensorFlow Fold](https://github.com/tensorflow/fold)
-* [tensorlm](https://github.com/batzner/tensorlm)
-* [TensorLight](https://github.com/bsautermeister/tensorlight)
-* [Mesh TensorFlow](https://github.com/tensorflow/mesh)
-* [Ludwig](https://github.com/ludwig-ai/ludwig)
-* [TF-Agents](https://github.com/tensorflow/agents)
-* [TensorForce](https://github.com/tensorforce/tensorforce)
-
-### keras
-
-* [Keras](https://keras.io)
-* [keras-contrib](https://github.com/keras-team/keras-contrib)
-* [Hyperas](https://github.com/maxpumperla/hyperas)
-* [Elephas](https://github.com/maxpumperla/elephas)
-* [Hera](https://github.com/keplr-io/hera)
-* [Spektral](https://github.com/danielegrattarola/spektral)
-* [qkeras](https://github.com/google/qkeras)
-* [keras-rl](https://github.com/keras-rl/keras-rl)
-* [Talos](https://github.com/autonomio/talos)
-
-
-## Visualization Tools - Environments
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [altair](https://altair-viz.github.io/)
-- [addepar](https://opensource.addepar.com/ember-charts/#/overview)
-- [amcharts](https://www.amcharts.com/)
-- [anychart](https://www.anychart.com/)
-- [bokeh](https://bokeh.org/)
-- [slemma](https://slemma.com/)
-- [cartodb](https://cartodb.github.io/odyssey.js/)
-- [Cube](https://square.github.io/cube/)
-- [d3plus](https://d3plus.org/)
-- [Data-Driven Documents(D3js)](https://d3js.org/)
-- [dygraphs](https://dygraphs.com/)
-- [ECharts](https://echarts.baidu.com/index-en.html)
-- [exhibit](https://www.simile-widgets.org/exhibit/)
-- [gephi](https://gephi.org/)
-- [ggplot2](https://ggplot2.tidyverse.org/)
-- [Glue](http://docs.glueviz.org/en/latest/index.html)
-- [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
-- [highcarts](https://www.highcharts.com/)
-- [import.io](https://www.import.io/)
-- [jqplot](https://www.jqplot.com/)
-- [Matplotlib](https://matplotlib.org/)
-- [nvd3](https://nvd3.org/)
-- [Netron](https://github.com/lutzroeder/netron)
-- [Openrefine](https://openrefine.org/)
-- [plot.ly](https://plot.ly/)
-- [raw](https://rawgraphs.io)
-- [Seaborn](https://seaborn.pydata.org/)
-- [techanjs](https://techanjs.org/)
-- [Timeline](https://timeline.knightlab.com/)
-- [variancecharts](https://variancecharts.com/index.html)
-- [vida](https://vida.io/)
-- [vizzu](https://github.com/vizzuhq/vizzu-lib)
-- [Wrangler](http://vis.stanford.edu/wrangler/)
-- [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [NetworkX](https://networkx.org/)
-- [Redash](https://redash.io/)
-- [C3](https://c3js.org/)
-- [TensorWatch](https://github.com/microsoft/tensorwatch)
-
-
-## Journals, Publications and Magazines
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [ICML](https://icml.cc/2015/) - International Conference on Machine Learning
-- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
-- [epjdatascience](https://epjdatascience.springeropen.com/)
-- [Journal of Data Science](https://jds-online.org/journal/JDS) - an international journal devoted to applications of statistical methods at large
-- [Big Data Research](https://www.journals.elsevier.com/big-data-research)
-- [Journal of Big Data](https://journalofbigdata.springeropen.com/)
-- [Big Data & Society](https://journals.sagepub.com/home/bds)
-- [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
-- [datatau.com/news](https://www.datatau.com/news) - Like Hacker News, but for data
-- [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
-- [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
-- [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
-- [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
-
-## Presentations
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
-- [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
-- [Intro to Data Science for Enterprise Big Data](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
-- [How to Interview a Data Scientist](https://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
-- [How to Share Data with a Statistician](https://github.com/jtleek/datasharing)
-- [The Science of a Great Career in Data Science](https://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
-- [What Does a Data Scientist Do?](https://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
-- [Building Data Start-Ups: Fast, Big, and Focused](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
-- [How to win data science competitions with Deep Learning](https://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
-- [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
-
-
-## Podcasts
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
-- [AI Today](https://www.cognilytica.com/aitoday/)
-- [Adversarial Learning](https://adversariallearning.com/)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
-- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
-- [Data Crunch](https://datacrunchcorp.com/data-crunch-podcast/)
-- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
-- [Data Science at Home](https://datascienceathome.com/)
-- [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
-- [Data Skeptic](https://dataskeptic.com/)
-- [Data Stories](https://datastori.es/)
-- [Datacast](https://jameskle.com/writes/category/Datacast)
-- [DataFramed](https://www.datacamp.com/community/podcast)
-- [DataTalks.Club](https://anchor.fm/datatalksclub)
-- [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
-- [Learning Machines 101](https://www.learningmachines101.com/)
-- [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
-- [Linear Digressions](https://lineardigressions.com/)
-- [Not So Standard Deviations](https://nssdeviations.com/)
-- [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
-- [Partially Derivative](https://partiallyderivative.com/)
-- [Superdatascience](https://www.superdatascience.com/podcast/)
-- [The Data Engineering Show](https://www.dataengineeringshow.com/)
-- [The Radical AI Podcast](https://www.radicalai.org/)
-- [The Robot Brains Podcast](https://www.therobotbrains.ai/)
-- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [How AI Built This](https://how-ai-built-this.captivate.fm/)
-
-## Books
+### Books
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Data Science From Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python-dp-1492041130/dp/1492041130/ref=dp_ob_title_bk)
@@ -570,7 +570,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
 
-# Book Deals (Affiliated) 🛍
+#### Book Deals (Affiliated) 🛍
 
 - [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=ebook_sale_8_8_22)
 
@@ -580,18 +580,31 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ruizdevilla_causal_6_6_22)
 - [Data for All](https://www.manning.com/books/data-for-all?utm_source=mikrobusiness&utm_medium=affiliate)
 
-# Socialize
+### Journals, Publications and Magazines
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [Bloggers](#bloggers)
-- [Facebook Accounts](#facebook-accounts)
-- [Twitter Accounts](#twitter-accounts)
-- [Newsletters](#newsletters)
-- [Telegram Channels](#telegram-channels)
-- [Slack Communities](#slack-communities)
-- [Data Science Competitions](#competitions)
+- [ICML](https://icml.cc/2015/) - International Conference on Machine Learning
+- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
+- [epjdatascience](https://epjdatascience.springeropen.com/)
+- [Journal of Data Science](https://jds-online.org/journal/JDS) - an international journal devoted to applications of statistical methods at large
+- [Big Data Research](https://www.journals.elsevier.com/big-data-research)
+- [Journal of Big Data](https://journalofbigdata.springeropen.com/)
+- [Big Data & Society](https://journals.sagepub.com/home/bds)
+- [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
+- [datatau.com/news](https://www.datatau.com/news) - Like Hacker News, but for data
+- [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
+- [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
+- [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
+- [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
-## Bloggers
+### Newsletters
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+- [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
+- [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
+
+### Bloggers
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Wes McKinney](https://wesmckinney.com/archives.html) - Wes McKinney Archives.
@@ -680,7 +693,98 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
 - [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
 
-## Facebook Accounts
+### Presentations
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
+- [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
+- [Intro to Data Science for Enterprise Big Data](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
+- [How to Interview a Data Scientist](https://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
+- [How to Share Data with a Statistician](https://github.com/jtleek/datasharing)
+- [The Science of a Great Career in Data Science](https://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
+- [What Does a Data Scientist Do?](https://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
+- [Building Data Start-Ups: Fast, Big, and Focused](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
+- [How to win data science competitions with Deep Learning](https://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
+- [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
+
+### Podcasts
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
+- [AI Today](https://www.cognilytica.com/aitoday/)
+- [Adversarial Learning](https://adversariallearning.com/)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
+- [Data Crunch](https://datacrunchcorp.com/data-crunch-podcast/)
+- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+- [Data Science at Home](https://datascienceathome.com/)
+- [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
+- [Data Skeptic](https://dataskeptic.com/)
+- [Data Stories](https://datastori.es/)
+- [Datacast](https://jameskle.com/writes/category/Datacast)
+- [DataFramed](https://www.datacamp.com/community/podcast)
+- [DataTalks.Club](https://anchor.fm/datatalksclub)
+- [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
+- [Learning Machines 101](https://www.learningmachines101.com/)
+- [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
+- [Linear Digressions](https://lineardigressions.com/)
+- [Not So Standard Deviations](https://nssdeviations.com/)
+- [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
+- [Partially Derivative](https://partiallyderivative.com/)
+- [Superdatascience](https://www.superdatascience.com/podcast/)
+- [The Data Engineering Show](https://www.dataengineeringshow.com/)
+- [The Radical AI Podcast](https://www.radicalai.org/)
+- [The Robot Brains Podcast](https://www.therobotbrains.ai/)
+- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [How AI Built This](https://how-ai-built-this.captivate.fm/)
+
+### YouTube Videos & Channels
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
+- [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
+- [Data36 - Data Science for Beginners by Tomi Mester](https://www.youtube.com/c/TomiMesterData36comDataScienceForBeginners)
+- [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M)
+- [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc)
+- [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
+- [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
+- [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
+- [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
+- [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
+- [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
+- [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
+- [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
+- [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
+- [Mildlyoverfitted - Tutorials on intermediate ML/DL topics](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
+- [mlops.community - Interviews of industry experts about production ML](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
+- [ML Street Talk - Unabashedly technical and non-commercial, so you will hear no annoying pitches.](https://www.youtube.com/c/machinelearningstreettalk)
+- [Neural networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Neural networks from scratch by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+- [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
+- [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
+- [Ask Dr Chong: How to Lead in Data Science - Part 2](https://youtu.be/SzqIXV-O-ko)
+- [Ask Dr Chong: How to Lead in Data Science - Part 3](https://youtu.be/Ogwm7k_smTA)
+- [Ask Dr Chong: How to Lead in Data Science - Part 4](https://youtu.be/a9usjdzTxTU)
+- [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
+- [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
+- [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+- [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
+
+## Socialize
+**[`^        back to top        ^`](#awesome-data-science)**
+
+Below are some Social Media links. Connect with other data scientists!
+
+- [Facebook Accounts](#facebook-accounts)
+- [Twitter Accounts](#twitter-accounts)
+- [Telegram Channels](#telegram-channels)
+- [Slack Communities](#slack-communities)
+- [GitHub Groups](#github-groups)
+- [Data Science Competitions](#data-science-competitions)
+
+
+### Facebook Accounts
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Data](https://www.facebook.com/data)
@@ -706,7 +810,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
 
-## Twitter Accounts
+### Twitter Accounts
 **[`^        back to top        ^`](#awesome-data-science)**
 
 | Twitter | Description |
@@ -778,67 +882,23 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
 
 
-## Newsletters
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
-- [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
-- [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
-
-
-## Youtube Videos & Channels
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
-- [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
-- [Data36 - Data Science for Beginners by Tomi Mester](https://www.youtube.com/c/TomiMesterData36comDataScienceForBeginners)
-- [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M)
-- [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc)
-- [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
-- [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
-- [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
-- [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
-- [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-- [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
-- [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
-- [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
-- [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
-- [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
-- [Mildlyoverfitted - Tutorials on intermediate ML/DL topics](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
-- [mlops.community - Interviews of industry experts about production ML](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
-- [ML Street Talk - Unabashedly technical and non-commercial, so you will hear no annoying pitches.](https://www.youtube.com/c/machinelearningstreettalk)
-- [Neural networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [Neural networks from scratch by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
-- [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
-- [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
-- [Ask Dr Chong: How to Lead in Data Science - Part 2](https://youtu.be/SzqIXV-O-ko)
-- [Ask Dr Chong: How to Lead in Data Science - Part 3](https://youtu.be/Ogwm7k_smTA)
-- [Ask Dr Chong: How to Lead in Data Science - Part 4](https://youtu.be/a9usjdzTxTU)
-- [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
-- [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
-- [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
-- [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
-
-
-## Telegram Channels
+### Telegram Channels
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
-- [Loss function porn](https://t.me/loss_function_porn) — Beautiful posts on DS/ML theme with video or graphic vizualization.
+- [Loss function porn](https://t.me/loss_function_porn) — Beautiful posts on DS/ML theme with video or graphic visualization.
 - [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
 
 
-## Slack Communities
+### Slack Communities
 [top](#awesome-data-science)
 
 - [DataTalks.Club](https://datatalks.club)
 
-
-# Github Groups
+### GitHub Groups
 - [Berkeley Institute for Data Science](https://github.com/BIDS)
 
-
-## Competitions
+### Data Science Competitions
 
 Some data mining competition platforms
 
@@ -848,15 +908,14 @@ Some data mining competition platforms
 - [InnoCentive](https://www.innocentive.com/)
 - [Microprediction](https://www.microprediction.com/python-1)
 
+## Fun
 
-# Fun
-
-- [Infographic](#infographic)
-- [Data Sets](#data-sets)
+- [Infographic](#infographics)
+- [Datasets](#datasets)
 - [Comics](#comics)
 
 
-## Infographic
+### Infographics
 **[`^        back to top        ^`](#awesome-data-science)**
 
 | Preview                                                                                                                                                                                                                                     | Description                                                                                                                                                                                                                                                  |
@@ -875,7 +934,7 @@ Some data mining competition platforms
 | [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard                                                                                             |
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                 | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
-## Data Sets
+### Datasets
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Academic Torrents](https://academictorrents.com/)
@@ -932,21 +991,13 @@ Some data mining competition platforms
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
 
-## Comics
+### Comics
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 - [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 
-
-## Awesome Data Science
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Subscribe to new links](https://app.releasly.co/assets/badges/badge-awesome-blue.svg)](https://app.releasly.co/sites/academic/awesome-datascience?utm_source=github_badge)
-
-## Hobby
-- [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
-
-## Other Lists
+## Other Awesome Lists
 
 - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -975,6 +1026,9 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+
+### Hobby
+- [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YL0RV0E5XZ"></script>
