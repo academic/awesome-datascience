@@ -16,7 +16,25 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 <br>
 
+## Table of Contents
+
+- [What is Data Science?](#what-is-data-science)
+- [Where do I Start?](#where-do-i-start)
+- [Algorithms](#algorithms)
+- [Colleges](#colleges)
+- [MOOC's](#moocs)
+- [Podcasts](#podcasts)
+- [Books](#books)
+- [Book Deals](#book-deals-affiliated-🛍)
+- [YouTube Videos & Channels](#youtube-videos--channels)
+- [Toolboxes - Environment](#toolboxes---environment)
+- [Journals, Publications and Magazines](#journals-publications-and-magazines)
+- [Presentations](#presentations)
+- [Tutorials](#tutorials)
+
+
 ## What is Data Science?
+**[`^        back to top        ^`](#awesome-data-science)**
 
 Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts.
 
@@ -31,22 +49,16 @@ Data Science is one of the hottest topics on the Computer and Internet farmland 
 | [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/) | _The story of how data scientists became sexy is mostly the story of the coupling of the mature discipline of statistics with a very young one--computer science.  The term “Data Science” has emerged only recently to specifically designate a new profession that is expected to make sense of the vast stores of big data. But making sense of data has a long history and has been discussed by scientists, statisticians, librarians, computer scientists and others for years. The following timeline traces the evolution of the term “Data Science” and its use, attempts to define it, and related terms._ |
 |[Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/)|Data scientists concentrate on making sense of data through exploratory analysis, statistics, and models. Software developers apply a separate set of knowledge with different tools. Although their focus may seem unrelated, data science teams can benefit from adopting software development best practices. Version control, automated testing, and other dev skills help create reproducible, production-ready code and tools.|
 
+## Where do I Start?
+**[`^        back to top        ^`](#awesome-data-science)**
 
-## Learn Data Science
+While not strictly necessary, having a programming language is a crucial skill to be effective as a data scientist. Currently, the most popular language is _Python_, closely followed by _R_. Python is a general-purpose scripting language which sees applications in a wide variety of fields. R is a domain-specific language for statistics, which contains a lot of common statistics tools out of the box.
 
-Our favorite programming language is _Python_ nowadays for #DataScience. Python's - [Pandas](https://pandas.pydata.org/) library has full functionalities for collecting and analyzing data. We use [Anaconda](https://www.anaconda.com) to play with data and to create applications.
+Python is by far the most popular language in science, due in no small part to the ease at which it can be used and the vibrant ecosystem of user-generated packages. To install packages, there are two main methods: Pip (invoked as `pip install`), the package manager that comes bundled with Python, and [Anaconda](https://www.anaconda.com) (invoked as `conda install`), a powerful package manager that can install packages for Python, R, and can download executables like Git. 
 
-- [Algorithms](#algorithms)
-- [Colleges](#colleges)
-- [MOOC's](#moocs)
-- [Podcasts](#podcasts)
-- [Books](#books)
-- [Book Deals](#book-deals-affiliated-🛍)
-- [YouTube Videos & Channels](#youtube-videos--channels)
-- [Toolboxes - Environment](#toolboxes---environment)
-- [Journals, Publications and Magazines](#journals-publications-and-magazines)
-- [Presentations](#presentations)
-- [Tutorials](#tutorials)
+Unlike R, Python was not built from the ground up with data science in mind, but there are plenty of third party libraries to make up for this. A much more exhaustive list of packages can be found later in this document, but these four packages are a good set of choices to start your data science journey with: [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a general-purpose data science package which implements the most popular algorithms - it also includes rich documentation, tutorials, and examples of the models it implements. Even if you prefer to write your own implementations, Scikit-Learn is a valuable reference to the nuts-and-bolts behind many of the common algorithms you'll find. With [Pandas](https://pandas.pydata.org/), one can collect and analyze their data into a convenient table format. [Numpy](https://numpy.org/) provides very fast tooling for mathematical operations, with a focus on vectors and matrices. [Seaborn](https://seaborn.pydata.org/), itself based on the [Matplotlib](https://matplotlib.org/) package, is a quick way to generate beautiful visualizations of your data, with many good defaults available out of the box, as well as a gallery showing how to produce many commmon visualizations of your data.
+
+ When embarking on your journey to becoming a data scientist, the choice of language isn't particularly important, and both Python and R have their pros and cons. Pick a language you like, and check out one of the [Free courses](#free-courses) we've listed below! 
 
 ## Algorithms
 **[`^        back to top        ^`](#awesome-data-science)**
