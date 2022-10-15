@@ -998,10 +998,6 @@ Some data mining competition platforms
 - [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 - [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 
-## Awesome Data Science
-
-[![Subscribe to new links](https://app.releasly.co/assets/badges/badge-awesome-blue.svg)](https://app.releasly.co/sites/academic/awesome-datascience?utm_source=github_badge)
-
 ## Hobby
 - [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
 
