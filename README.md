@@ -592,7 +592,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
 
-# Book Deals (Affiliated) 🛍
+## Book Deals (Affiliated) 🛍
 
 - [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=ebook_sale_8_8_22)
 
@@ -602,18 +602,22 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ruizdevilla_causal_6_6_22)
 - [Data for All](https://www.manning.com/books/data-for-all?utm_source=mikrobusiness&utm_medium=affiliate)
 
-# Socialize
+## Socialize
 **[`^        back to top        ^`](#awesome-data-science)**
+
+Below are some Social Media links. Connect with other data scientists!
 
 - [Bloggers](#bloggers)
 - [Facebook Accounts](#facebook-accounts)
 - [Twitter Accounts](#twitter-accounts)
 - [Newsletters](#newsletters)
+- [YouTube Videos and Channels](#youtube-videos--channels)
 - [Telegram Channels](#telegram-channels)
 - [Slack Communities](#slack-communities)
+- [GitHub Groups](#github-groups)
 - [Data Science Competitions](#competitions)
 
-## Bloggers
+### Bloggers
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Wes McKinney](https://wesmckinney.com/archives.html) - Wes McKinney Archives.
@@ -702,7 +706,8 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
 - [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
 
-## Facebook Accounts
+
+### Facebook Accounts
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Data](https://www.facebook.com/data)
@@ -728,7 +733,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
 
-## Twitter Accounts
+### Twitter Accounts
 **[`^        back to top        ^`](#awesome-data-science)**
 
 | Twitter | Description |
@@ -800,7 +805,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 | [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
 
 
-## Newsletters
+### Newsletters
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
@@ -808,7 +813,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 
 
-## Youtube Videos & Channels
+### YouTube Videos & Channels
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
@@ -842,7 +847,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
 
 
-## Telegram Channels
+### Telegram Channels
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
@@ -850,13 +855,13 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
 
 
-## Slack Communities
+### Slack Communities
 [top](#awesome-data-science)
 
 - [DataTalks.Club](https://datatalks.club)
 
 
-# Github Groups
+## GitHub Groups
 - [Berkeley Institute for Data Science](https://github.com/BIDS)
 
 
@@ -871,14 +876,14 @@ Some data mining competition platforms
 - [Microprediction](https://www.microprediction.com/python-1)
 
 
-# Fun
+## Fun
 
 - [Infographic](#infographic)
 - [Data Sets](#data-sets)
 - [Comics](#comics)
 
 
-## Infographic
+### Infographic
 **[`^        back to top        ^`](#awesome-data-science)**
 
 | Preview                                                                                                                                                                                                                                     | Description                                                                                                                                                                                                                                                  |
@@ -897,7 +902,7 @@ Some data mining competition platforms
 | [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard                                                                                             |
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                 | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
-## Data Sets
+### Data Sets
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Academic Torrents](https://academictorrents.com/)
@@ -954,7 +959,7 @@ Some data mining competition platforms
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
 
-## Comics
+### Comics
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
