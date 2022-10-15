@@ -773,7 +773,7 @@ This section includes some additional reading material, channels to watch, and t
 
 ## Socialize
 **[`^        back to top        ^`](#awesome-data-science)**
-*
+
 Below are some Social Media links. Connect with other data scientists!
 
 - [Facebook Accounts](#facebook-accounts)
