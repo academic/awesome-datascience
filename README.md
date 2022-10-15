@@ -21,8 +21,7 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 - [What is Data Science?](#what-is-data-science)
 - [Where do I Start?](#where-do-i-start)
 - [Algorithms](#algorithms)
-- [Colleges](#colleges)
-- [MOOC's](#moocs)
+- [Training Resources](#training-resources)
 - [Podcasts](#podcasts)
 - [Books](#books)
 - [Book Deals](#book-deals-affiliated-🛍)
@@ -30,7 +29,6 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 - [Toolboxes - Environment](#toolboxes---environment)
 - [Journals, Publications and Magazines](#journals-publications-and-magazines)
 - [Presentations](#presentations)
-- [Tutorials](#tutorials)
 
 
 ## What is Data Science?
@@ -140,29 +138,44 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Transformer
 - Conditional Random Field (CRF)
 
-## COLLEGES
+## Training Resources
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
-- [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
-- [Data Science Degree @ UVA](https://datascience.virginia.edu/)
-- [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
-- [MS in Computer Information Systems @ Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)
-- [MS in Business Analytics @ ASU Online](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
-- [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
-- [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html)
-- [Master of Data Science @ Melbourne University](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/#overview)
-- [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
-- [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
-- [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
-- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
-- [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
-- [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
+How do you learn data science? By doing data science, of course! Okay, okay - that might not be particularly helpful when you're first starting out. In this section, we've listed some learning resources, in a rough order from least to greatest commitment - [Tutorials](#tutorials), [Massively Open Online Courses (MOOCs)](#moocs), [Intensive Programs](#intensive-programs), and [colleges](#colleges).
 
-## Intensive Programs
-- [S2DS](https://www.s2ds.org/)
 
-## MOOC's
+### Tutorials
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with ipyton.
+- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+- [Data science your way](https://github.com/jadianes/data-science-your-way)
+- [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
+- [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
+- [How To Label Data](https://www.lighttag.io/how-to-label-data/)
+- [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
+- [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
+- [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
+- [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
+- [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
+- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
+- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
+- [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
+
+
+### Free Courses
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
+- [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+- [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+- [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
+- [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
+- [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
+
+
+### MOOC's
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
@@ -203,33 +216,30 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
 
 
-## Tutorials
+### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with ipyton.
-- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
-- [Data science your way](https://github.com/jadianes/data-science-your-way)
-- [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
-- [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
-- [How To Label Data](https://www.lighttag.io/how-to-label-data/)
-- [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
-- [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
-- [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
-- [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
-- [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
-- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
-- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
-- [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
+- [S2DS](https://www.s2ds.org/)
 
-### Free Courses
 
-- [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
-- [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
-- [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
-- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
-- [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
-- [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
-- [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
+### Colleges
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
+- [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
+- [Data Science Degree @ UVA](https://datascience.virginia.edu/)
+- [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
+- [MS in Computer Information Systems @ Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)
+- [MS in Business Analytics @ ASU Online](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
+- [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
+- [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html)
+- [Master of Data Science @ Melbourne University](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/#overview)
+- [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
+- [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
+- [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
+- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
+- [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
+- [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
 
 
 ## Toolboxes - Environment
