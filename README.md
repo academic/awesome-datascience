@@ -27,6 +27,20 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Intensive Programs](#intensive-programs)
   - [Colleges](#colleges)
 - [The Data Science Toolbox](#the-data-science-toolbox)
+  - [Algorithms](#algorithms)
+    - [Supervised Learning](#supervised-learning)
+    - [Unsupervised Learning](#unsupervised-learning)
+    - [Semi-Supervised Learning](#semi-supervised-learning)
+    - [Reinforcement Learning](#reinforcement-learning)
+    - [Data  Mining Algorithms](#data-mining-algorithms)
+    - [Deep Learning Architectures](#deep-learning-architectures)
+  - [General Machine Learning Packages](#general-machine-learning-packages)
+  - [Deep Learning Packages](#deep-learning-packages)
+    - [PyTorch Ecosystem](#pytorch-ecosystem)
+    - [TensorFlow Ecosystem](#tensorflow-ecosystem)
+    - [Keras Ecosystem](#keras-ecosystem)
+  - [Visualization Tools](#visualization-tools)
+  - [Miscellaneous Tools](#miscellaneous-tools)
 - [Podcasts](#podcasts)
 - [Books](#books)
 - [Book Deals](#book-deals-affiliated-🛍)
@@ -60,87 +74,7 @@ Python is by far the most popular language in science, due in no small part to t
 
 Unlike R, Python was not built from the ground up with data science in mind, but there are plenty of third party libraries to make up for this. A much more exhaustive list of packages can be found later in this document, but these four packages are a good set of choices to start your data science journey with: [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a general-purpose data science package which implements the most popular algorithms - it also includes rich documentation, tutorials, and examples of the models it implements. Even if you prefer to write your own implementations, Scikit-Learn is a valuable reference to the nuts-and-bolts behind many of the common algorithms you'll find. With [Pandas](https://pandas.pydata.org/), one can collect and analyze their data into a convenient table format. [Numpy](https://numpy.org/) provides very fast tooling for mathematical operations, with a focus on vectors and matrices. [Seaborn](https://seaborn.pydata.org/), itself based on the [Matplotlib](https://matplotlib.org/) package, is a quick way to generate beautiful visualizations of your data, with many good defaults available out of the box, as well as a gallery showing how to produce many commmon visualizations of your data.
 
- When embarking on your journey to becoming a data scientist, the choice of language isn't particularly important, and both Python and R have their pros and cons. Pick a language you like, and check out one of the [Free courses](#free-courses) we've listed below! 
-
-## Algorithms
-**[`^        back to top        ^`](#awesome-data-science)**
-
-These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
-
-### Supervised Learning
-
-- Regression
-- [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-- Ordinary Least Squares
-- Logistic Regression
-- Stepwise Regression
-- Multivariate Adaptive Regression Splines
-- Locally Estimated Scatterplot Smoothing
-- Classification
-  - k-nearest neighbor
-  - Support Vector Machines
-  - Decision Trees
-  - ID3 algorithm
-  - C4.5 algorithm
-- Ensemble Learning
-- Boosting
-- Bagging
-- Random Forest
-- AdaBoost
-
-### Unsupervised Learning
-- Clustering
-  - Hierchical clustering
-  - k-means
-  - Fuzzy clustering
-  - Mixture models
-- Dimension Reduction
-  - Principal Component Analysis (PCA)
-  - t-SNE
-- Neural Networks
-- Self-organizing map
-- Adaptive resonance theory
-- Hidden Markov Models (HMM)
-
-### Semi-Supervised Learning
-
-- S3VM
-- Clustering
-- Generative models
-- Low-density separation
-- Laplacian regularization
-- Heuristic approaches
-
-### Reinforcement Learning
-
-- Q Learning
-- SARSA (State-Action-Reward-State-Action) algorithm
-- Temporal difference learning
-
-### Data Mining Algorithms
-
-- C4.5
-- k-Means
-- SVM
-- Apriori
-- EM
-- PageRank
-- AdaBoost
-- kNN
-- Naive Bayes
-- CART
-
-### Deep Learning architectures
-
-- Multilayer Perceptron
-- Convolutional Neural Network (CNN)
-- Recurrent Neural Network (RNN)
-- Boltzmann Machines
-- Autoencoder
-- Generative Adversarial Network (GAN)
-- Self-Organized Maps
-- Transformer
-- Conditional Random Field (CRF)
+ When embarking on your journey to becoming a data scientist, the choice of language isn't particularly important, and both Python and R have their pros and cons. Pick a language you like, and check out one of the [Free courses](#free-courses) we've listed below!
 
 ## Training Resources
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -245,8 +179,215 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
 - [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
 
+## The Data Science Toolbox
+**[`^        back to top        ^`](#awesome-data-science)**
 
-## Toolboxes - Environment
+This section is a collection of packages, tools, algorithms, and other useful items in the data science world.
+
+### Algorithms
+**[`^        back to top        ^`](#awesome-data-science)**
+
+These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
+
+#### Supervised Learning
+
+- Regression
+- [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
+- Ordinary Least Squares
+- Logistic Regression
+- Stepwise Regression
+- Multivariate Adaptive Regression Splines
+- Locally Estimated Scatterplot Smoothing
+- Classification
+  - k-nearest neighbor
+  - Support Vector Machines
+  - Decision Trees
+  - ID3 algorithm
+  - C4.5 algorithm
+- Ensemble Learning
+- Boosting
+- Bagging
+- Random Forest
+- AdaBoost
+
+#### Unsupervised Learning
+- Clustering
+  - Hierchical clustering
+  - k-means
+  - Fuzzy clustering
+  - Mixture models
+- Dimension Reduction
+  - Principal Component Analysis (PCA)
+  - t-SNE
+- Neural Networks
+- Self-organizing map
+- Adaptive resonance theory
+- Hidden Markov Models (HMM)
+
+#### Semi-Supervised Learning
+
+- S3VM
+- Clustering
+- Generative models
+- Low-density separation
+- Laplacian regularization
+- Heuristic approaches
+
+#### Reinforcement Learning
+
+- Q Learning
+- SARSA (State-Action-Reward-State-Action) algorithm
+- Temporal difference learning
+
+#### Data Mining Algorithms
+
+- C4.5
+- k-Means
+- SVM
+- Apriori
+- EM
+- PageRank
+- AdaBoost
+- kNN
+- Naive Bayes
+- CART
+
+#### Deep Learning architectures
+
+- Multilayer Perceptron
+- Convolutional Neural Network (CNN)
+- Recurrent Neural Network (RNN)
+- Boltzmann Machines
+- Autoencoder
+- Generative Adversarial Network (GAN)
+- Self-Organized Maps
+- Transformer
+- Conditional Random Field (CRF)
+
+### General Machine Learning Packages
+**[`^        back to top        ^`](#awesome-data-science)**
+
+* [scikit-learn](https://scikit-learn.org/)
+* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
+* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
+* [scikit-feature](https://github.com/jundongl/scikit-feature)
+* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate)
+* [seqlearn](https://github.com/larsmans/seqlearn)
+* [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes)
+* [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+* [sklearn-deap](https://github.com/rsteca/sklearn-deap)
+* [sigopt_sklearn](https://github.com/sigopt/sigopt-sklearn)
+* [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation)
+* [scikit-image](https://github.com/scikit-image/scikit-image)
+* [scikit-opt](https://github.com/guofei9987/scikit-opt)
+* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs)
+* [pystruct](https://github.com/pystruct/pystruct)
+* [Shogun](https://www.shogun-toolbox.org/)
+* [xLearn](https://github.com/aksnzhy/xlearn)
+* [cuML](https://github.com/rapidsai/cuml)
+* [causalml](https://github.com/uber/causalml)
+* [mlpack](https://github.com/mlpack/mlpack)
+* [MLxtend](https://github.com/rasbt/mlxtend)
+* [modAL](https://github.com/modAL-python/modAL)
+* [Sparkit-learn](https://github.com/lensacom/sparkit-learn)
+* [hyperlearn](https://github.com/danielhanchen/hyperlearn)
+* [dlib](https://github.com/davisking/dlib)
+* [RuleFit](https://github.com/christophM/rulefit)
+* [pyGAM](https://github.com/dswah/pyGAM)
+* [Deepchecks](https://github.com/deepchecks/deepchecks)
+
+### Deep Learning Packages
+
+#### PyTorch Ecosystem
+* [PyTorch](https://github.com/pytorch/pytorch)
+* [torchvision](https://github.com/pytorch/vision)
+* [torchtext](https://github.com/pytorch/text)
+* [torchaudio](https://github.com/pytorch/audio)
+* [ignite](https://github.com/pytorch/ignite)
+* [PyTorchNet](https://github.com/pytorch/tnt)
+* [PyToune](https://github.com/GRAAL-Research/poutyne)
+* [skorch](https://github.com/skorch-dev/skorch)
+* [PyVarInf](https://github.com/ctallec/pyvarinf)
+* [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
+* [GPyTorch](https://github.com/cornellius-gp/gpytorch)
+* [pyro](https://github.com/pyro-ppl/pyro)
+* [Catalyst](https://github.com/catalyst-team/catalyst)
+* [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
+
+#### TensorFlow Ecosystem
+* [TensorFlow](https://github.com/tensorflow/tensorflow)
+* [TensorLayer](https://github.com/tensorlayer/TensorLayer)
+* [TFLearn](https://github.com/tflearn/tflearn)
+* [Sonnet](https://github.com/deepmind/sonnet)
+* [tensorpack](https://github.com/tensorpack/tensorpack)
+* [TRFL](https://github.com/deepmind/trfl)
+* [Polyaxon](https://github.com/polyaxon/polyaxon)
+* [NeuPy](https://github.com/itdxer/neupy)
+* [tfdeploy](https://github.com/riga/tfdeploy)
+* [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+* [TensorFlow Fold](https://github.com/tensorflow/fold)
+* [tensorlm](https://github.com/batzner/tensorlm)
+* [TensorLight](https://github.com/bsautermeister/tensorlight)
+* [Mesh TensorFlow](https://github.com/tensorflow/mesh)
+* [Ludwig](https://github.com/ludwig-ai/ludwig)
+* [TF-Agents](https://github.com/tensorflow/agents)
+* [TensorForce](https://github.com/tensorforce/tensorforce)
+
+#### Keras Ecosystem
+
+* [Keras](https://keras.io)
+* [keras-contrib](https://github.com/keras-team/keras-contrib)
+* [Hyperas](https://github.com/maxpumperla/hyperas)
+* [Elephas](https://github.com/maxpumperla/elephas)
+* [Hera](https://github.com/keplr-io/hera)
+* [Spektral](https://github.com/danielegrattarola/spektral)
+* [qkeras](https://github.com/google/qkeras)
+* [keras-rl](https://github.com/keras-rl/keras-rl)
+* [Talos](https://github.com/autonomio/talos)
+
+#### Visualization Tools
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [altair](https://altair-viz.github.io/)
+- [addepar](https://opensource.addepar.com/ember-charts/#/overview)
+- [amcharts](https://www.amcharts.com/)
+- [anychart](https://www.anychart.com/)
+- [bokeh](https://bokeh.org/)
+- [slemma](https://slemma.com/)
+- [cartodb](https://cartodb.github.io/odyssey.js/)
+- [Cube](https://square.github.io/cube/)
+- [d3plus](https://d3plus.org/)
+- [Data-Driven Documents(D3js)](https://d3js.org/)
+- [dygraphs](https://dygraphs.com/)
+- [ECharts](https://echarts.baidu.com/index-en.html)
+- [exhibit](https://www.simile-widgets.org/exhibit/)
+- [gephi](https://gephi.org/)
+- [ggplot2](https://ggplot2.tidyverse.org/)
+- [Glue](http://docs.glueviz.org/en/latest/index.html)
+- [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
+- [highcarts](https://www.highcharts.com/)
+- [import.io](https://www.import.io/)
+- [jqplot](https://www.jqplot.com/)
+- [Matplotlib](https://matplotlib.org/)
+- [nvd3](https://nvd3.org/)
+- [Netron](https://github.com/lutzroeder/netron)
+- [Openrefine](https://openrefine.org/)
+- [plot.ly](https://plot.ly/)
+- [raw](https://rawgraphs.io)
+- [Seaborn](https://seaborn.pydata.org/)
+- [techanjs](https://techanjs.org/)
+- [Timeline](https://timeline.knightlab.com/)
+- [variancecharts](https://variancecharts.com/index.html)
+- [vida](https://vida.io/)
+- [vizzu](https://github.com/vizzuhq/vizzu-lib)
+- [Wrangler](http://vis.stanford.edu/wrangler/)
+- [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [NetworkX](https://networkx.org/)
+- [Redash](https://redash.io/)
+- [C3](https://c3js.org/)
+- [TensorWatch](https://github.com/microsoft/tensorwatch)
+
+### Miscellaneous Tools
 **[`^        back to top        ^`](#awesome-data-science)**
 
 | Link | Description |
@@ -340,132 +481,6 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 | [envd](https://github.com/tensorchord/envd) | 🏕️ machine learning development environment for data science and AI/ML engineering teams |
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science) | A search engine 🔎 tool to discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources |
 | [MLEM](https://github.com/iterative/mlem) | 🐶 Version and deploy your ML models following GitOps principles |
-
-
-## Machine Learning in General Purpose
-**[`^        back to top        ^`](#awesome-data-science)**
-
-* [scikit-learn](https://scikit-learn.org/)
-* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
-* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
-* [scikit-feature](https://github.com/jundongl/scikit-feature)
-* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate)
-* [seqlearn](https://github.com/larsmans/seqlearn)
-* [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes)
-* [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-* [sklearn-deap](https://github.com/rsteca/sklearn-deap)
-* [sigopt_sklearn](https://github.com/sigopt/sigopt-sklearn)
-* [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation)
-* [scikit-image](https://github.com/scikit-image/scikit-image)
-* [scikit-opt](https://github.com/guofei9987/scikit-opt)
-* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs)
-* [pystruct](https://github.com/pystruct/pystruct)
-* [Shogun](https://www.shogun-toolbox.org/)
-* [xLearn](https://github.com/aksnzhy/xlearn)
-* [cuML](https://github.com/rapidsai/cuml)
-* [causalml](https://github.com/uber/causalml)
-* [mlpack](https://github.com/mlpack/mlpack)
-* [MLxtend](https://github.com/rasbt/mlxtend)
-* [modAL](https://github.com/modAL-python/modAL)
-* [Sparkit-learn](https://github.com/lensacom/sparkit-learn)
-* [hyperlearn](https://github.com/danielhanchen/hyperlearn)
-* [dlib](https://github.com/davisking/dlib)
-* [RuleFit](https://github.com/christophM/rulefit)
-* [pyGAM](https://github.com/dswah/pyGAM)
-* [Deepchecks](https://github.com/deepchecks/deepchecks)
-
-
-## Deep Learning
-
-### PyTorch
-* [PyTorch](https://github.com/pytorch/pytorch)
-* [torchvision](https://github.com/pytorch/vision)
-* [torchtext](https://github.com/pytorch/text)
-* [torchaudio](https://github.com/pytorch/audio)
-* [ignite](https://github.com/pytorch/ignite)
-* [PyTorchNet](https://github.com/pytorch/tnt)
-* [PyToune](https://github.com/GRAAL-Research/poutyne)
-* [skorch](https://github.com/skorch-dev/skorch)
-* [PyVarInf](https://github.com/ctallec/pyvarinf)
-* [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
-* [GPyTorch](https://github.com/cornellius-gp/gpytorch)
-* [pyro](https://github.com/pyro-ppl/pyro)
-* [Catalyst](https://github.com/catalyst-team/catalyst)
-* [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
-### TensorFlow
-* [TensorFlow](https://github.com/tensorflow/tensorflow)
-* [TensorLayer](https://github.com/tensorlayer/TensorLayer)
-* [TFLearn](https://github.com/tflearn/tflearn)
-* [Sonnet](https://github.com/deepmind/sonnet)
-* [tensorpack](https://github.com/tensorpack/tensorpack)
-* [TRFL](https://github.com/deepmind/trfl)
-* [Polyaxon](https://github.com/polyaxon/polyaxon)
-* [NeuPy](https://github.com/itdxer/neupy)
-* [tfdeploy](https://github.com/riga/tfdeploy)
-* [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
-* [TensorFlow Fold](https://github.com/tensorflow/fold)
-* [tensorlm](https://github.com/batzner/tensorlm)
-* [TensorLight](https://github.com/bsautermeister/tensorlight)
-* [Mesh TensorFlow](https://github.com/tensorflow/mesh)
-* [Ludwig](https://github.com/ludwig-ai/ludwig)
-* [TF-Agents](https://github.com/tensorflow/agents)
-* [TensorForce](https://github.com/tensorforce/tensorforce)
-
-### Keras
-
-* [Keras](https://keras.io)
-* [keras-contrib](https://github.com/keras-team/keras-contrib)
-* [Hyperas](https://github.com/maxpumperla/hyperas)
-* [Elephas](https://github.com/maxpumperla/elephas)
-* [Hera](https://github.com/keplr-io/hera)
-* [Spektral](https://github.com/danielegrattarola/spektral)
-* [qkeras](https://github.com/google/qkeras)
-* [keras-rl](https://github.com/keras-rl/keras-rl)
-* [Talos](https://github.com/autonomio/talos)
-
-
-## Visualization Tools - Environments
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [altair](https://altair-viz.github.io/)
-- [addepar](https://opensource.addepar.com/ember-charts/#/overview)
-- [amcharts](https://www.amcharts.com/)
-- [anychart](https://www.anychart.com/)
-- [bokeh](https://bokeh.org/)
-- [slemma](https://slemma.com/)
-- [cartodb](https://cartodb.github.io/odyssey.js/)
-- [Cube](https://square.github.io/cube/)
-- [d3plus](https://d3plus.org/)
-- [Data-Driven Documents(D3js)](https://d3js.org/)
-- [dygraphs](https://dygraphs.com/)
-- [ECharts](https://echarts.baidu.com/index-en.html)
-- [exhibit](https://www.simile-widgets.org/exhibit/)
-- [gephi](https://gephi.org/)
-- [ggplot2](https://ggplot2.tidyverse.org/)
-- [Glue](http://docs.glueviz.org/en/latest/index.html)
-- [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
-- [highcarts](https://www.highcharts.com/)
-- [import.io](https://www.import.io/)
-- [jqplot](https://www.jqplot.com/)
-- [Matplotlib](https://matplotlib.org/)
-- [nvd3](https://nvd3.org/)
-- [Netron](https://github.com/lutzroeder/netron)
-- [Openrefine](https://openrefine.org/)
-- [plot.ly](https://plot.ly/)
-- [raw](https://rawgraphs.io)
-- [Seaborn](https://seaborn.pydata.org/)
-- [techanjs](https://techanjs.org/)
-- [Timeline](https://timeline.knightlab.com/)
-- [variancecharts](https://variancecharts.com/index.html)
-- [vida](https://vida.io/)
-- [vizzu](https://github.com/vizzuhq/vizzu-lib)
-- [Wrangler](http://vis.stanford.edu/wrangler/)
-- [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [NetworkX](https://networkx.org/)
-- [Redash](https://redash.io/)
-- [C3](https://c3js.org/)
-- [TensorWatch](https://github.com/microsoft/tensorwatch)
-
 
 ## Journals, Publications and Magazines
 **[`^        back to top        ^`](#awesome-data-science)**
