@@ -41,12 +41,15 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
     - [Keras Ecosystem](#keras-ecosystem)
   - [Visualization Tools](#visualization-tools)
   - [Miscellaneous Tools](#miscellaneous-tools)
-- [Podcasts](#podcasts)
-- [Books](#books)
-- [Book Deals](#book-deals-affiliated-🛍)
-- [YouTube Videos & Channels](#youtube-videos--channels)
-- [Journals, Publications and Magazines](#journals-publications-and-magazines)
-- [Presentations](#presentations)
+- [Literature and Media](#literature-and-media)
+  - [Books](#books)
+    - [Book Deals (Affiliated)](#book-deals-affiliated-)
+  - [Journals, Publications, and Magazines](#journals-publications-and-magazines)
+  - [Newsletters](#newsletters)
+  - [Bloggers](#bloggers)
+  - [Presentations](#presentations)
+  - [Podcasts](#podcasts)]
+  - [YouTube Videos & Channels](#youtube-videos--channels)
 
 
 ## What is Data Science?
@@ -482,70 +485,12 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science) | A search engine 🔎 tool to discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources |
 | [MLEM](https://github.com/iterative/mlem) | 🐶 Version and deploy your ML models following GitOps principles |
 
-## Journals, Publications and Magazines
+## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [ICML](https://icml.cc/2015/) - International Conference on Machine Learning
-- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
-- [epjdatascience](https://epjdatascience.springeropen.com/)
-- [Journal of Data Science](https://jds-online.org/journal/JDS) - an international journal devoted to applications of statistical methods at large
-- [Big Data Research](https://www.journals.elsevier.com/big-data-research)
-- [Journal of Big Data](https://journalofbigdata.springeropen.com/)
-- [Big Data & Society](https://journals.sagepub.com/home/bds)
-- [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
-- [datatau.com/news](https://www.datatau.com/news) - Like Hacker News, but for data
-- [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
-- [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
-- [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
-- [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
+This section includes some additional reading material, channels to watch, and talks to listen to.
 
-## Presentations
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
-- [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
-- [Intro to Data Science for Enterprise Big Data](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
-- [How to Interview a Data Scientist](https://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
-- [How to Share Data with a Statistician](https://github.com/jtleek/datasharing)
-- [The Science of a Great Career in Data Science](https://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
-- [What Does a Data Scientist Do?](https://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
-- [Building Data Start-Ups: Fast, Big, and Focused](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
-- [How to win data science competitions with Deep Learning](https://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
-- [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
-
-
-## Podcasts
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
-- [AI Today](https://www.cognilytica.com/aitoday/)
-- [Adversarial Learning](https://adversariallearning.com/)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
-- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
-- [Data Crunch](https://datacrunchcorp.com/data-crunch-podcast/)
-- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
-- [Data Science at Home](https://datascienceathome.com/)
-- [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
-- [Data Skeptic](https://dataskeptic.com/)
-- [Data Stories](https://datastori.es/)
-- [Datacast](https://jameskle.com/writes/category/Datacast)
-- [DataFramed](https://www.datacamp.com/community/podcast)
-- [DataTalks.Club](https://anchor.fm/datatalksclub)
-- [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
-- [Learning Machines 101](https://www.learningmachines101.com/)
-- [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
-- [Linear Digressions](https://lineardigressions.com/)
-- [Not So Standard Deviations](https://nssdeviations.com/)
-- [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
-- [Partially Derivative](https://partiallyderivative.com/)
-- [Superdatascience](https://www.superdatascience.com/podcast/)
-- [The Data Engineering Show](https://www.dataengineeringshow.com/)
-- [The Radical AI Podcast](https://www.radicalai.org/)
-- [The Robot Brains Podcast](https://www.therobotbrains.ai/)
-- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [How AI Built This](https://how-ai-built-this.captivate.fm/)
-
-## Books
+### Books
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Data Science From Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python-dp-1492041130/dp/1492041130/ref=dp_ob_title_bk)
@@ -611,7 +556,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
 
-## Book Deals (Affiliated) 🛍
+#### Book Deals (Affiliated) 🛍
 
 - [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=ebook_sale_8_8_22)
 
@@ -621,20 +566,29 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ruizdevilla_causal_6_6_22)
 - [Data for All](https://www.manning.com/books/data-for-all?utm_source=mikrobusiness&utm_medium=affiliate)
 
-## Socialize
+### Journals, Publications and Magazines
 **[`^        back to top        ^`](#awesome-data-science)**
 
-Below are some Social Media links. Connect with other data scientists!
+- [ICML](https://icml.cc/2015/) - International Conference on Machine Learning
+- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
+- [epjdatascience](https://epjdatascience.springeropen.com/)
+- [Journal of Data Science](https://jds-online.org/journal/JDS) - an international journal devoted to applications of statistical methods at large
+- [Big Data Research](https://www.journals.elsevier.com/big-data-research)
+- [Journal of Big Data](https://journalofbigdata.springeropen.com/)
+- [Big Data & Society](https://journals.sagepub.com/home/bds)
+- [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
+- [datatau.com/news](https://www.datatau.com/news) - Like Hacker News, but for data
+- [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
+- [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
+- [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications onTowards Data Science
+- [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
-- [Bloggers](#bloggers)
-- [Facebook Accounts](#facebook-accounts)
-- [Twitter Accounts](#twitter-accounts)
-- [Newsletters](#newsletters)
-- [YouTube Videos and Channels](#youtube-videos--channels)
-- [Telegram Channels](#telegram-channels)
-- [Slack Communities](#slack-communities)
-- [GitHub Groups](#github-groups)
-- [Data Science Competitions](#competitions)
+### Newsletters
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+- [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
+- [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 
 ### Bloggers
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -724,6 +678,97 @@ Below are some Social Media links. Connect with other data scientists!
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 - [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
 - [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
+
+### Presentations
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
+- [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
+- [Intro to Data Science for Enterprise Big Data](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
+- [How to Interview a Data Scientist](https://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
+- [How to Share Data with a Statistician](https://github.com/jtleek/datasharing)
+- [The Science of a Great Career in Data Science](https://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
+- [What Does a Data Scientist Do?](https://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
+- [Building Data Start-Ups: Fast, Big, and Focused](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
+- [How to win data science competitions with Deep Learning](https://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
+- [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
+
+### Podcasts
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
+- [AI Today](https://www.cognilytica.com/aitoday/)
+- [Adversarial Learning](https://adversariallearning.com/)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
+- [Data Crunch](https://datacrunchcorp.com/data-crunch-podcast/)
+- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+- [Data Science at Home](https://datascienceathome.com/)
+- [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
+- [Data Skeptic](https://dataskeptic.com/)
+- [Data Stories](https://datastori.es/)
+- [Datacast](https://jameskle.com/writes/category/Datacast)
+- [DataFramed](https://www.datacamp.com/community/podcast)
+- [DataTalks.Club](https://anchor.fm/datatalksclub)
+- [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
+- [Learning Machines 101](https://www.learningmachines101.com/)
+- [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
+- [Linear Digressions](https://lineardigressions.com/)
+- [Not So Standard Deviations](https://nssdeviations.com/)
+- [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
+- [Partially Derivative](https://partiallyderivative.com/)
+- [Superdatascience](https://www.superdatascience.com/podcast/)
+- [The Data Engineering Show](https://www.dataengineeringshow.com/)
+- [The Radical AI Podcast](https://www.radicalai.org/)
+- [The Robot Brains Podcast](https://www.therobotbrains.ai/)
+- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [How AI Built This](https://how-ai-built-this.captivate.fm/)
+
+### YouTube Videos & Channels
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
+- [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
+- [Data36 - Data Science for Beginners by Tomi Mester](https://www.youtube.com/c/TomiMesterData36comDataScienceForBeginners)
+- [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M)
+- [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc)
+- [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
+- [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
+- [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
+- [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
+- [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
+- [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
+- [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
+- [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
+- [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
+- [Mildlyoverfitted - Tutorials on intermediate ML/DL topics](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
+- [mlops.community - Interviews of industry experts about production ML](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
+- [ML Street Talk - Unabashedly technical and non-commercial, so you will hear no annoying pitches.](https://www.youtube.com/c/machinelearningstreettalk)
+- [Neural networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Neural networks from scratch by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+- [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
+- [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
+- [Ask Dr Chong: How to Lead in Data Science - Part 2](https://youtu.be/SzqIXV-O-ko)
+- [Ask Dr Chong: How to Lead in Data Science - Part 3](https://youtu.be/Ogwm7k_smTA)
+- [Ask Dr Chong: How to Lead in Data Science - Part 4](https://youtu.be/a9usjdzTxTU)
+- [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
+- [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
+- [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+- [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
+
+
+## Socialize
+**[`^        back to top        ^`](#awesome-data-science)**
+*
+Below are some Social Media links. Connect with other data scientists!
+
+- [Facebook Accounts](#facebook-accounts)
+- [Twitter Accounts](#twitter-accounts)
+- [Telegram Channels](#telegram-channels)
+- [Slack Communities](#slack-communities)
+- [GitHub Groups](#github-groups)
+- [Data Science Competitions](#competitions)
 
 
 ### Facebook Accounts
@@ -824,48 +869,6 @@ Below are some Social Media links. Connect with other data scientists!
 | [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
 
 
-### Newsletters
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
-- [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
-- [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
-
-
-### YouTube Videos & Channels
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
-- [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
-- [Data36 - Data Science for Beginners by Tomi Mester](https://www.youtube.com/c/TomiMesterData36comDataScienceForBeginners)
-- [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M)
-- [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc)
-- [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
-- [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
-- [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
-- [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
-- [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-- [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
-- [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
-- [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
-- [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
-- [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
-- [Mildlyoverfitted - Tutorials on intermediate ML/DL topics](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
-- [mlops.community - Interviews of industry experts about production ML](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
-- [ML Street Talk - Unabashedly technical and non-commercial, so you will hear no annoying pitches.](https://www.youtube.com/c/machinelearningstreettalk)
-- [Neural networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [Neural networks from scratch by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
-- [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
-- [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
-- [Ask Dr Chong: How to Lead in Data Science - Part 2](https://youtu.be/SzqIXV-O-ko)
-- [Ask Dr Chong: How to Lead in Data Science - Part 3](https://youtu.be/Ogwm7k_smTA)
-- [Ask Dr Chong: How to Lead in Data Science - Part 4](https://youtu.be/a9usjdzTxTU)
-- [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
-- [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
-- [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
-- [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
-
-
 ### Telegram Channels
 **[`^        back to top        ^`](#awesome-data-science)**
 
@@ -878,7 +881,6 @@ Below are some Social Media links. Connect with other data scientists!
 [top](#awesome-data-science)
 
 - [DataTalks.Club](https://datatalks.club)
-
 
 ## GitHub Groups
 - [Berkeley Institute for Data Science](https://github.com/BIDS)
