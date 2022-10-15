@@ -63,7 +63,7 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Infographics](#infographics)
   - [Datasets](#datasets)
   - [Comics](#comics)
-- [Other Awesome Lists](#other-lists)
+- [Other Awesome Lists](#other-awesome-lists)
   - [Hobby](#hobby)
 
 ## What is Data Science?
