@@ -50,6 +50,13 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Presentations](#presentations)
   - [Podcasts](#podcasts)]
   - [YouTube Videos & Channels](#youtube-videos--channels)
+- [Socialize](#socialize)
+  - [Facebook Accounts](#facebook-accounts)
+  - [Twitter Accounts](#twitter-accounts)
+  - [Telegram Channels](#telegram-channels)
+  - [Slack Communities](#slack-communities)
+  - [GitHub Groups](#github-groups)
+  - [Data Science Competitions](#data-science-competitions)
 
 
 ## What is Data Science?
@@ -768,7 +775,7 @@ Below are some Social Media links. Connect with other data scientists!
 - [Telegram Channels](#telegram-channels)
 - [Slack Communities](#slack-communities)
 - [GitHub Groups](#github-groups)
-- [Data Science Competitions](#competitions)
+- [Data Science Competitions](#data-science-competitions)
 
 
 ### Facebook Accounts
@@ -882,11 +889,10 @@ Below are some Social Media links. Connect with other data scientists!
 
 - [DataTalks.Club](https://datatalks.club)
 
-## GitHub Groups
+### GitHub Groups
 - [Berkeley Institute for Data Science](https://github.com/BIDS)
 
-
-## Competitions
+### Data Science Competitions
 
 Some data mining competition platforms
 
