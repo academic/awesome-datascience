@@ -128,6 +128,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
 - [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
 - [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
+- [Kaggle](https://www.kaggle.com/learn) - Learn about Data Science, Machine Learning, Python etc
 
 
 ### MOOC's
