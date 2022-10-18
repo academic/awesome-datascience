@@ -895,6 +895,7 @@ Below are some Social Media links. Connect with other data scientists!
 [top](#awesome-data-science)
 
 - [DataTalks.Club](https://datatalks.club)
+- [Women Who Code - Data Science](https://www.womenwhocode.com/datascience)
 
 ### GitHub Groups
 - [Berkeley Institute for Data Science](https://github.com/BIDS)
