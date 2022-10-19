@@ -558,6 +558,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms) - Early access
 - [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/ElemStatLearn/)
 - [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
 - [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com)
 - [Deep Learning Cookbook](https://www.oreilly.com/library/view/deep-learning-cookbook/9781491995839/)
