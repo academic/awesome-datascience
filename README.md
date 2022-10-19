@@ -313,6 +313,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [RuleFit](https://github.com/christophM/rulefit)
 * [pyGAM](https://github.com/dswah/pyGAM)
 * [Deepchecks](https://github.com/deepchecks/deepchecks)
+* [scikit-survival](https://scikit-survival.readthedocs.io/en/stable)
 
 ### Deep Learning Packages
 
