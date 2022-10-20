@@ -209,19 +209,19 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 #### Supervised Learning
 
-- Regression
+- [Regression](https://www.investopedia.com/terms/r/regression.asp)
 - [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-- Ordinary Least Squares
-- Logistic Regression
-- Stepwise Regression
-- Multivariate Adaptive Regression Splines
-- Locally Estimated Scatterplot Smoothing
+- [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares)
+- [Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
+- [Stepwise Regression](https://www.investopedia.com/terms/s/stepwise-regression.asp)
+- [Multivariate Adaptive Regression Splines](https://towardsdatascience.com/mars-multivariate-adaptive-regression-splines-how-to-improve-on-linear-regression-e1e7a63c5eae)
+- [Locally Estimated Scatterplot Smoothing](https://towardsdatascience.com/loess-373d43b03564)
 - Classification
-  - k-nearest neighbor
-  - Support Vector Machines
-  - Decision Trees
-  - ID3 algorithm
-  - C4.5 algorithm
+  - [k-nearest neighbor](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+  - [Support Vector Machines](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+  - [Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
+  - [ID3 algorithm](https://www.linkedin.com/pulse/decision-tree-id3-algorithm-maths-behind-fenil-patel)
+  - [C4.5 algorithm](https://sumit-kr-sharma.medium.com/understanding-c4-5-decision-tree-algorithm-3bf0981faf4f)
 - Ensemble Learning
 - Boosting
 - Bagging
