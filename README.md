@@ -571,6 +571,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
+- [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download 
 
 #### Book Deals (Affiliated) 🛍
 
