@@ -211,7 +211,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Regression
 - [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 - [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares)
-- Logistic Regression
+- [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
 - Stepwise Regression
 - Multivariate Adaptive Regression Splines
 - Locally Estimated Scatterplot Smoothing
