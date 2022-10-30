@@ -221,11 +221,12 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)
   - ID3 algorithm
   - C4.5 algorithm
-- Ensemble Learning
-- Boosting
-- Bagging
-- Random Forest
-- AdaBoost
+- [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
+  - Boosting
+  - Stacking
+  - Bagging
+  - Random Forest
+  - AdaBoost
 
 #### Unsupervised Learning
 - Clustering
