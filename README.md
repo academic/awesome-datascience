@@ -234,8 +234,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - Fuzzy clustering
   - Mixture models
 - Dimension Reduction
-  - Principal Component Analysis (PCA)
-  - t-SNE
+  - [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+  - [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+  - [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
+  - [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 - Neural Networks
 - Self-organizing map
 - Adaptive resonance theory
