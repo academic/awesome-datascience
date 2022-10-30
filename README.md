@@ -228,9 +228,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - AdaBoost
 
 #### Unsupervised Learning
-- Clustering
-  - Hierchical clustering
-  - k-means
+- [Clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering)
+  - [Hierchical clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
+  - [k-means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+  - [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
   - Fuzzy clustering
   - Mixture models
 - Dimension Reduction
