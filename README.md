@@ -216,7 +216,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Multivariate Adaptive Regression Splines](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline)
 - Locally Estimated Scatterplot Smoothing
 - Classification
-  - k-nearest neighbor
+  - [k-nearest neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   - Support Vector Machines
   - Decision Trees
   - ID3 algorithm
