@@ -102,7 +102,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 ### Tutorials
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with ipyton.
+- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
@@ -166,7 +166,6 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
 - [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-- [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
 - [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera platform.
 - [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
 - [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
@@ -222,21 +221,26 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - [Decision Trees](https://scikit-learn.org/stable/modules/tree.html)
   - [ID3 algorithm](https://www.linkedin.com/pulse/decision-tree-id3-algorithm-maths-behind-fenil-patel)
   - [C4.5 algorithm](https://sumit-kr-sharma.medium.com/understanding-c4-5-decision-tree-algorithm-3bf0981faf4f)
-- Ensemble Learning
-- Boosting
-- Bagging
-- Random Forest
-- AdaBoost
+- [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
+  - Boosting
+  - Stacking
+  - Bagging
+  - Random Forest
+  - AdaBoost
+
 
 #### Unsupervised Learning
-- Clustering
-  - Hierchical clustering
-  - k-means
+- [Clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering)
+  - [Hierchical clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
+  - [k-means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+  - [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
   - Fuzzy clustering
   - Mixture models
 - Dimension Reduction
-  - Principal Component Analysis (PCA)
-  - t-SNE
+  - [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+  - [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+  - [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
+  - [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 - Neural Networks
 - Self-organizing map
 - Adaptive resonance theory
@@ -500,6 +504,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [envd](https://github.com/tensorchord/envd) | 🏕️ machine learning development environment for data science and AI/ML engineering teams |
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science) | A search engine 🔎 tool to discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources |
 | [MLEM](https://github.com/iterative/mlem) | 🐶 Version and deploy your ML models following GitOps principles |
+| [MLflow](https://mlflow.org/) | MLOps framework for managing ML models across their full lifecycle |
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -572,6 +577,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
+- [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download 
 
 #### Book Deals (Affiliated) 🛍
 
@@ -942,6 +948,7 @@ Some data mining competition platforms
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Academic Torrents](https://academictorrents.com/)
+- [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 - [United States Census Bureau](https://www.census.gov/)
