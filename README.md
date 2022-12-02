@@ -375,6 +375,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [amcharts](https://www.amcharts.com/)
 - [anychart](https://www.anychart.com/)
 - [bokeh](https://bokeh.org/)
+- [Comet](https://www.comet.com/site/products/ml-experiment-tracking/?utm_source=awesome-datascience)
 - [slemma](https://slemma.com/)
 - [cartodb](https://cartodb.github.io/odyssey.js/)
 - [Cube](https://square.github.io/cube/)
@@ -577,6 +578,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
 - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download 
+- [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430) 
 
 #### Book Deals (Affiliated) 🛍
 
