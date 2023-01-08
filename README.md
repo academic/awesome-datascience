@@ -505,6 +505,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science) | A search engine 🔎 tool to discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources |
 | [MLEM](https://github.com/iterative/mlem) | 🐶 Version and deploy your ML models following GitOps principles |
 | [MLflow](https://mlflow.org/) | MLOps framework for managing ML models across their full lifecycle |
+| [cleanlab](https://github.com/cleanlab/cleanlab) | A framework for data-centric AI and detecting various issues in ML datasets |
+| [AutoGluon](https://github.com/awslabs/autogluon) | AutoML for image, text, tabular, time-series, and multi-modal data. |
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
