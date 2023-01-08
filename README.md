@@ -506,7 +506,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [MLEM](https://github.com/iterative/mlem) | 🐶 Version and deploy your ML models following GitOps principles |
 | [MLflow](https://mlflow.org/) | MLOps framework for managing ML models across their full lifecycle |
 | [cleanlab](https://github.com/cleanlab/cleanlab) | Python library for data-centric AI and automatically detecting various issues in ML datasets |
-| [AutoGluon](https://github.com/awslabs/autogluon) | AutoML enabling you to easily achieve strong predictive performance for image, text, tabular, time-series, and multi-modal data |
+| [AutoGluon](https://github.com/awslabs/autogluon) | AutoML to easily produce accurate predictions for image, text, tabular, time-series, and multi-modal data |
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
