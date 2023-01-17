@@ -1040,6 +1040,7 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+- [Deep Learning Interview Questions](https://www.adaface.com/blog/deep-learning-interview-questions/)
 
 ### Hobby
 - [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
