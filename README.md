@@ -129,6 +129,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
 - [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
 - [Kaggle](https://www.kaggle.com/learn) - Learn about Data Science, Machine Learning, Python etc
+- [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
 
 
 ### MOOC's
@@ -507,6 +508,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [MLflow](https://mlflow.org/) | MLOps framework for managing ML models across their full lifecycle |
 | [cleanlab](https://github.com/cleanlab/cleanlab) | Python library for data-centric AI and automatically detecting various issues in ML datasets |
 | [AutoGluon](https://github.com/awslabs/autogluon) | AutoML to easily produce accurate predictions for image, text, tabular, time-series, and multi-modal data |
+| [Arize AI](https://arize.com/) | Arize AI community tier observability tool for monitoring machine learning models in production and root-causing issues such as data quality and performance drift. |
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
