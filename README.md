@@ -511,6 +511,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [AutoGluon](https://github.com/awslabs/autogluon) | AutoML to easily produce accurate predictions for image, text, tabular, time-series, and multi-modal data |
 | [Arize AI](https://arize.com/) | Arize AI community tier observability tool for monitoring machine learning models in production and root-causing issues such as data quality and performance drift. |
 | [Aureo.io](https://aureo.io) | Aureo.io is a low-code platform that focuses on building artificial intelligence. It provides users with the capability to create pipelines, automations and integrate them with artificial intelligence models – all with their basic data. |
+| [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
