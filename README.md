@@ -595,10 +595,13 @@ This section includes some additional reading material, channels to watch, and t
 - [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early access
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early access
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
+- [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) by David Mertz
 - [Dive into Deep Learning](https://d2l.ai/)
+- [Data for All](https://www.manning.com/books/data-for-all)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
 - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download 
 - [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430) 
+
 
 #### Book Deals (Affiliated) 🛍
 
