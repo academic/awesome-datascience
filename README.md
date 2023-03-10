@@ -143,6 +143,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Kaggle](https://www.kaggle.com/learn) - Learn about Data Science, Machine Learning, Python etc
 - [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
 - [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W&B
+- [Introduction to Python](https://globalaihub.com/courses/introduction-to-python/) - This course is brought to you by AI Business School with the contribution of Samsung SDS and Global AI Hub.
 
 ### MOOC's
 **[`^        back to top        ^`](#awesome-data-science)**
