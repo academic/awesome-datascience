@@ -603,6 +603,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
 - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download 
 - [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430) 
+- [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early access
 
 
 #### Book Deals (Affiliated) 🛍
