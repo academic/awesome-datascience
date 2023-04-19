@@ -183,6 +183,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera platform.
 - [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
 - [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
+- [Programming with Julia](https://www.udemy.com/course/programming-with-julia/)
 
 
 
@@ -917,7 +918,7 @@ Below are some Social Media links. Connect with other data scientists!
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
 | [WNYC Data News Team](https://twitter.com/datanews) | The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work. |
 | [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
-
+| [İlker Arslan](https://twitter.com/ilkerarslan_35) | Data science author. Shares mostly about Julia programming |
 
 ### Telegram Channels
 **[`^        back to top        ^`](#awesome-data-science)**
