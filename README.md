@@ -528,6 +528,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Arize AI](https://arize.com/) | Arize AI community tier observability tool for monitoring machine learning models in production and root-causing issues such as data quality and performance drift. |
 | [Aureo.io](https://aureo.io) | Aureo.io is a low-code platform that focuses on building artificial intelligence. It provides users with the capability to create pipelines, automations and integrate them with artificial intelligence models – all with their basic data. |
 | [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+| [Arize-Phoenix](https://docs.arize.com/phoenix) | MLOps in a notebook - uncover insights, surface problems, monitor, and fine tune your models. |
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
