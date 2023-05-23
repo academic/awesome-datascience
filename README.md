@@ -731,6 +731,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 - [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
 - [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
+- [Santiago Basulto](https://medium.com/@santiagobasulto) - Data Science with Python
 
 ### Presentations
 **[`^        back to top        ^`](#awesome-data-science)**
