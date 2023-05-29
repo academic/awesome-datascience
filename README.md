@@ -50,7 +50,7 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Newsletters](#newsletters)
   - [Bloggers](#bloggers)
   - [Presentations](#presentations)
-  - [Podcasts](#podcasts)]
+  - [Podcasts](#podcasts)
   - [YouTube Videos & Channels](#youtube-videos--channels)
 - [Socialize](#socialize)
   - [Facebook Accounts](#facebook-accounts)
