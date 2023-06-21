@@ -145,7 +145,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
 - [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W&B
 - [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - Start your journey to machine learning with Python, one of the most powerful programming languages.
-- [https://www.scaler.com/topics/course/python-for-data-science/] - This course is designed to empower beginners with the essential skills to excel in today's data-driven world. The comprehensive curriculum will give you a solid foundation in statistics, programming, data visualization, and machine learning.
+- [Python for Data Science by Scaler](https://www.scaler.com/topics/course/python-for-data-science/) - This course is designed to empower beginners with the essential skills to excel in today's data-driven world. The comprehensive curriculum will give you a solid foundation in statistics, programming, data visualization, and machine learning.
 
 ### MOOC's
 **[`^        back to top        ^`](#awesome-data-science)**
