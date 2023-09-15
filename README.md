@@ -535,6 +535,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Aureo.io](https://aureo.io) | Aureo.io is a low-code platform that focuses on building artificial intelligence. It provides users with the capability to create pipelines, automations and integrate them with artificial intelligence models – all with their basic data. |
 | [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 | [Arize-Phoenix](https://docs.arize.com/phoenix) | MLOps in a notebook - uncover insights, surface problems, monitor, and fine tune your models. |
+| [Comet](https://github.com/comet-ml/comet-examples) | An MLOps platform with experiment tracking, model production management, a model registry, and full data lineage to support your ML workflow from training straight through to production. |
+| [CometLLM](https://github.com/comet-ml/comet-llm) | Log, track, visualize, and search your LLM prompts and chains in one easy-to-use, 100% open-source tool. |
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
