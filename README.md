@@ -615,6 +615,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430) 
 - [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early access
 - [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - Early access
+- [An Introduction to Statistical Learning](https://www.statlearning.com/) - Download Page
 
 
 #### Book Deals (Affiliated) 🛍
