@@ -436,7 +436,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 | Link | Description |
 | --- | --- |
-| [Synthical](https://synthical.com) | AI-powered environment for Research |
 | [The Data Science Lifecycle Process](https://github.com/dslp/dslp) | The Data Science Lifecycle Process is a process for taking data science teams from Idea to Value repeatedly and sustainably. The process is documented in this repo  |
 | [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template) | Template repository for data science lifecycle project  |
 | [RexMex](https://github.com/AstraZeneca/rexmex) | A general purpose recommender metrics library for fair evaluation.  |
@@ -533,6 +532,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Aureo.io](https://aureo.io) | Aureo.io is a low-code platform that focuses on building artificial intelligence. It provides users with the capability to create pipelines, automations and integrate them with artificial intelligence models – all with their basic data. |
 | [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 | [Arize-Phoenix](https://docs.arize.com/phoenix) | MLOps in a notebook - uncover insights, surface problems, monitor, and fine tune your models. |
+| [Synthical](https://synthical.com) | AI-powered collaborative environment for research. Find relevant papers, create collections to manage bibliography, and summarize content — all in one place |
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
