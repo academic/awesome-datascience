@@ -228,6 +228,12 @@ This section is a collection of packages, tools, algorithms, and other useful it
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
+#### Three kinds of Machine Learning Systems
+
+- Based on training with human supervision
+- Based on learning incrementally on fly
+- Based on data points comparison and pattern detection
+  
 #### Supervised Learning
 
 - Regression
@@ -236,6 +242,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
 - [Stepwise Regression](https://en.wikipedia.org/wiki/Stepwise_regression)
 - [Multivariate Adaptive Regression Splines](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline)
+- [Softmax Regression](https://d2l.ai/chapter_linear-classification/softmax-regression.html)
 - Locally Estimated Scatterplot Smoothing
 - Classification
   - [k-nearest neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
