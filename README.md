@@ -625,7 +625,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early access
 - [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - Early access
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Download Page
-- [Machine Learning For Absolute Beginners](https://amzn.eu/d/9RkOcRF)
+- [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
 
 #### Book Deals (Affiliated) 🛍
 
