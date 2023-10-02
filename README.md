@@ -236,7 +236,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   
 #### Supervised Learning
 
-- Regression
+- [Regression](https://en.wikipedia.org/wiki/Regression)
 - [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 - [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares)
 - [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
@@ -251,10 +251,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - ID3 algorithm
   - C4.5 algorithm
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
-  - Boosting
+  - [Boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
   - Stacking
   - Bagging
-  - Random Forest
+  - [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
   - AdaBoost
 
 #### Unsupervised Learning
@@ -625,7 +625,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early access
 - [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - Early access
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Download Page
-
+- [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
 
 #### Book Deals (Affiliated) 🛍
 
@@ -750,6 +750,8 @@ This section includes some additional reading material, channels to watch, and t
 - [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
 - [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
 - [Santiago Basulto](https://medium.com/@santiagobasulto) - Data Science with Python
+- [Akhil Soni](https://medium.com/@akhil0435) - ML, DL and Data Science
+- [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science 
 
 ### Presentations
 **[`^        back to top        ^`](#awesome-data-science)**
