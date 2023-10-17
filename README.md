@@ -254,9 +254,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - [Boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
   - Stacking
-  - Bagging
+  - [Bagging](https://www.simplilearn.com/tutorials/machine-learning-tutorial/bagging-in-machine-learning)
   - [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
-  - AdaBoost
+  - [AdaBoost](https://www.analyticsvidhya.com/blog/2021/09/adaboost-algorithm-a-complete-guide-for-beginners/)
 
 #### Unsupervised Learning
 - [Clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering)
