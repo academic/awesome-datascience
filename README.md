@@ -249,8 +249,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - [k-nearest neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   - [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine)
   - [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)
-  - ID3 algorithm
-  - C4.5 algorithm
+  - [ID3 algorithm](https://en.wikipedia.org/wiki/ID3_algorithm)
+  - [C4.5 algorithm](https://en.wikipedia.org/wiki/C4.5_algorithm)
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - [Boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
   - Stacking
