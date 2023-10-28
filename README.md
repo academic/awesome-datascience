@@ -244,7 +244,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Stepwise Regression](https://en.wikipedia.org/wiki/Stepwise_regression)
 - [Multivariate Adaptive Regression Splines](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline)
 - [Softmax Regression](https://d2l.ai/chapter_linear-classification/softmax-regression.html)
-- Locally Estimated Scatterplot Smoothing
+- [Locally Estimated Scatterplot Smoothing](https://en.wikipedia.org/wiki/Local_regression)
 - Classification
   - [k-nearest neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   - [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine)
@@ -253,7 +253,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - [C4.5 algorithm](https://en.wikipedia.org/wiki/C4.5_algorithm)
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - [Boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
-  - Stacking
+  - [Stacking](https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python)
   - [Bagging](https://en.wikipedia.org/wiki/Bootstrap_aggregating)
   - [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
   - [AdaBoost](https://en.wikipedia.org/wiki/AdaBoost)
@@ -263,32 +263,32 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - [Hierchical clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
   - [k-means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
   - [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
-  - Fuzzy clustering
-  - Mixture models
+  - [Fuzzy clustering](https://en.wikipedia.org/wiki/Fuzzy_clustering)
+  - [Mixture models](https://en.wikipedia.org/wiki/Mixture_model)
 - Dimension Reduction
   - [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
   - [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
   - [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
   - [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 - [Neural Networks](https://en.wikipedia.org/wiki/Neural_network)
-- Self-organizing map
-- Adaptive resonance theory
-- Hidden Markov Models (HMM)
+- [Self-organizing map](https://en.wikipedia.org/wiki/Self-organizing_map)
+- [Adaptive resonance theory](https://en.wikipedia.org/wiki/Adaptive_resonance_theory)
+- [Hidden Markov Models (HMM)](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 
 #### Semi-Supervised Learning
 
 - S3VM
-- Clustering
-- Generative models
-- Low-density separation
-- Laplacian regularization
-- Heuristic approaches
+- [Clustering](https://en.wikipedia.org/wiki/Weak_supervision#Cluster_assumption)
+- [Generative models](https://en.wikipedia.org/wiki/Weak_supervision#Generative_models)
+- [Low-density separation](https://en.wikipedia.org/wiki/Weak_supervision#Low-density_separation)
+- [Laplacian regularization](https://en.wikipedia.org/wiki/Weak_supervision#Laplacian_regularization)
+- [Heuristic approaches](https://en.wikipedia.org/wiki/Weak_supervision#Heuristic_approaches)
 
 #### Reinforcement Learning
 
-- Q Learning
-- SARSA (State-Action-Reward-State-Action) algorithm
-- Temporal difference learning
+- [Q Learning](https://en.wikipedia.org/wiki/Q-learning)
+- [SARSA (State-Action-Reward-State-Action) algorithm](https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action)
+- [Temporal difference learning](https://en.wikipedia.org/wiki/Temporal_difference_learning#:~:text=Temporal%20difference%20(TD)%20learning%20refers,estimate%20of%20the%20value%20function.)
 
 #### Data Mining Algorithms
 
@@ -485,7 +485,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Data Mechanics](https://www.datamechanics.co) | A data science and engineering platform making Apache Spark more developer-friendly and cost-effective. |
 | [Caffe](https://caffe.berkeleyvision.org/) | Deep Learning Framework |
 | [Torch](https://torch.ch/) | A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT |
-| [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) |.  |
+| [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) | Intel® Nervana™ reference deep learning framework committed to best performance on all hardware. |
 | [Skale](https://github.com/skale-me/skale) | High performance distributed data processing in NodeJS |
 | [Aerosolve](https://airbnb.io/aerosolve/) | A machine learning package built for humans. |
 | [Intel framework](https://github.com/intel/idlf) | Intel® Deep Learning Framework |
@@ -493,7 +493,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Tensor Flow](https://www.tensorflow.org/) | TensorFlow is an Open Source Software Library for Machine Intelligence |
 | [Natural Language Toolkit](https://www.nltk.org/) | An introductory yet powerful toolkit for natural language processing and classification |
 | [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/) | Free End-to-End No-Code platform for text annotation and DL model training/tuning. Out-of-the-box support for Named Entity Recognition, Classification, Relation extraction and Assertion Status Spark NLP models. Unlimited support for users, teams, projects, documents. |
-| [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
+| [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | This module covers some basic nlp principles and implementations. The main focus is performance. When we deal with sample or training data in nlp, we quickly run out of memory. Therefore every implementation in this module is written as stream to only hold that data in memory that is currently processed at any step. |
 | [Julia](https://julialang.org) | high-level, high-performance dynamic programming language for technical computing |
 | [IJulia](https://github.com/JuliaLang/IJulia.jl) | a Julia-language backend combined with the Jupyter interactive environment |
 | [Apache Zeppelin](https://zeppelin.apache.org/) | Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more  |
@@ -541,7 +541,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [AutoGluon](https://github.com/awslabs/autogluon) | AutoML to easily produce accurate predictions for image, text, tabular, time-series, and multi-modal data |
 | [Arize AI](https://arize.com/) | Arize AI community tier observability tool for monitoring machine learning models in production and root-causing issues such as data quality and performance drift. |
 | [Aureo.io](https://aureo.io) | Aureo.io is a low-code platform that focuses on building artificial intelligence. It provides users with the capability to create pipelines, automations and integrate them with artificial intelligence models – all with their basic data. |
-| [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+| [ERD Lab](https://www.erdlab.io/) | Free cloud based entity relationship diagram (ERD) tool made for developers.
 | [Arize-Phoenix](https://docs.arize.com/phoenix) | MLOps in a notebook - uncover insights, surface problems, monitor, and fine tune your models. |
 | [Comet](https://github.com/comet-ml/comet-examples) | An MLOps platform with experiment tracking, model production management, a model registry, and full data lineage to support your ML workflow from training straight through to production. |
 | [CometLLM](https://github.com/comet-ml/comet-llm) | Log, track, visualize, and search your LLM prompts and chains in one easy-to-use, 100% open-source tool. |
@@ -831,6 +831,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
 - [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
+- [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
 
 ## Socialize
 **[`^        back to top        ^`](#awesome-data-science)**
