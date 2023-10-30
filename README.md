@@ -294,7 +294,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - C4.5
 - k-Means
-- SVM
+- [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)
 - Apriori
 - EM
 - PageRank
