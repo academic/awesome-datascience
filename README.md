@@ -265,7 +265,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
   - [Fuzzy clustering](https://en.wikipedia.org/wiki/Fuzzy_clustering)
   - [Mixture models](https://en.wikipedia.org/wiki/Mixture_model)
-- Dimension Reduction
+- [Dimension Reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction)
   - [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
   - [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
   - [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
