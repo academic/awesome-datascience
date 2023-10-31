@@ -366,6 +366,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [pyro](https://github.com/pyro-ppl/pyro)
 * [Catalyst](https://github.com/catalyst-team/catalyst)
 * [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
+* [YoloV3](https://github.com/ultralytics/yolov3)
+* [YoloV5](https://github.com/ultralytics/yolov5)
+* [YoloV8](https://github.com/ultralytics/ultralytics)
 
 #### TensorFlow Ecosystem
 * [TensorFlow](https://github.com/tensorflow/tensorflow)
