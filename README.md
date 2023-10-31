@@ -298,7 +298,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Apriori
 - EM
 - PageRank
-- AdaBoost
+- [AdaBoost](https://en.wikipedia.org/wiki/AdaBoost)
 - KNN
 - Naive Bayes
 - CART
