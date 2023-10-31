@@ -292,16 +292,18 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 #### Data Mining Algorithms
 
-- C4.5
-- k-Means
-- [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)
-- Apriori
-- EM
-- PageRank
-- AdaBoost
-- KNN
-- Naive Bayes
-- CART
+- [C4.5](https://en.wikipedia.org/wiki/C4.5_algorithm)
+- [k-Means](https://en.wikipedia.org/wiki/K-means_clustering)
+- [SVM (Support Vector Machine)](https://en.wikipedia.org/wiki/Support_vector_machine)
+- [Apriori](https://en.wikipedia.org/wiki/Apriori_algorithm)
+- [EM (Expectation-Maximization)](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm)
+- [PageRank](https://en.wikipedia.org/wiki/PageRank)
+- [AdaBoost](https://en.wikipedia.org/wiki/AdaBoost)
+- [KNN (K-Nearest Neighbors)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+- [CART (Classification and Regression Trees)](https://en.wikipedia.org/wiki/Decision_tree_learning)
+
+
 
 #### Deep Learning architectures
 
