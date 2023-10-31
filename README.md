@@ -300,7 +300,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - PageRank
 - AdaBoost
 - KNN
-- Naive Bayes
+- [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 - CART
 
 #### Deep Learning architectures
