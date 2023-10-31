@@ -293,7 +293,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 #### Data Mining Algorithms
 
 - C4.5
-- k-Means
+- [k-Means](https://en.wikipedia.org/wiki/K-means_clustering)
 - [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)
 - Apriori
 - EM
