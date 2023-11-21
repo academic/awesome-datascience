@@ -1100,7 +1100,7 @@ Some data mining competition platforms
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 - [Deep Learning Interview Questions](https://www.adaface.com/blog/deep-learning-interview-questions/)
 - [Top Future Trends in Data Science in 2023](https://medium.com/the-modern-scientist/top-future-trends-in-data-science-in-2023-3e616c8998b8)
-- [How Generative AI Is Changing Creative Work] (https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work)
+- [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work)
 - [What is generative AI?] (https://www.techtarget.com/searchenterpriseai/definition/generative-AI)
 
 ### Hobby
