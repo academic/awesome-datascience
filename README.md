@@ -433,6 +433,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Openrefine](https://openrefine.org/)
 - [plot.ly](https://plot.ly/)
 - [raw](https://rawgraphs.io)
+- [Resseract Lite](https://github.com/abistarun/resseract-lite)
 - [Seaborn](https://seaborn.pydata.org/)
 - [techanjs](https://techanjs.org/)
 - [Timeline](https://timeline.knightlab.com/)
