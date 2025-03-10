@@ -1130,6 +1130,7 @@ Some data mining competition platforms
 - [Top 13 Data Science Programming Languages](https://www.appliedaicourse.com/blog/data-science-programming-languages/)
 - [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
 - [Best Data Science Courses with Certificates](https://www.appliedaicourse.com/blog/best-data-science-courses/)
+- [Top 11 AI Tools for Data Analysis](https://www.scaler.com/blog/ai-tools-for-data-analysis/)
 
 
 ### Hobby
