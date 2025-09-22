@@ -1,0 +1,1 @@
+- [Deepnote](https://deepnote.com/) - A collaborative data science notebook designed for teams. It integrates with SQL, Python, and popular data science libraries, enabling real-time collaboration similar to Google Docs but for data workflows.
