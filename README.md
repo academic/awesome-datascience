@@ -72,8 +72,9 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
   - [Comics](#comics)
 - [Other Awesome Lists](#other-awesome-lists)
   - [Hobby](#hobby)
+- [🌏 Indonesian Resources](#indonesian-resources)
 
-## What is Data Science?
+ ## What is Data Science?
 **[`^        back to top        ^`](#awesome-data-science)**
 
 Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts.
@@ -1156,6 +1157,12 @@ Some data mining competition platforms
 
 ### Hobby
 - [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
+
+## 🌏 Indonesian Resources
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [Indonesia AI Academy](https://www.indonesiaai.org/) - Platform pembelajaran AI dalam Bahasa Indonesia
+- [Dicoding Indonesia](https://www.dicoding.com/learningpaths) - Kursus Data Science & Machine Learning berbahasa Indonesia
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YL0RV0E5XZ"></script>
