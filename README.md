@@ -699,6 +699,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Unifying Business, Data, and Code: Designing Data Products with JSON Schema](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/)
 - [Grokking Bayes](https://www.manning.com/books/grokking-bayes)
 - [Machine Learning Q and AI](https://sebastianraschka.com/books/ml-q-and-ai)
+- [DAX Reimagined](https://www.manning.com/books/dax-reimagined)
 
 #### Book Deals (Affiliated)
 
