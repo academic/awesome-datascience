@@ -1106,6 +1106,7 @@ Some data mining competition platforms
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 - [Hugging Face Datasets](https://huggingface.co/datasets)
+- [Vedika API](https://vedika.io/) - Vedic astrology API with AI chatbot for birth charts, horoscopes, planetary calculations, and Kundali matching. Free sandbox for data scientists.
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Public Big Data Sets](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
