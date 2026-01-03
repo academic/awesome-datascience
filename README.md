@@ -612,6 +612,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [ERD Lab](https://www.erdlab.io/) | Free cloud based entity relationship diagram (ERD) tool made for developers.
 | [Arize-Phoenix](https://docs.arize.com/phoenix) | MLOps in a notebook - uncover insights, surface problems, monitor, and fine tune your models. |
 | [Comet](https://github.com/comet-ml/comet-examples) | An MLOps platform with experiment tracking, model production management, a model registry, and full data lineage to support your ML workflow from training straight through to production. |
+| [Vedika API](https://vedika.io) | AI-powered Vedic astrology REST API with 108+ endpoints. |
 | [Opik](https://github.com/comet-ml/opik) | Evaluate, test, and ship LLM applications across your dev and production lifecycles. |
 | [Synthical](https://synthical.com) | AI-powered collaborative environment for research. Find relevant papers, create collections to manage bibliography, and summarize content — all in one place |
 | [teeplot](https://github.com/mmore500/teeplot) | Workflow tool to automatically organize data visualization output |
