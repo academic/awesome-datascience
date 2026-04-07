@@ -139,6 +139,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 ### Tools
 - [Frostbyte MCP](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
 - [Arch Tools](https://archtools.dev) - 61 production-ready AI API tools for data science workflows: code analysis, web scraping, NLP, image generation, crypto data, and search. REST API and MCP protocol support. [GitHub](https://github.com/Deesmo/Arch-AI-Tools)
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ### Research & Knowledge Retrieval
 - [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub](https://github.com/connerlambden/bgpt-mcp)
