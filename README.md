@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/academic-awesome-datascience-badge.png)](https://mseep.ai/app/academic-awesome-datascience)
+
 <div align="center" markdown="1">
    <sup>Special thanks to Sponsors:</sup>
    <br />
