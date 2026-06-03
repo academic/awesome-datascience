@@ -1133,6 +1133,7 @@ Some data mining competition platforms
 
 - [Academic Torrents](https://academictorrents.com/)
 - [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
+- [AI Career Threat Index](https://github.com/Jott2121/ai-career-threat-index) - Open dataset scoring 76 professions on AI displacement risk (0–100) across 10 categories, using a three-factor methodology (task-automation potential, AI-tool maturity, industry adoption). Includes quarterly time-series (Q1 2025–Q2 2026) and per-role task breakdowns. JSON and CSV formats. MIT licensed. Sources: O*NET, public AI benchmarks, employer surveys (BCG, Gallup, WEF, McKinsey), and BLS data.
 - [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
 - [Packrift Packaging Optimization Benchmark Corpus](https://packrift.github.io/packaging-optimization-benchmark-corpus/) - Public packaging product dataset generated from 1,000 exact-spec SKU records, with downloadable CSV and JSON files for ecommerce fulfillment and warehouse analysis.
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
