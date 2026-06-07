@@ -174,6 +174,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Top 100+ Data Science Interview Questions and Answers](https://www.appliedaicourse.com/blog/data-science-interview-questions/)
 - [DataDriven - SQL, Python, and Data Modeling Interview Questions](https://www.datadriven.io/)
 - [StepByStepML](https://www.stepbystepml.com) - Interactive calculator that visualizes the step-by-step manual math behind machine learning algorithms for exam prep.
+- [NumberCalcs](https://numbercalcs.com) - Free statistics calculators that show the full worked solution for every test (z-score, t-test, chi-square, confidence intervals) — built for students learning hypothesis testing.
 - [How to Build Optimal AI Agents That Actually Work](https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/) - A developer handbook on designing and building effective AI agents.
 
 ### Free Courses
