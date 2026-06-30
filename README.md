@@ -673,6 +673,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [AI for Database](https://aifordatabase.com) | Chat with your database in natural language — no SQL needed. Get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. |
 | [Crypto Pump Scanner](https://github.com/stefanoviana/deepalpha) | AI-powered cryptocurrency trading bot with LSTM neural network (84.6% accuracy). Real-time pump detection, walk-forward validated models, multi-exchange support (Bybit, Binance, OKX, Gate.io). Open source. |
 | [Future AGI](https://github.com/future-agi/future-agi) | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0. |
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Learned prompt compression that reduces LLM token costs by ~65% before inference. CPU-only, ~60ms latency, 100% oracle recall. Ideal for reducing inference costs in NLP pipelines.
 
 
 
