@@ -1276,3 +1276,6 @@ Some data mining competition platforms
 
 ### Hobby
 - [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
+
+- [FinAI Research Workflow](https://github.com/csmar432/finai-research) - End-to-end empirical-research pipeline (43 data sources, 47 econometric methods, 30 journal templates) for economics and finance.
+
