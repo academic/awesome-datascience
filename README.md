@@ -1103,8 +1103,8 @@ Some data mining competition platforms
 - [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link A premier source for financial, economic and alternative datasets.
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
-- [Hugging Face Datasets](https://huggingface.co/datasets)
 - [Helium News Bias Corpus](https://huggingface.co/datasets/HeliumTrades/helium-news-bias-corpus) - 212 news outlets × 37 framing dimensions (MIT); multi-axis media framing scores + free API.
+- [Hugging Face Datasets](https://huggingface.co/datasets)
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Public Big Data Sets](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
