@@ -1162,6 +1162,7 @@ Some data mining competition platforms
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 - [Hugging Face Datasets](https://huggingface.co/datasets)
+- [VC Deal Flow Signal](https://signals.gitdealflow.com/data/startup-signals) - GitHub commit velocity for 1,695 venture-backed startups across 20 sectors. Weekly refresh, CC BY 4.0.
 - [Japan Neighborhoods](https://japanneighborhoods.com) - English dataset of Tokyo crime statistics across 5,078 neighborhoods × 7 years (36,222 records, 2018-2024), sourced from Tokyo Metropolitan Police open data. Includes interactive crime map, safety grading, and cost-of-living index. CC BY licensed.
 - [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 - [Crime Brasil](https://crimebrasil.com.br) - Open-data platform for Brazilian crime statistics. Neighborhood-level in Rio Grande do Sul (2.99M incidents across 79,024 neighborhoods, 2022–2025), municipality-level for MG and RJ, plus national PRF highway and DATASUS interpersonal-violence data. Free REST API, CSV/Parquet, daily updates, CC BY 4.0.
