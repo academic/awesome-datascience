@@ -1284,3 +1284,6 @@ Some data mining competition platforms
 
 ### Hobby
 - [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
+
+https://github.com/SAHILKOKATE-099/employee-retention-ml.git
+[employee-retention-ml]
