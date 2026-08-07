@@ -1149,6 +1149,7 @@ Some data mining competition platforms
 - [College ROI Dataset](https://github.com/thomasthinks/college-roi-data) - Lifetime return-on-investment estimates for 29,700 US bachelor's programs across 3,392 colleges, built from FREOPP, IPEDS, and BEA regional price data. 5 CSVs with data dictionary, CC BY 4.0, Zenodo DOI.
 - [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
 - [Packrift Packaging Optimization Benchmark Corpus](https://packrift.github.io/packaging-optimization-benchmark-corpus/) - Public packaging product dataset generated from 1,000 exact-spec SKU records, with downloadable CSV and JSON files for ecommerce fulfillment and warehouse analysis.
+- [Gumroad Digital Product Market Data](https://sujeito-operator.github.io/gumroad-market-data/) - Marketplace snapshot of 8,325 Gumroad digital products from 4,545 sellers across 261 categories, with asking price, currency and rating count, plus publisher-disclosed unit sales for 202 listings (311,164 units). Four CSVs with data dictionaries, CC BY 4.0, Zenodo DOI.
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 - [United States Census Bureau](https://www.census.gov/)
