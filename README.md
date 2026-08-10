@@ -2,7 +2,7 @@
 
 # AWESOME DATA SCIENCE
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Contributions are welcome - see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
@@ -105,7 +105,7 @@ Data Science is one of the hottest topics on the Computer and Internet farmland 
 
 While not strictly necessary, having a programming language is a crucial skill to be effective as a data scientist. Currently, the most popular language is _Python_, closely followed by _R_. Python is a general-purpose scripting language that sees applications in a wide variety of fields. R is a domain-specific language for statistics, which contains a lot of common statistics tools out of the box.
 
-[Python](https://python.org/) is by far the most popular language in science, due in no small part to the ease at which it can be used and the vibrant ecosystem of user-generated packages. To install packages, there are two main methods: Pip (invoked as `pip install`), the package manager that comes bundled with Python, and [Anaconda](https://www.anaconda.com) (invoked as `conda install`), a powerful package manager that can install packages for Python, R, and can download executables like Git. 
+[Python](https://python.org/) is by far the most popular language in science, due in no small part to the ease at which it can be used and the vibrant ecosystem of user-generated packages. To install packages, there are two main methods: Pip (invoked as `pip install`), the package manager that comes bundled with Python, and [Anaconda](https://www.anaconda.com) (invoked as `conda install`), a powerful package manager that can install packages for Python, R, and can download executables like Git.
 
 Unlike R, Python was not built from the ground up with data science in mind, but there are plenty of third party libraries to make up for this. A much more exhaustive list of packages can be found later in this document, but these four packages are a good set of choices to start your data science journey with: [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a general-purpose data science package which implements the most popular algorithms - it also includes rich documentation, tutorials, and examples of the models it implements. Even if you prefer to write your own implementations, Scikit-Learn is a valuable reference to the nuts-and-bolts behind many of the common algorithms you'll find. With [Pandas](https://pandas.pydata.org/), one can collect and analyze their data into a convenient table format. [Numpy](https://numpy.org/) provides very fast tooling for mathematical operations, with a focus on vectors and matrices. [Seaborn](https://seaborn.pydata.org/), itself based on the [Matplotlib](https://matplotlib.org/) package, is a quick way to generate beautiful visualizations of your data, with many good defaults available out of the box, as well as a gallery showing how to produce many common visualizations of your data.
 
@@ -204,7 +204,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A free video series by Andrej Karpathy covering neural networks from scratch — backpropagation, makemore, GPT, and more.
 
 
-  
+
 ### MOOC's
 **[`^        back to top        ^`](#awesome-data-science)**
 
@@ -249,7 +249,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Data Science for Beginners - Learn with AI tutor](https://codekidz.ai/lesson-intro/data-science-368dbf)
 - [Machine Learning for Beginners - Learn with AI tutor](https://codekidz.ai/lesson-intro/machine-lear-36abfb)
 - [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science)
--[Getting Started with Python for Data Science](https://www.codecademy.com/learn/getting-started-with-python-for-data-science) 
+-[Getting Started with Python for Data Science](https://www.codecademy.com/learn/getting-started-with-python-for-data-science)
 - [Google Advanced Data Analytics Certificate](https://grow.google/data-analytics/) – Professional courses in data analysis, statistics, and machine learning fundamentals.
 - [Maschinelle Sprachgebrauchsanalyse - Grundlagen der Korpuslinguistik](https://www.twillo.de/edu-sharing/components/collections?id=e6ce03ae-4660-49b0-be10-dcc92e71e796) - course material on text-mining / corpus-linguistics *in German* funded by the federal state of North Rhine-Westphalia
 - [Programmieren für Germanist*innen](https://www.twillo.de/edu-sharing/components/collections?id=16bac749-f10e-483f-9020-5d6365b4e092) - course material: programming in python *in German* for digital humanities - funded by the federal state of North Rhine-Westphalia
@@ -752,8 +752,8 @@ This section includes some additional reading material, channels to watch, and t
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Data for All](https://www.manning.com/books/data-for-all)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
-- [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download 
-- [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430) 
+- [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download
+- [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430)
 - [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early Access
 - [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - Early Access
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Download Page
@@ -793,7 +793,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
 - [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications towards Data Science
-- [Maxim AI](https://getmaxim.ai). Tool for AI Agent Simulation, Evaluation & Observability. 
+- [Maxim AI](https://getmaxim.ai). Tool for AI Agent Simulation, Evaluation & Observability.
 - [8bitconcepts](https://8bitconcepts.com/) - AI industry research and analysis with papers on AI pricing, enterprise adoption, and evaluation frameworks.
 
 ### Newsletters
@@ -804,6 +804,7 @@ This section includes some additional reading material, channels to watch, and t
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 - [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).
 - [DiamantAI](https://diamantai.substack.com). Practical AI engineering and generative AI explained simply: RAG, agents, and LLM application patterns for builders.
+- [Bamboo Weekly](https://www.bambooweekly.com) - Weekly pandas exercises based on current events and real-world public data, with fully worked solutions. Issues older than two years are free, as are the first two questions + answers in current issues. [Archive](https://www.bambooweekly.com/archive/).
 
 ### Mailing lists
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -888,7 +889,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
 - [Santiago Basulto](https://medium.com/@santiagobasulto) - Data Science with Python
 - [Akhil Soni](https://medium.com/@akhil0435) - ML, DL and Data Science
-- [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science 
+- [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science
 - [Applied AI Blogs](https://www.appliedaicourse.com/blog/) - In-depth articles on AI, machine learning, and data science concepts with practical applications.
 - [Scaler Blogs](https://www.scaler.com/blog/) - Educational content on software development, AI, and career growth in tech.
 - [Mlu github](https://mlu-explain.github.io/) - Mlu is developed amazon to help people in ml space you can learn everything from basics here with live diagrams
