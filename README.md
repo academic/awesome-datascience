@@ -143,6 +143,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 - [Spraay x402 Gateway](https://docs.spraay.app/#cat-research) - x402 payment gateway with 23 Research & Reference endpoints for AI agents: Wikipedia, arXiv, PubMed, Wikidata, academic citation lookup, entity extraction, and more. Pay-per-call in USDC on Base & Solana — no API keys or subscriptions. Also serves 150+ endpoints across 39 categories including geospatial, AI inference, DeFi, and compute. [GitHub](https://github.com/plagtech)
 
 - [Suppr](https://suppr.wilddata.cn/) - AI literature search, document translation, and deep-research workspace for researchers.
+- [VeritasGraph](https://github.com/bibinprathap/VeritasGraph) - Enterprise GraphRAG framework with MCP server for building knowledge graphs from research papers and documents. Combines tree-search retrieval with typed entity relationships and verifiable source attribution. Designed for medical research, policy analysis, and air-gapped deployments. [PyPI](https://pypi.org/project/veritasgraph-mcp/)
 
 ### Workflow
 **[`^        back to top        ^`](#awesome-data-science)**
