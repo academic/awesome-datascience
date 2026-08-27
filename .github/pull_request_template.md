@@ -6,7 +6,7 @@ Describe what you added or changed.
 
 Select one option:
 
-- [ ] Fully open source: $1 one-time tip.
+- [ ] Fully open source.
 - [ ] Service or closed source: $1 monthly tip or $12 yearly tip.
 
 Kind note for service or closed source submissions:
