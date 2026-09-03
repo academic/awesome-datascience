@@ -1165,6 +1165,7 @@ Some data mining competition platforms
 - [The official portal for European data](https://data.europa.eu/en)
 - [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link A premier source for financial, economic and alternative datasets.
 - [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered tool that scores U.S. congressional STOCK Act trade disclosures by significance. Machine-scored signals from 537 lawmakers's public trade filings.
+- [SPZCO](https://spzco.com) - U.S. public-disclosure records browsable per stock and per filer: congressional STOCK Act trades, executive-branch OGE filings, 13F institutional holdings and Form 4 insider transactions, each row linked to its source filing.
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 - [Hugging Face Datasets](https://huggingface.co/datasets)
