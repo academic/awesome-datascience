@@ -977,6 +977,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Serrano.Academy](https://www.youtube.com/@SerranoAcademy)
 - [End to End Data Science Playlist](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
 - [Introduction to Data Science - Linkedin](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=42458916)
+- [AI Talks](https://aietalks.com/) - Searchable summaries and topic index for practical AI engineering talks and conference videos.
 
 ## Socialize
 **[`^        back to top        ^`](#awesome-data-science)**
