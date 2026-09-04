@@ -1155,6 +1155,7 @@ Some data mining competition platforms
 - [Pokemon Card Centering Measurements](https://github.com/rrh1441/pokemon-card-centering-measurements) - 320 measured PSA-style centering annotations (left/right and top/bottom border percentages, tilt) across 302 real eBay-listed Pokemon cards. CSV, CC BY 4.0, Zenodo DOI.
 - [Pokemon Card Sold-Price Reference by Grade](https://github.com/rrh1441/pokemon-card-sold-price-reference) - Median sold price by grade (raw, PSA 9, PSA 10) for 486 Pokemon cards, with sample size and confidence flag per card. CSV, CC BY 4.0, Zenodo DOI.
 - [Evidaxis Momentum Snapshots](https://evidaxis.org) - Weekly snapshots of public development and citation activity for open-source and research-native AI systems, content-addressed and byte-reproducible from public inputs. JSON and CSV per snapshot date, CC0, DOI 10.5281/zenodo.21076011.
+- [Robot Lawn Mower Specs](https://github.com/yumaheymans/robot-lawn-mower-specs) - Specifications, cited sources, and a 0-5 quality score for 23 robot lawn mowers across 9 brands (Segway, Mammotion, Ecovacs, Husqvarna, Worx). CSV with a documented methodology, no login, CC BY 4.0.
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 - [United States Census Bureau](https://www.census.gov/)
