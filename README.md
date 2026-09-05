@@ -436,6 +436,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [CatBoost](https://github.com/catboost/catboost)
 * [PerpetualBooster](https://github.com/perpetual-ml/perpetual)
 * [JAX](https://github.com/google/jax)
+* [PhilanthroPy](https://github.com/PhilanthroPy-Project/PhilanthroPy) - Scikit-learn native toolkit for nonprofit fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
 
 
 
