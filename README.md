@@ -1216,7 +1216,7 @@ Some data mining competition platforms
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
 - [IBB Open Portal](https://data.ibb.gov.tr/en/)
 - [The Humanitarian Data Exchange](https://data.humdata.org/)
-- [250k+ Job Postings](https://aws.amazon.com/marketplace/pp/prodview-p2554p3tczbes) - An expanding dataset of historical job postings from Luxembourg from 2020 to today. Free with 250k+ job postings hosted on AWS Data Exchange.
+- [TechRole Index Open Data](https://techrole.ru/open-data-daily) - Daily Russian IT vacancy publication metrics by profession, seniority, region, salary and currency, with JSON/CSV and machine-readable metadata.
 - [FinancialData.Net](https://financialdata.net/documentation) - Financial datasets (stock market data, financial statements, sustainability data, and more).
 - [HDD Price Index](https://github.com/AdamDudley/hddhunt-price-index) - Daily open dataset of the cheapest new internal 3.5" SATA hard-drive price per terabyte (USD/TB) by capacity tier on Amazon US, with a historical time series. CSV, JSON and JSONL, no login, CC BY 4.0.
 - [BDE Score](https://github.com/hbhqq9/bde-score) - AI-powered multi-market stock analysis with transparent BDE scoring across 73 stocks (US/HK/A-share). EU AI Act Art.50 compliant. MIT license.
