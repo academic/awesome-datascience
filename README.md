@@ -257,7 +257,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 
 ### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**
-
+- [Great Learning Data Science Programs](https://www.mygreatlearning.com/data-science/courses) - A collection of online data science and analytics certificate, postgraduate, and degree programs.
 - [S2DS](https://www.s2ds.org/)
 - [WorldQuant University Applied Data Science Lab](https://www.wqu.edu/adsl)
 
