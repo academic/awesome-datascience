@@ -1168,6 +1168,7 @@ Some data mining competition platforms
 - [The official portal for European data](https://data.europa.eu/en)
 - [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link A premier source for financial, economic and alternative datasets.
 - [Congressional Stock Brain](https://congressionalstockbrain.com) - Free AI-powered tool that scores U.S. congressional STOCK Act trade disclosures by significance. Machine-scored signals from 537 lawmakers's public trade filings.
+- [S&P 500 Earnings Announcement Times](https://github.com/quant500trading/sp500-earnings-announcement-times) - 63,969 S&P 500 earnings announcements from 808 companies (2003-2026), parsed from SEC 8-K item 2.02 filings, each with the announcement timestamp and the trading session it fell in. CC0, 16-column CSV, no account or API key.
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 - [Hugging Face Datasets](https://huggingface.co/datasets)
