@@ -1236,7 +1236,7 @@ Some data mining competition platforms
 - [ZipCheckup](https://github.com/artakulov/us-water-quality-data) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
 - [Helium](https://heliumtrades.com/mcp-page/) - Real-time news corpus with structured bias features across 15+ dimensions (3.2M+ articles, 5,000+ sources), live financial market data (stocks, ETFs, crypto) with AI-generated analysis, ML options pricing with probability metrics and full Greeks, historical options chain data for quantitative research; available via MCP server or REST API.
 - [Verified Supplement Evidence](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
-
+- [VPS Price Snapshot](https://github.com/jbbksam-ctrl/vpsticker-promo-radar/tree/main/dataset) - Published monthly and annual prices for VPS plans from 15 hosting providers, 30 offers per snapshot, each row keeping the source URL and fetch timestamp it was read from. Nothing estimated or hand-entered. JSON and CSV, CC0 1.0.
 
 ### Comics
 **[`^        back to top        ^`](#awesome-data-science)**
