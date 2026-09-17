@@ -205,6 +205,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
 - [Data Science Course By IBM](https://skillsbuild.org/students/course-catalog/data-science) - Free resources and learn what data science is and how it’s used in different industries.
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A free video series by Andrej Karpathy covering neural networks from scratch — backpropagation, makemore, GPT, and more.
+- [QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-datascience) - Short lessons with hands-on coding exercises and spaced repetition, covering Python, PyTorch, math for ML, ML foundations, NLP, and computer vision; the math track and the first unit of every track are free.
 
 
 
