@@ -558,7 +558,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) | A graph sampling library for NetworkX with a Scikit-Learn like API.  |
 | [Karate Club](https://github.com/benedekrozemberczki/karateclub) | An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API. |
 | [ML Workspace](https://github.com/ml-tooling/ml-workspace) | All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a Docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code) |
-| [csv-peek](https://github.com/CindyLiao1106/csv-peek) | Zero-dependency command line profiler for CSV/TSV files: column types, null rates, unique counts and duplicate rows. |
 | [xonsh shell](https://github.com/xonsh/xonsh) | A Python-powered shell that enables integration, management and orchestration of data science libraries mostly written in Python, allowing you to build pipelines, code and command-based workflows. It can also be used as a kernel for Jupyter Notebook.  |
 | [Neptune.ai](https://neptune.ai) | Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility. |
 | [steppy](https://github.com/minerva-ml/steppy) | Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design. |
@@ -687,6 +686,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [AI for Database](https://aifordatabase.com) | Chat with your database in natural language — no SQL needed. Get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. |
 | [Crypto Pump Scanner](https://github.com/stefanoviana/deepalpha) | AI-powered cryptocurrency trading bot with LSTM neural network (84.6% accuracy). Real-time pump detection, walk-forward validated models, multi-exchange support (Bybit, Binance, OKX, Gate.io). Open source. |
 | [Future AGI](https://github.com/future-agi/future-agi) | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0. |
+| [csv-peek](https://github.com/CindyLiao1106/csv-peek) | Zero-dependency command line profiler for CSV/TSV files: column types, null rates, unique counts and duplicate rows. |
 
 
 
