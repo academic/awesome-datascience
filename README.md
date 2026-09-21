@@ -52,8 +52,6 @@ Become a sponsor! `github@academic.io`
     - [Data Mining Algorithms](#data-mining-algorithms)
     - [Deep Learning Architectures](#deep-learning-architectures)
   - [General Machine Learning Packages](#general-machine-learning-packages)
-  - [Model Evaluation & Monitoring](#model-evaluation--monitoring)
-    - [Evidently AI](#evidently-ai)
   - [Deep Learning Packages](#deep-learning-packages)
     - [PyTorch Ecosystem](#pytorch-ecosystem)
     - [TensorFlow Ecosystem](#tensorflow-ecosystem)
