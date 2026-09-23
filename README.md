@@ -461,6 +461,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [Yolov3](https://github.com/ultralytics/yolov3)
 * [Yolov5](https://github.com/ultralytics/yolov5)
 * [Yolov8](https://github.com/ultralytics/ultralytics)
+* [OpenLanguageModel](https://github.com/openlanguagemodel/openlanguagemodel) - PyTorch-native library for building, training and teaching transformer language models, with architectures written as ordinary nn.Modules.
 
 #### TensorFlow Ecosystem
 * [TensorFlow](https://github.com/tensorflow/tensorflow)
