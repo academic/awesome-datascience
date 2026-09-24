@@ -541,6 +541,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. [github.com](https://github.com/TerryFYL/metareview)
 - [torchvista](https://github.com/sachinhosmani/torchvista) - Interactive notebook-based tool to visualize the forward pass of any PyTorch model.
 - [FlexViz](https://github.com/flex-analytics/flexviz) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
+- [cvdmaps](https://pypi.org/project/cvdmaps/) - Colorblind-safe colormaps and color cycles for matplotlib. matplotlib's default cycle is not colorblind-safe; one call swaps it for an Okabe-Ito palette verified under protanopia, deuteranopia and tritanopia.
 
 ### Miscellaneous Tools
 **[`^        back to top        ^`](#awesome-data-science)**
