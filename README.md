@@ -1238,6 +1238,7 @@ Some data mining competition platforms
 - [Helium](https://heliumtrades.com/mcp-page/) - Real-time news corpus with structured bias features across 15+ dimensions (3.2M+ articles, 5,000+ sources), live financial market data (stocks, ETFs, crypto) with AI-generated analysis, ML options pricing with probability metrics and full Greeks, historical options chain data for quantitative research; available via MCP server or REST API.
 - [Verified Supplement Evidence](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 - [WhatFontIs-Bench](https://github.com/whatfontis/WhatFontIs-Bench) - Synthetic benchmark for font family identification with 11,995 images of words set in 600 known fonts, annotated with word and per-letter boxes.
+- [TradeData Global Customs Benchmark](https://doi.org/10.5281/zenodo.22957312) - Standardized bilateral customs shipment and bill of lading benchmark dataset across 200+ countries, with reproducible open client SDKs and REST API access. CC BY 4.0, DOI 10.5281/zenodo.22957312.
 
 
 ### Comics
