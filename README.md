@@ -36,6 +36,7 @@ Become a sponsor! `github@academic.io`
 - [What is Data Science?](#what-is-data-science)
 - [Where do I Start?](#where-do-i-start)
 - [Agents](#agents)
+- [Projects](#projects)
 - [Training Resources](#training-resources)
   - [Tutorials](#tutorials)
   - [Free Courses](#free-courses)
@@ -150,6 +151,10 @@ This section contains agent frameworks and tools that are useful for data scienc
 **[`^        back to top        ^`](#awesome-data-science)**
 - [sim](https://sim.ai) - Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 
+## Projects
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [Synthetic Hospital](https://github.com/sparkcpark/synthetic_hospital) - A Medical Benchmark & EHR Simulation Platform
 
 ## Training Resources
 **[`^        back to top        ^`](#awesome-data-science)**
