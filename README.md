@@ -139,6 +139,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 - [Kitaru](https://github.com/zenml-io/kitaru) - Open-source platform that records real AI agent runs, replays them against changes, and evaluates outcomes before deployment.
 - [Jev Social](https://github.com/socai-io/jev-social) - Read-only social research agent that lets Jev choose bounded Instagram, TikTok, and LinkedIn operations, runs them through the local socai CLI in Chrome, and preserves source-linked evidence beside a cited report.
 - [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) - Open-source trusted-host experiment runner for historical agent tasks, supplied coding prompts, and workflows. Runs independent attempts with retained outputs, and compares models, harnesses, and configurations with different checks or judges later. MIT licensed.
+- [YYLO](https://github.com/yylo-dev/yylo) - Open-source command-line orchestrator for coding agents and repeatable workflows, with typed task, validation, merge, and release-readiness boundaries and receipt-backed repository changes. MIT licensed, installable via npm.
 
 ### Research & Knowledge Retrieval
 - [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub](https://github.com/connerlambden/bgpt-mcp)
