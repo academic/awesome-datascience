@@ -1161,6 +1161,7 @@ Some data mining competition platforms
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                 | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
 ### Datasets
+- [AptToSell South Korea Housing Subscription Reference Data](https://apttosell.com/housing-subscription-data/) - Versioned reference dataset for South Korea private-housing subscription score rules and regional/area deposit requirements. CSV and JSON, documented methodology, CC BY 4.0, Zenodo DOI.
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Academic Torrents](https://academictorrents.com/)
