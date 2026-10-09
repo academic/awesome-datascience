@@ -1253,6 +1253,7 @@ Some data mining competition platforms
 - [WhatFontIs-Bench](https://github.com/whatfontis/WhatFontIs-Bench) - Synthetic benchmark for font family identification with 11,995 images of words set in 600 known fonts, annotated with word and per-letter boxes.
 - [US Tariff Data](https://github.com/checkdutyrates/us-tariff-data) - The US Harmonized Tariff Schedule (about 30,000 lines with rates), chapter 99 additional duties by country (Section 301, 232 and others) and EU import duties by HS subheading and origin, refreshed with each HTS revision. CSV and JSON, no login, CC0 (US data) and OGL v3 (EU data), Zenodo DOI 10.5281/zenodo.23093989.
 - [Tour Group Headset and Loudspeaker Rules](https://huggingface.co/datasets/first-point/tour-group-headset-rules) - 198 written rules from 36 countries on how guided tour groups may be heard at museums, palaces, archaeological sites and historic city centres (headset requirements, loudspeaker bans), each checked against its official source. CSV and JSONL, CC-BY-4.0.
+- [VPS Price Snapshot](https://github.com/jbbksam-ctrl/vpsticker-promo-radar/tree/main/dataset) - Published monthly and annual prices for VPS plans from 15 hosting providers, 30 offers per snapshot, each row keeping the source URL and fetch timestamp it was read from. Nothing estimated or hand-entered. JSON and CSV, CC0 1.0.
 
 
 ### Comics
