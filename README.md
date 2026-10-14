@@ -561,6 +561,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template) | Template repository for data science lifecycle project  |
 | [TabGAN](https://github.com/Diyago/Tabular-data-generation) | Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with adversarial filtering and privacy metrics. |
 | [RexMex](https://github.com/AstraZeneca/rexmex) | A general purpose recommender metrics library for fair evaluation.  |
+| [OpenBacktesting](https://github.com/lucidcog/openbacktesting) | Single-asset historical strategy simulation with inspectable trades, pandas statistics, and parameter optimization. |
 | [ChemicalX](https://github.com/AstraZeneca/chemicalx) | A PyTorch based deep learning library for drug pair scoring.  |
 | [FileShot.io](https://github.com/FileShot/FileShotZKE) | Secure zero-knowledge encrypted file sharing (AES-256-GCM in-browser). No account required, MIT licensed, self-hostable, optional link expiry. |
 | [CorpusExplorer](https://corpusexplorer.de/) | Software for corpus linguists and text/data mining enthusiasts. Build your own corpora in over 60 languages. Use over 50 tools/visualizations.  |
