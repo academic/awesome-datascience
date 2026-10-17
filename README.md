@@ -159,6 +159,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 
 - [Synthetic Hospital](https://github.com/sparkcpark/synthetic_hospital) - A Medical Benchmark & EHR Simulation Platform
 - [Amazon Bestsellers Tracker](https://github.com/huynhtanan/amazon-bestsellers-tracker) - Open-source Python + SQLite tracker that snapshots Amazon Best Sellers across 17 country stores daily, with example SQL diff queries for rank jumps and new entries.
+| [NutriGraphAPI](https://nutrigraphapi.com/docs) | Nutritional, ingredient analysis, and food composition dataset API for health and data science applications |
 - [Walmart Deals Tracker](https://github.com/huynhtanan/walmart-deals-tracker) - Open-source Python + SQLite watcher for Walmart Rollback-only deals, with example SQL queries for price drops and first-party vs marketplace filtering.
 
 ## Training Resources
