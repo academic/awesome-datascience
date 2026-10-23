@@ -1265,6 +1265,7 @@ Some data mining competition platforms
 - [US Traffic Ticket Courts and Payment Portals](https://github.com/odebo/us-traffic-ticket-data) - Which court or agency handles a traffic citation in 54 US cities across 21 states, each with the court's own official payment or contest page (no third-party payment sites), fine notes, traffic-school eligibility and points rules. JSON, CSV and JSONL; CC0; no login.
 - [AI Crawler robots.txt Study](https://huggingface.co/datasets/desearch/ai-crawlers-robots-txt-study) - robots.txt policies of the Tranco top 10,000 domains (October 2026), one row per domain with rank band and whether AI training, AI search and user-triggered crawlers are named or blocked. CSV, CC BY 4.0.
 - [The Deploy Log](https://github.com/dotcomjack/the-deploy-log) - AI products, models and APIs that shipped and are available now: 1,663 rows from 124 companies (October 2026), each dated and linked to the publisher's own page, refreshed daily from [deployedbyai.com/log](https://deployedbyai.com/log/?k=awesome). CSV and JSON, CC BY 4.0, no login.
+- [vialaudit Peptide Certificate Data](https://vialaudit.com/data) - Research-peptide certificates of analysis checked against the issuing labs' own records: 1,828 Kovera certificates, 337 mirrored Janoshik reports, FDA warning letters naming retatrutide, and purity and fill by compound. CSV, CC BY 4.0, no login.
 
 
 ### Comics
