@@ -668,6 +668,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [MLEM](https://github.com/iterative/mlem) | 🐶 Version and deploy your ML models following GitOps principles |
 | [MLflow](https://mlflow.org/) | MLOps framework for managing ML models across their full lifecycle |
 | [cleanlab](https://github.com/cleanlab/cleanlab) | Python library for data-centric AI and automatically detecting various issues in ML datasets |
+| [LightlyStudio](https://github.com/lightly-ai/lightly-studio) | Python library with a local web app for analyzing image and video datasets and evaluating model predictions. |
 | [AutoGluon](https://github.com/awslabs/autogluon) | AutoML to easily produce accurate predictions for image, text, tabular, time-series, and multi-modal data |
 | [Arize AI](https://arize.com/) | Arize AI community tier observability tool for monitoring machine learning models in production and root-causing issues such as data quality and performance drift. |
 | [Aureo.io](https://aureo.io) | Aureo.io is a low-code platform that focuses on building artificial intelligence. It provides users with the capability to create pipelines, automations and integrate them with artificial intelligence models – all with their basic data. |
