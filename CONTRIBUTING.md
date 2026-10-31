@@ -49,9 +49,10 @@ PRs that don't follow the template are closed automatically, with a comment list
 ## Commercial and Promotional Links
 
 - Every PR must fill in the "Commercial / Promotional Disclosure" section of the PR template. Tick "None" if the contribution is non-commercial; otherwise tick each option that applies (marketing, paid service, sponsor tier, other) and explain it under "Disclosure details".
-- Open source projects are listed for free. If an open source project also offers a paid service (hosted/cloud version, paid tier, enterprise edition, paid support, etc.), its listing is promotion: tick "Paid service" in the disclosure and choose the paid option under "Payment Requirement".
+- Open source projects are listed for free only if they do no marketing and have no paid offering. If a project, open source or not, does marketing or earns money through its listing (lead generation, self-promotion, a funnel to a product or business, a hosted/cloud version, a paid tier, an enterprise edition, paid support, etc.), the listing is promotion and requires payment of $1/month or $12/year via [GitHub Sponsors](https://github.com/sponsors/hmert).
+- If you tick anything other than "None" in the disclosure, you must choose a paid option under "Payment Requirement" and add your payment reference (GitHub Sponsors username or transaction ID). Otherwise the PR is closed automatically.
 - The PR is labeled automatically based on what you tick.
-- PRs with undisclosed marketing, paid, or sponsorship links may be closed.
+- Listings found to do marketing or earn money without disclosure and payment are closed, or removed from the list if already merged.
 
 ## Code of Conduct
 
