@@ -1,20 +1,37 @@
+<!-- Fill in every section marked (Required) and tick every Checklist item. Pull requests that don't follow this template are closed automatically. -->
+
 ## Summary
 
 Describe what you added or changed.
 
-## Tip Requirement (Required)
+## Commercial / Promotional Disclosure (Required)
+
+Does this contribution or link do any of the following? Tick all that apply.
+
+- [ ] None - non-commercial, no promotional intent.
+- [ ] Marketing - lead generation, self-promotion, affiliate/referral links, signup or email capture, etc.
+- [ ] Paid service - requires payment, a subscription, or keeps core features behind a paid plan. This includes open source projects that offer a paid hosted, cloud, enterprise, or support plan.
+- [ ] Sponsor tier - the link points to a sponsorship, donation, or paid-tier page.
+- [ ] Other (define below)
+
+Disclosure details (required if anything other than "None" is ticked):
+
+<!-- Explain the commercial or promotional aspect -->
+
+## Payment Requirement (Required)
 
 Select one option:
 
-- [ ] Fully open source.
-- [ ] Service or closed source: $1 monthly tip or $12 yearly tip.
+- [ ] Fully open source with no paid offering - no payment required.
+- [ ] Open source with a paid service (hosted/cloud version, paid tier, enterprise edition, paid support, etc.) - $1 monthly payment or $12 yearly payment.
+- [ ] Service or closed source - $1 monthly payment or $12 yearly payment.
 
-Kind note for service or closed source submissions:
-Thank you for sharing your project. If this is a service or closed source offering, we kindly request a small support tip of $1/month or $12/year. This helps sustain review and maintenance work for the community.
+Note on paid listings:
+We support open source and list open source projects for free. If a project, open source or not, also offers a paid service, its listing is promotion and counts as a commercial placement. Commercial placements require a payment of $1/month or $12/year, which covers review and ongoing maintenance of the listing.
 
-Tip details/link: https://github.com/sponsors/hmert
+Payment link: https://github.com/sponsors/hmert
 
-<!-- Add URL or payment handle here -->
+<!-- Add your payment reference or handle here -->
 
 ## License Type (Required)
 
@@ -59,5 +76,6 @@ If Other, define your role:
 ## Checklist
 
 - [ ] I confirm the information above is accurate.
+- [ ] I have disclosed any marketing, paid service, or sponsorship intent above.
 - [ ] I have read `CONTRIBUTING.md` and followed the repository format.
 - [ ] I verified links and descriptions in my change.

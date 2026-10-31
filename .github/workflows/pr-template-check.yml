@@ -1,0 +1,177 @@
+name: PR template check
+on:
+  # Runs with a write token so it can label and close PRs from forks.
+  # Never check out or execute PR code in this workflow.
+  pull_request_target:
+    types: [opened, edited, reopened, synchronize]
+
+permissions:
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: pr-template-check-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  template:
+    name: PR template
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate template, sync labels, close if invalid
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const EXEMPT_ASSOCIATIONS = ['OWNER', 'MEMBER', 'COLLABORATOR'];
+            const EXEMPT_LABEL = 'skip-template-check';
+            const DISCLOSURE_OPTIONS = [
+              { key: 'none', prefix: 'none' },
+              { key: 'marketing', prefix: 'marketing', label: 'marketing', color: 'd93f0b', description: 'Link is marketing, lead generation, or self-promotion' },
+              { key: 'paid', prefix: 'paid service', label: 'paid-service', color: 'fbca04', description: 'Link is a paid service' },
+              { key: 'sponsor', prefix: 'sponsor tier', label: 'sponsor-tier', color: '5319e7', description: 'Link points to a sponsorship, donation, or paid-tier page' },
+              { key: 'other', prefix: 'other' },
+            ];
+
+            const pr = context.payload.pull_request;
+            const { owner, repo } = context.repo;
+            const issue_number = pr.number;
+
+            if (pr.state !== 'open') return;
+            if (pr.user.type === 'Bot' || EXEMPT_ASSOCIATIONS.includes(pr.author_association)) return;
+            if (pr.labels.some((l) => l.name === EXEMPT_LABEL)) return;
+
+            const body = (pr.body || '').replace(/\r\n/g, '\n').replace(/<!--[\s\S]*?-->/g, '');
+
+            const escapeRegExp = (s) => s.replace(/[.*+?^$()|[\]\\\/{}]/g, '\\$&');
+            const getSection = (title) => {
+              const heading = body.match(new RegExp('^##\\s+' + escapeRegExp(title) + '.*$', 'm'));
+              if (!heading) return null;
+              const rest = body.slice(heading.index + heading[0].length);
+              const next = rest.search(/^##\s/m);
+              return next === -1 ? rest : rest.slice(0, next);
+            };
+            const getCheckboxes = (section) => section
+              .split('\n')
+              .map((line) => line.match(/^\s*[-*]\s+\[([ xX])\]\s+(.*)$/))
+              .filter(Boolean)
+              .map((m) => ({ checked: m[1] !== ' ', text: m[2].trim().toLowerCase() }));
+            const isTicked = (boxes, prefix) => boxes.some((b) => b.checked && b.text.startsWith(prefix));
+            const getTextAfter = (section, marker) => {
+              const index = section.search(marker);
+              if (index === -1) return '';
+              return section.slice(index).split('\n').slice(1).join('\n').trim();
+            };
+
+            const errors = [];
+
+            const summary = getSection('Summary');
+            if (summary === null) {
+              errors.push('The "Summary" section is missing.');
+            } else if (!summary.replace('Describe what you added or changed.', '').trim()) {
+              errors.push('"Summary" is empty. Describe what you added or changed.');
+            }
+
+            const disclosure = getSection('Commercial / Promotional Disclosure');
+            const ticked = new Set();
+            if (disclosure === null) {
+              errors.push('The "Commercial / Promotional Disclosure" section is missing.');
+            } else {
+              const boxes = getCheckboxes(disclosure);
+              for (const option of DISCLOSURE_OPTIONS) {
+                if (isTicked(boxes, option.prefix)) ticked.add(option.key);
+              }
+              if (ticked.size === 0) {
+                errors.push('"Commercial / Promotional Disclosure": tick at least one option.');
+              } else if (ticked.has('none') && ticked.size > 1) {
+                errors.push('"Commercial / Promotional Disclosure": "None" cannot be ticked together with other options.');
+              } else if (!ticked.has('none') && !getTextAfter(disclosure, /^Disclosure details/m)) {
+                errors.push('"Commercial / Promotional Disclosure": explain the commercial or promotional aspect under "Disclosure details".');
+              }
+            }
+
+            const payment = getSection('Payment Requirement');
+            if (payment === null) {
+              errors.push('The "Payment Requirement" section is missing.');
+            } else if (getCheckboxes(payment).filter((b) => b.checked).length !== 1) {
+              errors.push('"Payment Requirement": tick exactly one option.');
+            }
+
+            const license = getSection('License Type');
+            if (license === null) {
+              errors.push('The "License Type" section is missing.');
+            } else {
+              const boxes = getCheckboxes(license);
+              if (!boxes.some((b) => b.checked)) {
+                errors.push('"License Type": tick the license of the project or resource.');
+              } else if (isTicked(boxes, 'other') && !getTextAfter(license, /^License details/m)) {
+                errors.push('"License Type": define the license under "License details".');
+              }
+            }
+
+            const relationship = getSection('Your Relationship to This Project');
+            if (relationship === null) {
+              errors.push('The "Your Relationship to This Project" section is missing.');
+            } else {
+              const boxes = getCheckboxes(relationship);
+              if (!boxes.some((b) => b.checked)) {
+                errors.push('"Your Relationship to This Project": tick at least one option.');
+              } else if (isTicked(boxes, 'other') && !getTextAfter(relationship, /^If Other, define your role/m)) {
+                errors.push('"Your Relationship to This Project": define your role.');
+              }
+            }
+
+            const checklist = getSection('Checklist');
+            if (checklist === null) {
+              errors.push('The "Checklist" section is missing.');
+            } else {
+              const boxes = getCheckboxes(checklist);
+              if (boxes.length === 0 || boxes.some((b) => !b.checked)) {
+                errors.push('"Checklist": tick every item.');
+              }
+            }
+
+            if (errors.length > 0) {
+              const blobUrl = `https://github.com/${owner}/${repo}/blob/${context.payload.repository.default_branch}`;
+              const comment = [
+                `Thanks for your contribution. This pull request was closed automatically because its description does not follow the [pull request template](${blobUrl}/.github/pull_request_template.md).`,
+                '',
+                'Problems found:',
+                ...errors.map((e) => `- ${e}`),
+                '',
+                `Update the description to fill in every required section, then reopen this pull request or open a new one. See [CONTRIBUTING.md](${blobUrl}/CONTRIBUTING.md) for details.`,
+              ].join('\n');
+              await github.rest.issues.createComment({ owner, repo, issue_number, body: comment });
+              await github.rest.pulls.update({ owner, repo, pull_number: issue_number, state: 'closed' });
+              core.setFailed(errors.join('\n'));
+              return;
+            }
+
+            for (const option of DISCLOSURE_OPTIONS.filter((o) => o.label)) {
+              if (ticked.has(option.key)) {
+                try {
+                  await github.rest.issues.getLabel({ owner, repo, name: option.label });
+                } catch (error) {
+                  if (error.status !== 404) throw error;
+                  try {
+                    await github.rest.issues.createLabel({
+                      owner,
+                      repo,
+                      name: option.label,
+                      color: option.color,
+                      description: option.description,
+                    });
+                  } catch (createError) {
+                    if (createError.status !== 422) throw createError;
+                  }
+                }
+                await github.rest.issues.addLabels({ owner, repo, issue_number, labels: [option.label] });
+              } else {
+                try {
+                  await github.rest.issues.removeLabel({ owner, repo, issue_number, name: option.label });
+                } catch (error) {
+                  if (error.status !== 404) throw error;
+                }
+              }
+            }
+
+            core.info(`Template OK. Disclosure: ${[...ticked].join(', ')}`);
