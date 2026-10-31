@@ -22,8 +22,9 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
+            const MAINTAINERS = ['hmert'];
             const EXEMPT_ASSOCIATIONS = ['OWNER', 'MEMBER', 'COLLABORATOR'];
-            const EXEMPT_LABEL = 'skip-template-check';
+            const EXEMPT_LABEL = { label: 'skip-template-check', color: 'ededed', description: 'Template check disabled by a maintainer' };
             const DISCLOSURE_OPTIONS = [
               { key: 'none', prefix: 'none' },
               { key: 'marketing', prefix: 'marketing', label: 'marketing', color: 'd93f0b', description: 'Link is marketing, lead generation, or self-promotion' },
@@ -39,9 +40,30 @@ jobs:
             const { owner, repo } = context.repo;
             const issue_number = pr.number;
 
+            const addLabel = async ({ label, color, description }) => {
+              try {
+                await github.rest.issues.getLabel({ owner, repo, name: label });
+              } catch (error) {
+                if (error.status !== 404) throw error;
+                try {
+                  await github.rest.issues.createLabel({ owner, repo, name: label, color, description });
+                } catch (createError) {
+                  if (createError.status !== 422) throw createError;
+                }
+              }
+              await github.rest.issues.addLabels({ owner, repo, issue_number, labels: [label] });
+            };
+
             if (pr.state !== 'open') return;
             if (pr.user.type === 'Bot' || EXEMPT_ASSOCIATIONS.includes(pr.author_association)) return;
-            if (pr.labels.some((l) => l.name === EXEMPT_LABEL)) return;
+            if (pr.labels.some((l) => l.name === EXEMPT_LABEL.label)) return;
+
+            const sender = context.payload.sender.login;
+            if (context.payload.action === 'reopened' && MAINTAINERS.includes(sender.toLowerCase())) {
+              await addLabel(EXEMPT_LABEL);
+              core.info(`Reopened by ${sender}; template check disabled for this PR.`);
+              return;
+            }
 
             const body = (pr.body || '').replace(/\r\n/g, '\n').replace(/<!--[\s\S]*?-->/g, '');
 
@@ -168,23 +190,7 @@ jobs:
             ];
             for (const option of managedLabels) {
               if (option.active) {
-                try {
-                  await github.rest.issues.getLabel({ owner, repo, name: option.label });
-                } catch (error) {
-                  if (error.status !== 404) throw error;
-                  try {
-                    await github.rest.issues.createLabel({
-                      owner,
-                      repo,
-                      name: option.label,
-                      color: option.color,
-                      description: option.description,
-                    });
-                  } catch (createError) {
-                    if (createError.status !== 422) throw createError;
-                  }
-                }
-                await github.rest.issues.addLabels({ owner, repo, issue_number, labels: [option.label] });
+                await addLabel(option);
               } else {
                 try {
                   await github.rest.issues.removeLabel({ owner, repo, issue_number, name: option.label });
