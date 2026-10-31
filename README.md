@@ -177,6 +177,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
 - [DataCamp Cheatsheets](https://www.datacamp.com/cheat-sheet) Cheatsheets for data science.
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
+- [Steam Review Score Scope Checklist](https://github.com/LMSlay/tubetext-examples/blob/main/recipes/steam-review-score-scope-checklist.md) - A static guide to comparing review scores and selected samples using explicit language, time-window, filter and denominator checks.
 - [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 - [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
