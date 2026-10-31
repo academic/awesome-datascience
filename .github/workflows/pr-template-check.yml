@@ -31,6 +31,9 @@ jobs:
               { key: 'sponsor', prefix: 'sponsor tier', label: 'sponsor-tier', color: '5319e7', description: 'Link points to a sponsorship, donation, or paid-tier page' },
               { key: 'other', prefix: 'other' },
             ];
+            const FREE_PAYMENT_PREFIX = 'fully open source';
+            const PAYMENT_URL = 'https://github.com/sponsors/hmert';
+            const PAID_LISTING_LABEL = { label: 'paid-listing', color: '0e8a16', description: 'Listing requires payment; verify it before merging' };
 
             const pr = context.payload.pull_request;
             const { owner, repo } = context.repo;
@@ -90,10 +93,23 @@ jobs:
             }
 
             const payment = getSection('Payment Requirement');
+            let paidListing = false;
             if (payment === null) {
               errors.push('The "Payment Requirement" section is missing.');
-            } else if (getCheckboxes(payment).filter((b) => b.checked).length !== 1) {
-              errors.push('"Payment Requirement": tick exactly one option.');
+            } else {
+              const selected = getCheckboxes(payment).filter((b) => b.checked);
+              if (selected.length !== 1) {
+                errors.push('"Payment Requirement": tick exactly one option.');
+              } else {
+                paidListing = !selected[0].text.startsWith(FREE_PAYMENT_PREFIX);
+                const commercial = [...ticked].some((key) => key !== 'none');
+                if (commercial && !paidListing) {
+                  errors.push('"Payment Requirement": your disclosure shows this listing does marketing or earns money, so choose a paid option. Only fully open source projects with no marketing and no paid offering are listed for free.');
+                }
+                if (paidListing && !getTextAfter(payment, /^Payment reference/m)) {
+                  errors.push(`"Payment Requirement": pay at ${PAYMENT_URL} and add your GitHub Sponsors username or transaction ID under "Payment reference".`);
+                }
+              }
             }
 
             const license = getSection('License Type');
@@ -146,8 +162,12 @@ jobs:
               return;
             }
 
-            for (const option of DISCLOSURE_OPTIONS.filter((o) => o.label)) {
-              if (ticked.has(option.key)) {
+            const managedLabels = [
+              ...DISCLOSURE_OPTIONS.filter((o) => o.label).map((o) => ({ ...o, active: ticked.has(o.key) })),
+              { ...PAID_LISTING_LABEL, active: paidListing },
+            ];
+            for (const option of managedLabels) {
+              if (option.active) {
                 try {
                   await github.rest.issues.getLabel({ owner, repo, name: option.label });
                 } catch (error) {
