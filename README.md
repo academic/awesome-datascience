@@ -1,4 +1,4 @@
-<div align="center"><img src="./assets/head.jpg"></div>
+﻿<div align="center"><img src="./assets/head.jpg"></div>
 
 # AWESOME DATA SCIENCE
 
@@ -702,6 +702,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 
+* [PredictorLab](https://github.com/MarkIvor/predictorlab) - Self-hosted tabular ML: leakage guard, conformal intervals, profit-optimized thresholds, counterfactuals, drift monitoring. Docker, REST API, MCP server. MIT.
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
 
