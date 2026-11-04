@@ -1122,6 +1122,7 @@ Some data mining competition platforms
 ### Datasets
 **[`^        back to top        ^`](#awesome-data-science)**
 
+- [Boltshorts Mobile Games Data](https://github.com/phescobbar/mobile-games-data) - Store facts for ~8,000 iPhone and Android games from the US App Store and Google Play: ratings, downloads, prices, ads and in-app purchase labels, download sizes and chart positions, with dated snapshots. CSV, CC BY 4.0.
 - [WhatFontIs-Bench](https://github.com/whatfontis/WhatFontIs-Bench) - Synthetic benchmark for font family identification with 11,995 images of words set in 600 known fonts, annotated with word and per-letter boxes.
 - [Academic Torrents](https://academictorrents.com/)
 - [ADS-B Exchange](https://www.adsbexchange.com/data-products/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
