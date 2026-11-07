@@ -1272,3 +1272,5 @@ Some data mining competition platforms
 
 ### Hobby
 - [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID across 99 languages, Zero Cloud privacy ($0/month subscription), Google Native OKF Markdown Wiki, and native MCP/CLI integration ([GitHub](https://github.com/onemira-space/onemira-mcp)).
