@@ -172,6 +172,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 
 - [Machine Learning 101](https://machinelearning101.com) - Free browser-based platform that teaches core machine learning algorithms through hands-on, interactive visualizations with no setup.
 - [AI Engineer Interview Prep](https://github.com/landedjobs/awesome-ai-engineer-interview) - 267 AI engineer interview questions with answers, 10 worked system designs, and 12 company loop guides.
+- [TensorTonic](https://www.tensortonic.com/problems) - Browser-based ML coding problems where you implement algorithms from scratch and check them against tests.
 - [Skillancy SQL Compiler](https://skillancy.in/tools/sql-compiler) - A browser-based PostgreSQL playground with a sample schema and interview-style practice queries.
 - [Skillancy Python Compiler](https://skillancy.in/tools/python-compiler) - A browser-based Python environment with NumPy and Pandas for data analysis practice.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) - A weekly data project aimed at the R ecosystem.
