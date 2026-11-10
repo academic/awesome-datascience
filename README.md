@@ -592,7 +592,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Wolfram Data Science Platform](https://www.wolfram.com/data-science-consulting/) | Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generate rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language. |
 | [Datadog](https://www.datadoghq.com/) | Solutions, code, and devops for high-scale data science. |
 | [Variance](https://variancecharts.com/) | Build powerful data visualizations for the web without writing JavaScript |
-| [Kite Development Kit](https://kitesdk.org/docs/current/index.html) | The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem. |
+| [Kite Development Kit](http://kitesdk.org/docs/current/index.html) | The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem. |
 | [Domino Data Labs](https://domino.ai/) | Run, scale, share, and deploy your models — without any infrastructure or setup. |
 | [Apache Flink](https://flink.apache.org/) | A platform for efficient, distributed, general-purpose data processing. |
 | [Apache Hama](https://hama.apache.org/) | Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce. |
@@ -637,7 +637,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Dask](https://www.dask.org/) | An open source Python library to painlessly transition your analytics code to distributed computing systems (Big Data) |
 | [DuckDB](https://github.com/duckdb/duckdb) | An in-process SQL OLAP database management system |
 | [Statsmodels](https://www.statsmodels.org/stable/index.html) | A Python-based inferential statistics, hypothesis testing and regression framework |
-| [Gensim](https://radimrehurek.com/gensim/) | An open-source library for topic modeling of natural language text |
+| [Gensim](https://github.com/piskvorky/gensim) | An open-source library for topic modeling of natural language text |
 | [spaCy](https://spacy.io/) | A performant natural language processing toolkit |
 | [Grid Studio](https://github.com/ricklamers/gridstudio) | Grid studio is a web-based spreadsheet application with full integration of the Python programming language. |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|
@@ -951,14 +951,12 @@ This section includes some additional reading material, channels to watch, and t
 - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 - [Data36 - Data Science for Beginners by Tomi Mester](https://www.youtube.com/c/TomiMesterData36comDataScienceForBeginners)
 - [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M)
-- [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc)
 - [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
 - [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
 - [CampusX](https://www.youtube.com/@campusx-official)
 - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
 - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
 - [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-- [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
 - [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
 - [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
 - [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
