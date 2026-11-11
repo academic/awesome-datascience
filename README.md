@@ -699,6 +699,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Crypto Pump Scanner](https://github.com/stefanoviana/deepalpha) | AI-powered cryptocurrency trading bot with LSTM neural network (84.6% accuracy). Real-time pump detection, walk-forward validated models, multi-exchange support (Bybit, Binance, OKX, Gate.io). Open source. |
 | [Future AGI](https://github.com/future-agi/future-agi) | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0. |
 | [ipynbtopdf](https://ipynbtopdf.xyz/) | Browser-based Jupyter notebook viewer and exporter that converts `.ipynb` notebooks to PDF, HTML, and Python without installing Python or TeX. |
+| [Datinium](https://datinium.com/) | Privacy-respecting, zero-setup dataset workbench for your desktop. Process locally (load or design datasets, store, tidy, query, sample, & get stats) or reach out to the cloud when you need (sync, share, & API-ify). With non-intrusive AI-assist. |
 
 
 
