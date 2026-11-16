@@ -1118,6 +1118,8 @@ Some data mining competition platforms
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                 | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
 ### Datasets
+- [openradar research dataset](https://openradar.fun/research) - Live and monthly frozen pay medians for IT jobs and freelance orders (CC BY 4.0), with methodology and CSV/JSON downloads.
+
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [WhatFontIs-Bench](https://github.com/whatfontis/WhatFontIs-Bench) - Synthetic benchmark for font family identification with 11,995 images of words set in 600 known fonts, annotated with word and per-letter boxes.
