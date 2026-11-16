@@ -142,6 +142,8 @@ This section contains agent frameworks and tools that are useful for data scienc
 - [YYLO Ledger](https://github.com/yylo-dev/yylo-ledger) - Command-line task and workflow ledger for coding-agent projects: stores the Kanban board and task state as hash-chained Markdown inside the repository, tracks receipts and archives, and drives typed merge and release flows across agent worktrees. MIT licensed.
 
 ### Research & Knowledge Retrieval
+
+- [HumanPen](https://humanpen.net) - Research Projects platform for scoping, credit-quoted planning, data analysis/literature organization, review, and file/code/chart delivery with optional budget-capped autonomy, A2A 1.0 & REST API (100 signup credits; commercial credit-based; prohibits ghostwriting coursework/theses/papers for submission).
 - [BGPT MCP](https://bgpt.pro/mcp/) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores.
 - [Chunk Tuner](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python library and MCP server to benchmark document chunking strategies for RAG, score retrieval quality, and recommend configurations for a corpus.
 - [II-Commons](https://github.com/Intelligent-Internet/II-Commons-Skills) - Daily-updated skill and CLI for deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora.
