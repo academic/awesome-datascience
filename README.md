@@ -21,6 +21,8 @@ $ brew install academic
 
 ## Sponsors
 
+[![Hangar: run AI coding agents in a macOS, Linux or Windows VM on your Mac](https://raw.githubusercontent.com/baseguard/hangar/main/docs/assets/banner.gif)](https://hangar.bot/?utm_source=github&utm_medium=sponsorship&utm_campaign=hangar_launch&utm_content=awesome_datascience_banner)
+
 [![Creavit Studio: recording, editing, and motion in one app](https://raw.githubusercontent.com/creavit-studio/files/refs/heads/main/static/crvt-banner.png)](https://creavit.studio/?utm_source=github&utm_medium=sponsorship&utm_campaign=creavit_founding_alpha&utm_content=crvt_banner)
 
 [![Graphyn: visualize specialized agent workflows](https://raw.githubusercontent.com/fuego-wtf/graphyn-code/main/assets/graphyn-agent-workflows.png)](https://graphyn.ai/?utm_source=github&utm_medium=sponsorship&utm_campaign=graphyn_founding_alpha&utm_content=awesome_datascience_banner)
