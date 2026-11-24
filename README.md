@@ -863,7 +863,8 @@ This section includes some additional reading material, channels to watch, and t
 - [Data-Magnum](https://data-magnum.com/)
 - [Digital transformation](https://www.tarrysingh.com/)
 - [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
-- [Data Mania Blog](https://www.data-mania.com/blog/) - [The File Drawer](https://chris-said.io/) - Chris Said's science blog
+- [Data Mania Blog](https://www.data-mania.com/blog/)
+- [The File Drawer](https://chris-said.io/) - Chris Said's science blog
 - [Emilio Ferrara's web page](https://www.emilio.ferrara.name/)
 - [DataNews](https://datanews.tumblr.com/)
 - [Reddit TextMining](https://www.reddit.com/r/textdatamining/)
