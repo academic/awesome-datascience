@@ -764,7 +764,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) - Early Access
 - [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early Access
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early Access
-- [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early Access
+- [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science) - Early Access
 - [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) by David Mertz
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Data for All](https://www.manning.com/books/data-for-all)
