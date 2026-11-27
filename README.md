@@ -1263,6 +1263,7 @@ Some data mining competition platforms
 - [Best Data Science Courses with Certificates](https://www.appliedaicourse.com/blog/best-data-science-courses/)
 - [Generative AI Models](https://www.appliedaicourse.com/blog/generative-ai-models/)
 - [Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) -  A curated list of data analysis tools, libraries and resources.
+- [Awesome Human-Agent Collaboration in Data Science](https://github.com/JJYDXFS-Lab/awesome-human-agent-collaboration-in-data-science) - A living survey tracking papers and benchmarks on human-agent collaboration in data science from computer science research.
 - [Awesome Evidence Synthesis](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis) - A curated list of open-source tools for systematic reviews, meta-analysis, and evidence synthesis.
 - [Awesome Python Math Packages](https://github.com/VascoSch92/awesome-python-math-packages) - A curated list of Python packages for mathematics, from linear algebra and optimization to statistics and topology.
 - [AI Dev Jobs](https://aidevboard.com/) - Job board focused on AI/ML engineering roles with 5,400+ listings and a free REST API.
